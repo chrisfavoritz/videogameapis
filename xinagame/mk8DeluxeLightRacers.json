@@ -1,0 +1,18 @@
+{
+  "items": [
+    {"name": "Toad", "img": "placeholder"},
+    {"name": "Koopa Troopa", "img": "placeholder"},
+    {"name": "Shy Guy", "img": "placeholder"},
+    {"name": "Baby Mario", "img": "placeholder"},
+    {"name": "Baby Luigi", "img": "placeholder"},
+    {"name": "Baby Peach", "img": "placeholder"},
+    {"name": "Baby Daisy", "img": "placeholder"},
+    {"name": "Lakitu", "img": "placeholder"},
+    {"name": "Toadette", "img": "placeholder"},
+    {"name": "Baby Rosalina", "img": "placeholder"},
+    {"name": "Lemmy Koopa", "img": "placeholder"},
+    {"name": "Larry Koopa", "img": "placeholder"},
+    {"name": "Wendy O. Koopa", "img": "placeholder"},
+    {"name": "Isabelle", "img": "placeholder"}
+  ]
+}
