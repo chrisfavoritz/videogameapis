@@ -1,0 +1,259 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "name": "Zombie",
+      "img": "placeholder"
+    },
+    {
+      "id": 2,
+      "name": "Skeleton",
+      "img": "placeholder"
+    },
+    {
+      "id": 3,
+      "name": "Creeper",
+      "img": "placeholder"
+    },
+    {
+      "id": 4,
+      "name": "Spider",
+      "img": "placeholder"
+    },
+    {
+      "id": 5,
+      "name": "Silverfish",
+      "img": "placeholder"
+    },
+    {
+      "id": 6,
+      "name": "Blaze",
+      "img": "placeholder"
+    },
+    {
+      "id": 7,
+      "name": "Magma Cube",
+      "img": "placeholder"
+    },
+    {
+      "id": 8,
+      "name": "Endermite",
+      "img": "placeholder"
+    },
+    {
+      "id": 9,
+      "name": "Witch",
+      "img": "placeholder"
+    },
+    {
+      "id": 10,
+      "name": "Stray",
+      "img": "placeholder"
+    },
+    {
+      "id": 11,
+      "name": "Husk",
+      "img": "placeholder"
+    },
+    {
+      "id": 12,
+      "name": "Drowned",
+      "img": "placeholder"
+    },
+    {
+      "id": 13,
+      "name": "Pillager",
+      "img": "placeholder"
+    },
+    {
+      "id": 14,
+      "name": "Vindicator",
+      "img": "placeholder"
+    },
+    {
+      "id": 15,
+      "name": "Evoker",
+      "img": "placeholder"
+    },
+    {
+      "id": 16,
+      "name": "Vex",
+      "img": "placeholder"
+    },
+    {
+      "id": 17,
+      "name": "Ravager",
+      "img": "placeholder"
+    },
+    {
+      "id": 18,
+      "name": "Phantom",
+      "img": "placeholder"
+    },
+    {
+      "id": 19,
+      "name": "Hoglin",
+      "img": "placeholder"
+    },
+    {
+      "id": 20,
+      "name": "Piglin",
+      "img": "placeholder"
+    },
+    {
+      "id": 21,
+      "name": "Piglin Brute",
+      "img": "placeholder"
+    },
+    {
+      "id": 22,
+      "name": "Zombified Piglin",
+      "img": "placeholder"
+    },
+    {
+      "id": 23,
+      "name": "Ghast",
+      "img": "placeholder"
+    },
+    {
+      "id": 24,
+      "name": "Wither Skeleton",
+      "img": "placeholder"
+    },
+    {
+      "id": 25,
+      "name": "Shulker",
+      "img": "placeholder"
+    },
+    {
+      "id": 26,
+      "name": "Guardian",
+      "img": "placeholder"
+    },
+    {
+      "id": 27,
+      "name": "Elder Guardian",
+      "img": "placeholder"
+    },
+    {
+      "id": 28,
+      "name": "Slime",
+      "img": "placeholder"
+    },
+    {
+      "id": 29,
+      "name": "Cave Spider",
+      "img": "placeholder"
+    },
+    {
+      "id": 30,
+      "name": "Chicken",
+      "img": "placeholder"
+    },
+    {
+      "id": 31,
+      "name": "Cow",
+      "img": "placeholder"
+    },
+    {
+      "id": 32,
+      "name": "Mooshroom",
+      "img": "placeholder"
+    },
+    {
+      "id": 33,
+      "name": "Sheep",
+      "img": "placeholder"
+    },
+    {
+      "id": 34,
+      "name": "Pig",
+      "img": "placeholder"
+    },
+    {
+      "id": 35,
+      "name": "Rabbit",
+      "img": "placeholder"
+    },
+    {
+      "id": 36,
+      "name": "Bat",
+      "img": "placeholder"
+    },
+    {
+      "id": 37,
+      "name": "Parrot",
+      "img": "placeholder"
+    },
+    {
+      "id": 38,
+      "name": "Villager",
+      "img": "placeholder"
+    },
+    {
+      "id": 39,
+      "name": "Turtle",
+      "img": "placeholder"
+    },
+    {
+      "id": 40,
+      "name": "Cat",
+      "img": "placeholder"
+    },
+    {
+      "id": 41,
+      "name": "Horse",
+      "img": "placeholder"
+    },
+    {
+      "id": 42,
+      "name": "Donkey",
+      "img": "placeholder"
+    },
+    {
+      "id": 43,
+      "name": "Mule",
+      "img": "placeholder"
+    },
+    {
+      "id": 44,
+      "name": "Skeleton Horse",
+      "img": "placeholder"
+    },
+    {
+      "id": 45,
+      "name": "Zombie Horse",
+      "img": "placeholder"
+    },
+    {
+      "id": 46,
+      "name": "Fox",
+      "img": "placeholder"
+    },
+    {
+      "id": 47,
+      "name": "Panda",
+      "img": "placeholder"
+    },
+    {
+      "id": 48,
+      "name": "Trader Llama",
+      "img": "placeholder"
+    },
+    {
+      "id": 49,
+      "name": "Wandering Trader",
+      "img": "placeholder"
+    },
+    {
+      "id": 50,
+      "name": "Cod",
+      "img": "placeholder"
+    },
+    {
+      "id": 51,
+      "name": "Salmon",
+      "img": "placeholder"
+    }
+  ]
+}
