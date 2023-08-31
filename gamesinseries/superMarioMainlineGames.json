@@ -1,0 +1,56 @@
+{
+  "items": [
+    {
+      "name": "Super Mario Bros. (1985)",
+      "img": "placeholder"
+    },
+    {
+      "name": "Super Mario Bros. 2 (1988)",
+      "img": "placeholder"
+    },
+    {
+      "name": "Super Mario Bros. 3 (1988)",
+      "img": "placeholder"
+    },
+    {
+      "name": "Super Mario Land (1989)",
+      "img": "placeholder"
+    },
+    {
+      "name": "Super Mario World (1990)",
+      "img": "placeholder"
+    },
+    {
+      "name": "Super Mario Land 2: 6 Golden Coins (1992)",
+      "img": "placeholder"
+    },
+    {
+      "name": "Super Mario 64 (1996)",
+      "img": "placeholder"
+    },
+    {
+      "name": "Super Mario Sunshine (2002)",
+      "img": "placeholder"
+    },
+    {
+      "name": "Super Mario Galaxy (2007)",
+      "img": "placeholder"
+    },
+    {
+      "name": "Super Mario Galaxy 2 (2010)",
+      "img": "placeholder"
+    },
+    {
+      "name": "Super Mario 3D Land (2011)",
+      "img": "placeholder"
+    },
+    {
+      "name": "Super Mario 3D World (2013)",
+      "img": "placeholder"
+    },
+    {
+      "name": "Super Mario Odyssey (2017)",
+      "img": "placeholder"
+    }
+  ]
+}
