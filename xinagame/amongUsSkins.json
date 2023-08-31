@@ -1,0 +1,52 @@
+{
+  "items": [
+    {
+      "name": "Astronaut",
+      "img": "placeholder"
+    },
+    {
+      "name": "Captain",
+      "img": "placeholder"
+    },
+    {
+      "name": "Mechanic",
+      "img": "placeholder"
+    },
+    {
+      "name": "Military",
+      "img": "placeholder"
+    },
+    {
+      "name": "Police",
+      "img": "placeholder"
+    },
+    {
+      "name": "Doctor",
+      "img": "placeholder"
+    },
+    {
+      "name": "Black Suit",
+      "img": "placeholder"
+    },
+    {
+      "name": "White Suit",
+      "img": "placeholder"
+    },
+    {
+      "name": "Scientist",
+      "img": "placeholder"
+    },
+    {
+      "name": "Security Guard",
+      "img": "placeholder"
+    },
+    {
+      "name": "Miner",
+      "img": "placeholder"
+    },
+    {
+      "name": "Winter Gear",
+      "img": "placeholder"
+    }
+  ]
+}
