@@ -1,0 +1,21 @@
+{
+  "items": [
+    {"name": "Cap Kingdom", "img": "placeholder"},
+    {"name": "Cascade Kingdom", "img": "placeholder"},
+    {"name": "Sand Kingdom", "img": "placeholder"},
+    {"name": "Lake Kingdom", "img": "placeholder"},
+    {"name": "Wooded Kingdom", "img": "placeholder"},
+    {"name": "Cloud Kingdom", "img": "placeholder"},
+    {"name": "Lost Kingdom", "img": "placeholder"},
+    {"name": "Metro Kingdom", "img": "placeholder"},
+    {"name": "Snow Kingdom", "img": "placeholder"},
+    {"name": "Seaside Kingdom", "img": "placeholder"},
+    {"name": "Luncheon Kingdom", "img": "placeholder"},
+    {"name": "Ruined Kingdom", "img": "placeholder"},
+    {"name": "Bowser's Kingdom", "img": "placeholder"},
+    {"name": "Moon Kingdom", "img": "placeholder"},
+    {"name": "Mushroom Kingdom", "img": "placeholder"},
+    {"name": "Dark Side", "img": "placeholder"},
+    {"name": "Darker Side", "img": "placeholder"}
+  ]
+}
