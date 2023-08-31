@@ -1,0 +1,86 @@
+{
+  "bosses": [
+    {
+      "name": "Kael'thas Sunstrider",
+      "location": "Tempest Keep: The Eye"
+    },
+    {
+      "name": "Lady Vashj",
+      "location": "Serpentshrine Cavern"
+    },
+    {
+      "name": "Kil'jaeden",
+      "location": "Sunwell Plateau"
+    },
+    {
+      "name": "Yogg-Saron (0 Keepers)",
+      "location": "Ulduar"
+    },
+    {
+      "name": "The Lich King",
+      "location": "Icecrown Citadel"
+    },
+    {
+      "name": "Heroic Ragnaros",
+      "location": "Firelands"
+    },
+    {
+      "name": "Garrosh Hellscream (Mythic)",
+      "location": "Siege of Orgrimmar"
+    },
+    {
+      "name": "Blackhand (Mythic)",
+      "location": "Blackrock Foundry"
+    },
+    {
+      "name": "Archimonde (Mythic)",
+      "location": "Hellfire Citadel"
+    },
+    {
+      "name": "Gul'dan (Mythic)",
+      "location": "The Nighthold"
+    },
+    {
+      "name": "Kil'jaeden (Mythic)",
+      "location": "Tomb of Sargeras"
+    },
+    {
+      "name": "Argus the Unmaker (Mythic)",
+      "location": "Antorus, the Burning Throne"
+    },
+    {
+      "name": "Jaina Proudmoore (Mythic)",
+      "location": "Battle of Dazar'alor"
+    },
+    {
+      "name": "Queen Azshara (Mythic)",
+      "location": "Eternal Palace"
+    },
+    {
+      "name": "N'Zoth (Mythic)",
+      "location": "Ny'alotha, the Waking City"
+    },
+    {
+      "name": "Sire Denathrius (Mythic)",
+      "location": "Castle Nathria"
+    },
+    {
+      "name": "C'thun",
+      "description": "notoriously difficult upon initial release",
+      "location": "Temple of Ahn'Qiraj"
+    },
+    {
+      "name": "Four Horsemen",
+      "description": "original 40-man version",
+      "location": "Naxxramas"
+    },
+    {
+      "name": "M'uru/Entropius",
+      "location": "Sunwell Plateau"
+    },
+    {
+      "name": "Sinestra (Heroic)",
+      "location": "Bastion of Twilight"
+    }
+  ]
+}
