@@ -1,0 +1,14 @@
+{
+  "items": [
+    {"name": "Standard Bike", "img": "placeholder"},
+    {"name": "Comet", "img": "placeholder"},
+    {"name": "Sport Bike", "img": "placeholder"},
+    {"name": "The Duke", "img": "placeholder"},
+    {"name": "Varmint", "img": "placeholder"},
+    {"name": "Mr. Scooty", "img": "placeholder"},
+    {"name": "Jet Bike", "img": "placeholder"},
+    {"name": "Yoshi Bike", "img": "placeholder"},
+    {"name": "Master Cycle", "img": "placeholder"},
+    {"name": "City Tripper", "img": "placeholder"}
+  ]
+}
