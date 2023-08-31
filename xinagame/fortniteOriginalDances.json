@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "name": "Default Dance",
+      "img": "placeholder"
+    },
+    {
+      "id": 2,
+      "name": "Electro Shuffle",
+      "img": "placeholder"
+    },
+    {
+      "id": 3,
+      "name": "Fresh",
+      "img": "placeholder"
+    },
+    {
+      "id": 4,
+      "name": "Floss",
+      "img": "placeholder"
+    },
+    {
+      "id": 5,
+      "name": "Best Mates",
+      "img": "placeholder"
+    },
+    {
+      "id": 6,
+      "name": "Ride the Pony",
+      "img": "placeholder"
+    },
+    {
+      "id": 7,
+      "name": "Flapper",
+      "img": "placeholder"
+    },
+    {
+      "id": 8,
+      "name": "Jubilation",
+      "img": "placeholder"
+    },
+    {
+      "id": 9,
+      "name": "Slow Clap",
+      "img": "placeholder"
+    }
+  ]
+}
