@@ -1,0 +1,19 @@
+{
+  "items": [
+    {"name": "Bowser", "img": "placeholder"},
+    {"name": "Donkey Kong", "img": "placeholder"},
+    {"name": "Wario", "img": "placeholder"},
+    {"name": "Waluigi", "img": "placeholder"},
+    {"name": "Rosalina", "img": "placeholder"},
+    {"name": "Metal Mario", "img": "placeholder"},
+    {"name": "Pink Gold Peach", "img": "placeholder"},
+    {"name": "Roy Koopa", "img": "placeholder"},
+    {"name": "Morton Koopa Jr.", "img": "placeholder"},
+    {"name": "Link", "img": "placeholder"},
+    {"name": "Dry Bowser", "img": "placeholder"},
+    {"name": "King Boo", "img": "placeholder"},
+    {"name": "Dry Bones", "img": "placeholder"},
+    {"name": "Petey Piranha", "img": "placeholder"},
+    {"name": "Wiggler", "img": "placeholder"}
+  ]
+}
