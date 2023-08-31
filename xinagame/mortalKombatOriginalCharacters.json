@@ -1,0 +1,44 @@
+{
+  "items": [
+    {
+      "name": "Johnny Cage",
+      "img": "placeholder"
+    },
+    {
+      "name": "Kano",
+      "img": "placeholder"
+    },
+    {
+      "name": "Raiden",
+      "img": "placeholder"
+    },
+    {
+      "name": "Liu Kang",
+      "img": "placeholder"
+    },
+    {
+      "name": "Scorpion",
+      "img": "placeholder"
+    },
+    {
+      "name": "Sub-Zero",
+      "img": "placeholder"
+    },
+    {
+      "name": "Sonya Blade",
+      "img": "placeholder"
+    },
+    {
+      "name": "Reptile",
+      "img": "placeholder"
+    },
+    {
+      "name": "Goro",
+      "img": "placeholder"
+    },
+    {
+      "name": "Shang Tsung",
+      "img": "placeholder"
+    }
+  ]
+}
