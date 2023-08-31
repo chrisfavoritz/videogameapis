@@ -1,0 +1,76 @@
+{
+  "items": [
+    {
+      "name": "Mario Party",
+      "platform": "Nintendo 64",
+      "year": 1998,
+      "img": "placeholder"
+    },
+    {
+      "name": "Mario Party 2",
+      "platform": "Nintendo 64",
+      "year": 1999,
+      "img": "placeholder"
+    },
+    {
+      "name": "Mario Party 3",
+      "platform": "Nintendo 64",
+      "year": 2000,
+      "img": "placeholder"
+    },
+    {
+      "name": "Mario Party 4",
+      "platform": "GameCube",
+      "year": 2002,
+      "img": "placeholder"
+    },
+    {
+      "name": "Mario Party 5",
+      "platform": "GameCube",
+      "year": 2003,
+      "img": "placeholder"
+    },
+    {
+      "name": "Mario Party 6",
+      "platform": "GameCube",
+      "year": 2004,
+      "img": "placeholder"
+    },
+    {
+      "name": "Mario Party 7",
+      "platform": "GameCube",
+      "year": 2005,
+      "img": "placeholder"
+    },
+    {
+      "name": "Mario Party 8",
+      "platform": "Wii",
+      "year": 2007,
+      "img": "placeholder"
+    },
+    {
+      "name": "Mario Party 9",
+      "platform": "Wii",
+      "year": 2012,
+      "img": "placeholder"
+    },
+    {
+      "name": "Mario Party 10",
+      "platform": "Wii U",
+      "year": 2015,
+      "img": "placeholder"
+    },
+    {
+      "name": "Super Mario Party",
+      "platform": "Nintendo Switch",
+      "year": 2018,
+      "img": "placeholder"
+    },
+    {
+      "name": "Mario Party Superstars",
+      "platform": "Nintendo Switch",
+      "year": 2021,
+      "img": "placeholder"
+    }
+  ]
+}
