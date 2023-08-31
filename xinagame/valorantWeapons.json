@@ -1,0 +1,72 @@
+{
+  "items": [
+    {
+      "name": "Classic",
+      "img": "placeholder"
+    },
+    {
+      "name": "Shorty",
+      "img": "placeholder"
+    },
+    {
+      "name": "Frenzy",
+      "img": "placeholder"
+    },
+    {
+      "name": "Ghost",
+      "img": "placeholder"
+    },
+    {
+      "name": "Sheriff",
+      "img": "placeholder"
+    },
+    {
+      "name": "Bulldog",
+      "img": "placeholder"
+    },
+    {
+      "name": "Guardian",
+      "img": "placeholder"
+    },
+    {
+      "name": "Phantom",
+      "img": "placeholder"
+    },
+    {
+      "name": "Vandal",
+      "img": "placeholder"
+    },
+    {
+      "name": "Stinger",
+      "img": "placeholder"
+    },
+    {
+      "name": "Spectre",
+      "img": "placeholder"
+    },
+    {
+      "name": "Marshal",
+      "img": "placeholder"
+    },
+    {
+      "name": "Operator",
+      "img": "placeholder"
+    },
+    {
+      "name": "Ares",
+      "img": "placeholder"
+    },
+    {
+      "name": "Odin",
+      "img": "placeholder"
+    },
+    {
+      "name": "Bucky",
+      "img": "placeholder"
+    },
+    {
+      "name": "Judge",
+      "img": "placeholder"
+    }
+  ]
+}
