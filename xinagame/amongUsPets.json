@@ -1,0 +1,48 @@
+{
+  "items": [
+    {
+      "name": "Bedcrab",
+      "img": "placeholder"
+    },
+    {
+      "name": "Brainslug",
+      "img": "placeholder"
+    },
+    {
+      "name": "Dog",
+      "img": "placeholder"
+    },
+    {
+      "name": "UFO",
+      "img": "placeholder"
+    },
+    {
+      "name": "Hamster",
+      "img": "placeholder"
+    },
+    {
+      "name": "Mini Crewmate",
+      "img": "placeholder"
+    },
+    {
+      "name": "Robot",
+      "img": "placeholder"
+    },
+    {
+      "name": "Stickmin",
+      "img": "placeholder"
+    },
+    {
+      "name": "Squig",
+      "img": "placeholder"
+    },
+    {
+      "name": "Twitch",
+      "img": "placeholder"
+    },
+    {
+      "name": "Ellie",
+      "img": "placeholder"
+    }
+  ]
+}
