@@ -1,0 +1,144 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "name": "Shopping Cart",
+      "img": "placeholder"
+    },
+    {
+      "id": 2,
+      "name": "All Terrain Kart (ATK)",
+      "img": "placeholder"
+    },
+    {
+      "id": 3,
+      "name": "Quadcrasher",
+      "img": "placeholder"
+    },
+    {
+      "id": 4,
+      "name": "Stormwing Plane",
+      "img": "placeholder"
+    },
+    {
+      "id": 5,
+      "name": "Driftboard",
+      "img": "placeholder"
+    },
+    {
+      "id": 6,
+      "name": "Baller",
+      "img": "placeholder"
+    },
+    {
+      "id": 7,
+      "name": "Pirate Cannon",
+      "img": "placeholder"
+    },
+    {
+      "id": 8,
+      "name": "B.R.U.T.E. (mech suit)",
+      "img": "placeholder"
+    },
+    {
+      "id": 9,
+      "name": "Hoverboard",
+      "img": "placeholder"
+    },
+    {
+      "id": 10,
+      "name": "Motorboat",
+      "img": "placeholder"
+    },
+    {
+      "id": 11,
+      "name": "Choppa (helicopter)",
+      "img": "placeholder"
+    },
+    {
+      "id": 12,
+      "name": "Loot Shark",
+      "img": "placeholder"
+    },
+    {
+      "id": 13,
+      "name": "Car",
+      "img": "placeholder"
+    },
+    {
+      "id": 14,
+      "name": "Whiplash (sports car)",
+      "img": "placeholder"
+    },
+    {
+      "id": 15,
+      "name": "Mudflap (truck)",
+      "img": "placeholder"
+    },
+    {
+      "id": 16,
+      "name": "Bear (pickup truck)",
+      "img": "placeholder"
+    },
+    {
+      "id": 17,
+      "name": "Taxi",
+      "img": "placeholder"
+    },
+    {
+      "id": 18,
+      "name": "Bus",
+      "img": "placeholder"
+    },
+    {
+      "id": 19,
+      "name": "OG Bear",
+      "img": "placeholder"
+    },
+    {
+      "id": 20,
+      "name": "Islander Prevalent (compact car)",
+      "img": "placeholder"
+    },
+    {
+      "id": 21,
+      "name": "Victory Motors Whiplash",
+      "img": "placeholder"
+    },
+    {
+      "id": 22,
+      "name": "OG Mudflap",
+      "img": "placeholder"
+    },
+    {
+      "id": 23,
+      "name": "Victory Motors Mudflap",
+      "img": "placeholder"
+    },
+    {
+      "id": 24,
+      "name": "Taxi Cab",
+      "img": "placeholder"
+    },
+    {
+      "id": 25,
+      "name": "Big Rig",
+      "img": "placeholder"
+    },
+    {
+      "id": 26,
+      "name": "Fish Sticks (food truck)",
+      "img": "placeholder"
+    },
+    {
+      "id": 27,
+      "name": "Snow Plow",
+      "img": "placeholder"
+    },
+    {
+      "id": 28,
+      "name": "Fork Knife (food truck)",
+      "img": "placeholder"
+    }
+  ]
+}
