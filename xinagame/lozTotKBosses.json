@@ -1,0 +1,31 @@
+{
+  "entities": [
+    {"name": "Flux Construct", "img": "placeholder"},
+    {"name": "Hinox", "img": "placeholder"},
+    {"name": "Stalnox", "img": "placeholder"},
+    {"name": "Stone Talus", "img": "placeholder"},
+    {"name": "Igneo Talus", "img": "placeholder"},
+    {"name": "Frost Talus", "img": "placeholder"},
+    {"name": "Battle Talus", "img": "placeholder"},
+    {"name": "Frox", "img": "placeholder"},
+    {"name": "Molduga", "img": "placeholder"},
+    {"name": "Electric Gleeok", "img": "placeholder"},
+    {"name": "Flame Gleeok", "img": "placeholder"},
+    {"name": "Frost Gleeok", "img": "placeholder"},
+    {"name": "King Gleeok", "img": "placeholder"},
+    {"name": "Phantom Ganon", "img": "placeholder"},
+    {"name": "Colgera", "img": "placeholder"},
+    {"name": "Yunobo", "img": "placeholder"},
+    {"name": "Moragia", "img": "placeholder"},
+    {"name": "Marbled Gohma", "img": "placeholder"},
+    {"name": "Sludge Like", "img": "placeholder"},
+    {"name": "Mucktorok", "img": "placeholder"},
+    {"name": "Queen Gibdo", "img": "placeholder"},
+    {"name": "Seized Construct", "img": "placeholder"},
+    {"name": "Leader of the Yiga Clan Master Kohga", "img": "placeholder"},
+    {"name": "Wielder of Ultimate Yiga Power Master Kohga", "img": "placeholder"},
+    {"name": "The Menace Unleashed Demon King Ganondorf", "img": "placeholder"},
+    {"name": "Master of the Secret Stone Demon King Ganondorf", "img": "placeholder"},
+    {"name": "Demon Dragon", "img": "placeholder"}
+  ]
+}
