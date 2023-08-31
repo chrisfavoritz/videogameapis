@@ -1,0 +1,116 @@
+{
+  "items": [
+    {
+      "name": "Air",
+      "img": "placeholder"
+    },
+    {
+      "name": "Stone",
+      "img": "placeholder"
+    },
+    {
+      "name": "Grass Block",
+      "img": "placeholder"
+    },
+    {
+      "name": "Dirt",
+      "img": "placeholder"
+    },
+    {
+      "name": "Cobblestone",
+      "img": "placeholder"
+    },
+    {
+      "name": "Wooden Plank",
+      "img": "placeholder"
+    },
+    {
+      "name": "Sapling",
+      "img": "placeholder"
+    },
+    {
+      "name": "Bedrock",
+      "img": "placeholder"
+    },
+    {
+      "name": "Water",
+      "img": "placeholder"
+    },
+    {
+      "name": "Lava",
+      "img": "placeholder"
+    },
+    {
+      "name": "Sand",
+      "img": "placeholder"
+    },
+    {
+      "name": "Gravel",
+      "img": "placeholder"
+    },
+    {
+      "name": "Gold Ore",
+      "img": "placeholder"
+    },
+    {
+      "name": "Iron Ore",
+      "img": "placeholder"
+    },
+    {
+      "name": "Coal Ore",
+      "img": "placeholder"
+    },
+    {
+      "name": "Wood",
+      "img": "placeholder"
+    },
+    {
+      "name": "Leaves",
+      "img": "placeholder"
+    },
+    {
+      "name": "Sponge",
+      "img": "placeholder"
+    },
+    {
+      "name": "Glass",
+      "img": "placeholder"
+    },
+    {
+      "name": "Red Wool",
+      "img": "placeholder"
+    },
+    {
+      "name": "Orange Wool",
+      "img": "placeholder"
+    },
+    {
+      "name": "Yellow Wool",
+      "img": "placeholder"
+    },
+    {
+      "name": "Lime Wool",
+      "img": "placeholder"
+    },
+    {
+      "name": "Green Wool",
+      "img": "placeholder"
+    },
+    {
+      "name": "Light Blue Wool",
+      "img": "placeholder"
+    },
+    {
+      "name": "Cyan Wool",
+      "img": "placeholder"
+    },
+    {
+      "name": "Blue Wool",
+      "img": "placeholder"
+    },
+    {
+      "name": "Purple Wool",
+      "img": "placeholder"
+    }
+  ]
+}
