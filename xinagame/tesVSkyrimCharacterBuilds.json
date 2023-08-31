@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "name": "Stealth Archer",
+      "img": "placeholder"
+    },
+    {
+      "name": "Dual Wielding Berserker",
+      "img": "placeholder"
+    },
+    {
+      "name": "Battle Mage",
+      "img": "placeholder"
+    },
+    {
+      "name": "Pure Mage",
+      "img": "placeholder"
+    },
+    {
+      "name": "Necromancer",
+      "img": "placeholder"
+    },
+    {
+      "name": "Sword and Board Warrior",
+      "img": "placeholder"
+    },
+    {
+      "name": "Thief",
+      "img": "placeholder"
+    },
+    {
+      "name": "Assassin",
+      "img": "placeholder"
+    },
+    {
+      "name": "Illusionist",
+      "img": "placeholder"
+    },
+    {
+      "name": "Paladin",
+      "img": "placeholder"
+    },
+    {
+      "name": "Spellsword",
+      "img": "placeholder"
+    },
+    {
+      "name": "Two-Handed Tank",
+      "img": "placeholder"
+    },
+    {
+      "name": "Pyromancer",
+      "img": "placeholder"
+    },
+    {
+      "name": "Cryomancer",
+      "img": "placeholder"
+    },
+    {
+      "name": "Shout Master",
+      "img": "placeholder"
+    },
+    {
+      "name": "Vampire Lord",
+      "img": "placeholder"
+    },
+    {
+      "name": "Werewolf Berserker",
+      "img": "placeholder"
+    },
+    {
+      "name": "Pacifist",
+      "img": "placeholder"
+    },
+    {
+      "name": "Hunter",
+      "img": "placeholder"
+    },
+    {
+      "name": "Elemental Mage",
+      "img": "placeholder"
+    }
+  ]
+}
