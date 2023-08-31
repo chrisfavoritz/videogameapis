@@ -1,0 +1,52 @@
+{
+  "items": [
+    {
+      "name": "Red",
+      "img": "placeholder"
+    },
+    {
+      "name": "Blue",
+      "img": "placeholder"
+    },
+    {
+      "name": "Green",
+      "img": "placeholder"
+    },
+    {
+      "name": "Pink",
+      "img": "placeholder"
+    },
+    {
+      "name": "Orange",
+      "img": "placeholder"
+    },
+    {
+      "name": "Yellow",
+      "img": "placeholder"
+    },
+    {
+      "name": "Black",
+      "img": "placeholder"
+    },
+    {
+      "name": "White",
+      "img": "placeholder"
+    },
+    {
+      "name": "Purple",
+      "img": "placeholder"
+    },
+    {
+      "name": "Brown",
+      "img": "placeholder"
+    },
+    {
+      "name": "Cyan",
+      "img": "placeholder"
+    },
+    {
+      "name": "Lime",
+      "img": "placeholder"
+    }
+  ]
+}
