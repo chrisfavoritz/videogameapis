@@ -1,0 +1,20 @@
+{
+  "items": [
+    {"name": "Mario", "img": "placeholder"},
+    {"name": "Luigi", "img": "placeholder"},
+    {"name": "Peach", "img": "placeholder"},
+    {"name": "Daisy", "img": "placeholder"},
+    {"name": "Yoshi", "img": "placeholder"},
+    {"name": "Toad", "img": "placeholder"},
+    {"name": "Koopa Troopa", "img": "placeholder"},
+    {"name": "Shy Guy", "img": "placeholder"},
+    {"name": "Baby Mario", "img": "placeholder"},
+    {"name": "Baby Luigi", "img": "placeholder"},
+    {"name": "Baby Peach", "img": "placeholder"},
+    {"name": "Baby Daisy", "img": "placeholder"},
+    {"name": "Bowser", "img": "placeholder"},
+    {"name": "Donkey Kong", "img": "placeholder"},
+    {"name": "Wario", "img": "placeholder"},
+    {"name": "Waluigi", "img": "placeholder"}
+  ]
+}
