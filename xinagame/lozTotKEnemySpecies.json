@@ -1,0 +1,19 @@
+{
+  "items": [
+    {"name": "Chuchus", "img": "placeholder"},
+    {"name": "Bokoblins", "img": "placeholder"},
+    {"name": "Boss Bokoblins", "img": "placeholder"},
+    {"name": "Zonai Constructs", "img": "placeholder"},
+    {"name": "Gibdos", "img": "placeholder"},
+    {"name": "Keese", "img": "placeholder"},
+    {"name": "Lizalfos", "img": "placeholder"},
+    {"name": "Lynels", "img": "placeholder"},
+    {"name": "Moblins", "img": "placeholder"},
+    {"name": "Octoroks", "img": "placeholder"},
+    {"name": "Wizzrobe", "img": "placeholder"},
+    {"name": "Yiga Clan", "img": "placeholder"},
+    {"name": "Pebblit", "img": "placeholder"},
+    {"name": "Like-Likes", "img": "placeholder"},
+    {"name": "Animals", "img": "placeholder"}
+  ]
+}
