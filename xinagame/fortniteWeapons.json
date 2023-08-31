@@ -1,0 +1,199 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "name": "Standard Assault Rifle",
+      "img": "placeholder"
+    },
+    {
+      "id": 2,
+      "name": "Burst Assault Rifle",
+      "img": "placeholder"
+    },
+    {
+      "id": 3,
+      "name": "Heavy Assault Rifle",
+      "img": "placeholder"
+    },
+    {
+      "id": 4,
+      "name": "Scoped Assault Rifle",
+      "img": "placeholder"
+    },
+    {
+      "id": 5,
+      "name": "Suppressed Assault Rifle",
+      "img": "placeholder"
+    },
+    {
+      "id": 6,
+      "name": "Standard SMG",
+      "img": "placeholder"
+    },
+    {
+      "id": 7,
+      "name": "Tactical SMG",
+      "img": "placeholder"
+    },
+    {
+      "id": 8,
+      "name": "Suppressed SMG",
+      "img": "placeholder"
+    },
+    {
+      "id": 9,
+      "name": "P90 (Compact SMG)",
+      "img": "placeholder"
+    },
+    {
+      "id": 10,
+      "name": "Tactical Shotgun",
+      "img": "placeholder"
+    },
+    {
+      "id": 11,
+      "name": "Pump Shotgun",
+      "img": "placeholder"
+    },
+    {
+      "id": 12,
+      "name": "Charge Shotgun",
+      "img": "placeholder"
+    },
+    {
+      "id": 13,
+      "name": "Combat Shotgun",
+      "img": "placeholder"
+    },
+    {
+      "id": 14,
+      "name": "Drum Shotgun",
+      "img": "placeholder"
+    },
+    {
+      "id": 15,
+      "name": "Standard Pistol",
+      "img": "placeholder"
+    },
+    {
+      "id": 16,
+      "name": "Suppressed Pistol",
+      "img": "placeholder"
+    },
+    {
+      "id": 17,
+      "name": "Dual Pistols",
+      "img": "placeholder"
+    },
+    {
+      "id": 18,
+      "name": "Flare Gun",
+      "img": "placeholder"
+    },
+    {
+      "id": 19,
+      "name": "Hand Cannon (Deagle)",
+      "img": "placeholder"
+    },
+    {
+      "id": 20,
+      "name": "Bolt-action Sniper Rifle",
+      "img": "placeholder"
+    },
+    {
+      "id": 21,
+      "name": "Semi-Auto Sniper Rifle",
+      "img": "placeholder"
+    },
+    {
+      "id": 22,
+      "name": "Heavy Sniper Rifle",
+      "img": "placeholder"
+    },
+    {
+      "id": 23,
+      "name": "Hunting Rifle",
+      "img": "placeholder"
+    },
+    {
+      "id": 24,
+      "name": "Rocket Launcher",
+      "img": "placeholder"
+    },
+    {
+      "id": 25,
+      "name": "Grenade Launcher",
+      "img": "placeholder"
+    },
+    {
+      "id": 26,
+      "name": "Quad Launcher",
+      "img": "placeholder"
+    },
+    {
+      "id": 27,
+      "name": "Proximity Grenade Launcher",
+      "img": "placeholder"
+    },
+    {
+      "id": 28,
+      "name": "Grenades",
+      "img": "placeholder"
+    },
+    {
+      "id": 29,
+      "name": "Clinger",
+      "img": "placeholder"
+    },
+    {
+      "id": 30,
+      "name": "Stink Bomb",
+      "img": "placeholder"
+    },
+    {
+      "id": 31,
+      "name": "Boogie Bomb",
+      "img": "placeholder"
+    },
+    {
+      "id": 32,
+      "name": "Crossbow",
+      "img": "placeholder"
+    },
+    {
+      "id": 33,
+      "name": "Minigun",
+      "img": "placeholder"
+    },
+    {
+      "id": 34,
+      "name": "Infantry Rifle",
+      "img": "placeholder"
+    },
+    {
+      "id": 35,
+      "name": "Pickaxe",
+      "img": "placeholder"
+    },
+    {
+      "id": 36,
+      "name": "Harpoon Gun",
+      "img": "placeholder"
+    },
+    {
+      "id": 37,
+      "name": "Rail Gun",
+      "img": "placeholder"
+    },
+    {
+      "id": 38,
+      "name": "Recon Scanner",
+      "img": "placeholder"
+    },
+    {
+      "id": 39,
+      "name": "Pulse Rifle",
+      "img": "placeholder"
+    }
+  ]
+}
