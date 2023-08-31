@@ -1,0 +1,52 @@
+{
+  "items": [
+    {
+      "name": "The Companions",
+      "img": "placeholder"
+    },
+    {
+      "name": "College of Winterhold",
+      "img": "placeholder"
+    },
+    {
+      "name": "The Thieves Guild",
+      "img": "placeholder"
+    },
+    {
+      "name": "The Dark Brotherhood",
+      "img": "placeholder"
+    },
+    {
+      "name": "The Stormcloaks",
+      "img": "placeholder"
+    },
+    {
+      "name": "The Imperial Legion",
+      "img": "placeholder"
+    },
+    {
+      "name": "The Dawnguard",
+      "img": "placeholder"
+    },
+    {
+      "name": "The Volkihar Vampire Clan",
+      "img": "placeholder"
+    },
+    {
+      "name": "The Blades",
+      "img": "placeholder"
+    },
+    {
+      "name": "The Greybeards",
+      "img": "placeholder"
+    },
+    {
+      "name": "The Bards College",
+      "img": "placeholder"
+    },
+    {
+      "name": "The Forsworn",
+      "img": "placeholder"
+    }
+  ]
+}
