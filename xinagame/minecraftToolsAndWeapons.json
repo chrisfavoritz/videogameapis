@@ -1,0 +1,80 @@
+{
+  "items": [
+    {
+      "name": "Axe",
+      "img": "placeholder"
+    },
+    {
+      "name": "Pickaxe",
+      "img": "placeholder"
+    },
+    {
+      "name": "Shovel",
+      "img": "placeholder"
+    },
+    {
+      "name": "Hoe",
+      "img": "placeholder"
+    },
+    {
+      "name": "Flint and Steel",
+      "img": "placeholder"
+    },
+    {
+      "name": "Compass",
+      "img": "placeholder"
+    },
+    {
+      "name": "Clock",
+      "img": "placeholder"
+    },
+    {
+      "name": "Fishing Rod",
+      "img": "placeholder"
+    },
+    {
+      "name": "Shears",
+      "img": "placeholder"
+    },
+    {
+      "name": "Shield",
+      "img": "placeholder"
+    },
+    {
+      "name": "Bucket",
+      "img": "placeholder"
+    },
+    {
+      "name": "Water Bucket",
+      "img": "placeholder"
+    },
+    {
+      "name": "Lava Bucket",
+      "img": "placeholder"
+    },
+    {
+      "name": "Carrot on a Stick",
+      "img": "placeholder"
+    },
+    {
+      "name": "Warped Fungus on a Stick",
+      "img": "placeholder"
+    },
+    {
+      "name": "Sword",
+      "img": "placeholder"
+    },
+    {
+      "name": "Bow",
+      "img": "placeholder"
+    },
+    {
+      "name": "Crossbow",
+      "img": "placeholder"
+    },
+    {
+      "name": "Trident",
+      "img": "placeholder"
+    }
+  ]
+}
