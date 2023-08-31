@@ -1,0 +1,148 @@
+{
+  "items": [
+    {
+      "name": "Knife",
+      "img": "placeholder"
+    },
+    {
+      "name": "Nightstick",
+      "img": "placeholder"
+    },
+    {
+      "name": "Hammer",
+      "img": "placeholder"
+    },
+    {
+      "name": "Baseball Bat",
+      "img": "placeholder"
+    },
+    {
+      "name": "Golf Club",
+      "img": "placeholder"
+    },
+    {
+      "name": "Crowbar",
+      "img": "placeholder"
+    },
+    {
+      "name": "Pistol",
+      "img": "placeholder"
+    },
+    {
+      "name": "Combat Pistol",
+      "img": "placeholder"
+    },
+    {
+      "name": "AP Pistol",
+      "img": "placeholder"
+    },
+    {
+      "name": "Micro SMG",
+      "img": "placeholder"
+    },
+    {
+      "name": "SMG",
+      "img": "placeholder"
+    },
+    {
+      "name": "Assault SMG",
+      "img": "placeholder"
+    },
+    {
+      "name": "Assault Rifle",
+      "img": "placeholder"
+    },
+    {
+      "name": "Carbine Rifle",
+      "img": "placeholder"
+    },
+    {
+      "name": "Advanced Rifle",
+      "img": "placeholder"
+    },
+    {
+      "name": "MG",
+      "img": "placeholder"
+    },
+    {
+      "name": "Combat MG",
+      "img": "placeholder"
+    },
+    {
+      "name": "Pump Shotgun",
+      "img": "placeholder"
+    },
+    {
+      "name": "Sawed-Off Shotgun",
+      "img": "placeholder"
+    },
+    {
+      "name": "Assault Shotgun",
+      "img": "placeholder"
+    },
+    {
+      "name": "Bullpup Shotgun",
+      "img": "placeholder"
+    },
+    {
+      "name": "Sniper Rifle",
+      "img": "placeholder"
+    },
+    {
+      "name": "Heavy Sniper",
+      "img": "placeholder"
+    },
+    {
+      "name": "RPG",
+      "img": "placeholder"
+    },
+    {
+      "name": "Grenade Launcher",
+      "img": "placeholder"
+    },
+    {
+      "name": "Minigun",
+      "img": "placeholder"
+    },
+    {
+      "name": "Grenade",
+      "img": "placeholder"
+    },
+    {
+      "name": "Tear Gas",
+      "img": "placeholder"
+    },
+    {
+      "name": "Sticky Bomb",
+      "img": "placeholder"
+    },
+    {
+      "name": "Molotov Cocktail",
+      "img": "placeholder"
+    },
+    {
+      "name": "Jerry Can",
+      "img": "placeholder"
+    },
+    {
+      "name": "Parachute",
+      "img": "placeholder"
+    },
+    {
+      "name": "Fire Extinguisher",
+      "img": "placeholder"
+    },
+    {
+      "name": "Ball",
+      "img": "placeholder"
+    },
+    {
+      "name": "Flare",
+      "img": "placeholder"
+    },
+    {
+      "name": "Firework",
+      "img": "placeholder"
+    }
+  ]
+}
