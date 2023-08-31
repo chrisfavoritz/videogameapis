@@ -1,0 +1,464 @@
+{
+  "items": [
+    {
+      "name": "Battlefield",
+      "img": "placeholder"
+    },
+    {
+      "name": "Small Battlefield",
+      "img": "placeholder"
+    },
+    {
+      "name": "Big Battlefield",
+      "img": "placeholder"
+    },
+    {
+      "name": "Final Destination",
+      "img": "placeholder"
+    },
+    {
+      "name": "New Donk City Hall",
+      "img": "placeholder"
+    },
+    {
+      "name": "Great Plateau Tower",
+      "img": "placeholder"
+    },
+    {
+      "name": "Moray Towers",
+      "img": "placeholder"
+    },
+    {
+      "name": "Dracula's Castle",
+      "img": "placeholder"
+    },
+    {
+      "name": "Mementos",
+      "img": "placeholder"
+    },
+    {
+      "name": "Yggdrasil's Altar",
+      "img": "placeholder"
+    },
+    {
+      "name": "Spiral Mountain",
+      "img": "placeholder"
+    },
+    {
+      "name": "King of Fighters Stadium",
+      "img": "placeholder"
+    },
+    {
+      "name": "Garreg Mach Monastery",
+      "img": "placeholder"
+    },
+    {
+      "name": "Spring Stadium",
+      "img": "placeholder"
+    },
+    {
+      "name": "Minecraft World",
+      "img": "placeholder"
+    },
+    {
+      "name": "Northern Cave",
+      "img": "placeholder"
+    },
+    {
+      "name": "Cloud Sea of Alrest",
+      "img": "placeholder"
+    },
+    {
+      "name": "Mishima Dojo",
+      "img": "placeholder"
+    },
+    {
+      "name": "Hollow Bastion",
+      "img": "placeholder"
+    },
+    {
+      "name": "Peach's Castle",
+      "img": "placeholder"
+    },
+    {
+      "name": "Kongo Jungle",
+      "img": "placeholder"
+    },
+    {
+      "name": "Hyrule Castle",
+      "img": "placeholder"
+    },
+    {
+      "name": "Super Happy Tree",
+      "img": "placeholder"
+    },
+    {
+      "name": "Dream Land",
+      "img": "placeholder"
+    },
+    {
+      "name": "Saffron City",
+      "img": "placeholder"
+    },
+    {
+      "name": "Mushroom Kingdom",
+      "img": "placeholder"
+    },
+    {
+      "name": "Princess Peach's Castle",
+      "img": "placeholder"
+    },
+    {
+      "name": "Rainbow Cruise",
+      "img": "placeholder"
+    },
+    {
+      "name": "Kongo Falls",
+      "img": "placeholder"
+    },
+    {
+      "name": "Jungle Japes",
+      "img": "placeholder"
+    },
+    {
+      "name": "Great Bay",
+      "img": "placeholder"
+    },
+    {
+      "name": "Temple",
+      "img": "placeholder"
+    },
+    {
+      "name": "Brinstar",
+      "img": "placeholder"
+    },
+    {
+      "name": "Yoshi's Island (Melee)",
+      "img": "placeholder"
+    },
+    {
+      "name": "Yoshi's Story",
+      "img": "placeholder"
+    },
+    {
+      "name": "Fountain of Dreams",
+      "img": "placeholder"
+    },
+    {
+      "name": "Green Greens",
+      "img": "placeholder"
+    },
+    {
+      "name": "Corneria",
+      "img": "placeholder"
+    },
+    {
+      "name": "Venom",
+      "img": "placeholder"
+    },
+    {
+      "name": "Pokémon Stadium",
+      "img": "placeholder"
+    },
+    {
+      "name": "Onett",
+      "img": "placeholder"
+    },
+    {
+      "name": "Mushroom Kingdom II",
+      "img": "placeholder"
+    },
+    {
+      "name": "Brinstar Depths",
+      "img": "placeholder"
+    },
+    {
+      "name": "Big Blue",
+      "img": "placeholder"
+    },
+    {
+      "name": "Fourside",
+      "img": "placeholder"
+    },
+    {
+      "name": "Delfino Plaza",
+      "img": "placeholder"
+    },
+    {
+      "name": "Mushroomy Kingdom",
+      "img": "placeholder"
+    },
+    {
+      "name": "Figure-8 Circuit",
+      "img": "placeholder"
+    },
+    {
+      "name": "WarioWare, Inc.",
+      "img": "placeholder"
+    },
+    {
+      "name": "Bridge of Eldin",
+      "img": "placeholder"
+    },
+    {
+      "name": "Norfair",
+      "img": "placeholder"
+    },
+    {
+      "name": "Frigate Orpheon",
+      "img": "placeholder"
+    },
+    {
+      "name": "Yoshi's Island",
+      "img": "placeholder"
+    },
+    {
+      "name": "Halberd",
+      "img": "placeholder"
+    },
+    {
+      "name": "Lylat Cruise",
+      "img": "placeholder"
+    },
+    {
+      "name": "Pokémon Stadium 2",
+      "img": "placeholder"
+    },
+    {
+      "name": "Port Town Aero Dive",
+      "img": "placeholder"
+    },
+    {
+      "name": "Castle Siege",
+      "img": "placeholder"
+    },
+    {
+      "name": "Distant Planet",
+      "img": "placeholder"
+    },
+    {
+      "name": "Smashville",
+      "img": "placeholder"
+    },
+    {
+      "name": "New Pork City",
+      "img": "placeholder"
+    },
+    {
+      "name": "Summit",
+      "img": "placeholder"
+    },
+    {
+      "name": "Skyworld",
+      "img": "placeholder"
+    },
+    {
+      "name": "Shadow Moses Island",
+      "img": "placeholder"
+    },
+    {
+      "name": "Luigi's Mansion",
+      "img": "placeholder"
+    },
+    {
+      "name": "Pirate Ship",
+      "img": "placeholder"
+    },
+    {
+      "name": "Spear Pillar",
+      "img": "placeholder"
+    },
+    {
+      "name": "75m",
+      "img": "placeholder"
+    },
+    {
+      "name": "Mario Bros.",
+      "img": "placeholder"
+    },
+    {
+      "name": "Hanenbow",
+      "img": "placeholder"
+    },
+    {
+      "name": "Green Hill Zone",
+      "img": "placeholder"
+    },
+    {
+      "name": "3D Land",
+      "img": "placeholder"
+    },
+    {
+      "name": "Golden Plains",
+      "img": "placeholder"
+    },
+    {
+      "name": "Paper Mario",
+      "img": "placeholder"
+    },
+    {
+      "name": "Gerudo Valley",
+      "img": "placeholder"
+    },
+    {
+      "name": "Spirit Train",
+      "img": "placeholder"
+    },
+    {
+      "name": "Dream Land GB",
+      "img": "placeholder"
+    },
+    {
+      "name": "Unova Pokémon League",
+      "img": "placeholder"
+    },
+    {
+      "name": "Prism Tower",
+      "img": "placeholder"
+    },
+    {
+      "name": "Mute City SNES",
+      "img": "placeholder"
+    },
+    {
+      "name": "Magicant",
+      "img": "placeholder"
+    },
+    {
+      "name": "Arena Ferox",
+      "img": "placeholder"
+    },
+    {
+      "name": "Reset Bomb Forest",
+      "img": "placeholder"
+    },
+    {
+      "name": "Tortimer Island",
+      "img": "placeholder"
+    },
+    {
+      "name": "Balloon Fight",
+      "img": "placeholder"
+    },
+    {
+      "name": "Living Room",
+      "img": "placeholder"
+    },
+    {
+      "name": "Find Mii",
+      "img": "placeholder"
+    },
+    {
+      "name": "Tomodachi Life",
+      "img": "placeholder"
+    },
+    {
+      "name": "PictoChat 2",
+      "img": "placeholder"
+    },
+    {
+      "name": "Mushroom Kingdom U",
+      "img": "placeholder"
+    },
+    {
+      "name": "Mario Galaxy",
+      "img": "placeholder"
+    },
+    {
+      "name": "Mario Circuit",
+      "img": "placeholder"
+    },
+    {
+      "name": "Skyloft",
+      "img": "placeholder"
+    },
+    {
+      "name": "The Great Cave Offensive",
+      "img": "placeholder"
+    },
+    {
+      "name": "Kalos Pokémon League",
+      "img": "placeholder"
+    },
+    {
+      "name": "Coliseum",
+      "img": "placeholder"
+    },
+    {
+      "name": "Flat Zone X",
+      "img": "placeholder"
+    },
+    {
+      "name": "Palutena's Temple",
+      "img": "placeholder"
+    },
+    {
+      "name": "Gamer",
+      "img": "placeholder"
+    },
+    {
+      "name": "Garden of Hope",
+      "img": "placeholder"
+    },
+    {
+      "name": "Town and City",
+      "img": "placeholder"
+    },
+    {
+      "name": "Wii Fit Studio",
+      "img": "placeholder"
+    },
+    {
+      "name": "Boxing Ring",
+      "img": "placeholder"
+    },
+    {
+      "name": "Gaur Plain",
+      "img": "placeholder"
+    },
+    {
+      "name": "Duck Hunt",
+      "img": "placeholder"
+    },
+    {
+      "name": "Wrecking Crew",
+      "img": "placeholder"
+    },
+    {
+      "name": "Pilotwings",
+      "img": "placeholder"
+    },
+    {
+      "name": "Wuhu Island",
+      "img": "placeholder"
+    },
+    {
+      "name": "Windy Hill Zone",
+      "img": "placeholder"
+    },
+    {
+      "name": "Wily Castle",
+      "img": "placeholder"
+    },
+    {
+      "name": "Pac-Land",
+      "img": "placeholder"
+    },
+    {
+      "name": "Super Mario Maker",
+      "img": "placeholder"
+    },
+    {
+      "name": "Suzaku Castle",
+      "img": "placeholder"
+    },
+    {
+      "name": "Midgar",
+      "img": "placeholder"
+    },
+    {
+      "name": "Umbra Clock Tower",
+      "img": "placeholder"
+    }
+  ]
+}
