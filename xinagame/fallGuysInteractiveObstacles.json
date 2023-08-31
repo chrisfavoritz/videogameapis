@@ -1,0 +1,18 @@
+{
+  "items": [
+    {"name": "Ball", "img": "placeholder"},
+    {"name": "Battery", "img": "placeholder"},
+    {"name": "Blast Ball (Obstacle)", "img": "placeholder"},
+    {"name": "Bubble", "img": "placeholder"},
+    {"name": "Buttons", "img": "placeholder"},
+    {"name": "Candy", "img": "placeholder"},
+    {"name": "Crown", "img": "placeholder"},
+    {"name": "Egg (item)", "img": "placeholder"},
+    {"name": "Helper Block", "img": "placeholder"},
+    {"name": "Pegwin", "img": "placeholder"},
+    {"name": "Ring", "img": "placeholder"},
+    {"name": "Ring (Sonic)", "img": "placeholder"},
+    {"name": "Rings Wheel", "img": "placeholder"},
+    {"name": "Tail", "img": "placeholder"}
+  ]
+}
