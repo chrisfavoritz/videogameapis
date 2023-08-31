@@ -1,0 +1,148 @@
+{
+  "items": [
+    {
+      "name": "Death Knight - Blood (Tank)",
+      "img": "placeholder"
+    },
+    {
+      "name": "Death Knight - Frost (DPS)",
+      "img": "placeholder"
+    },
+    {
+      "name": "Death Knight - Unholy (DPS)",
+      "img": "placeholder"
+    },
+    {
+      "name": "Demon Hunter - Havoc (DPS)",
+      "img": "placeholder"
+    },
+    {
+      "name": "Demon Hunter - Vengeance (Tank)",
+      "img": "placeholder"
+    },
+    {
+      "name": "Druid - Balance (DPS)",
+      "img": "placeholder"
+    },
+    {
+      "name": "Druid - Feral (DPS)",
+      "img": "placeholder"
+    },
+    {
+      "name": "Druid - Guardian (Tank)",
+      "img": "placeholder"
+    },
+    {
+      "name": "Druid - Restoration (Healer)",
+      "img": "placeholder"
+    },
+    {
+      "name": "Hunter - Beast Mastery (DPS)",
+      "img": "placeholder"
+    },
+    {
+      "name": "Hunter - Marksmanship (DPS)",
+      "img": "placeholder"
+    },
+    {
+      "name": "Hunter - Survival (DPS)",
+      "img": "placeholder"
+    },
+    {
+      "name": "Mage - Arcane (DPS)",
+      "img": "placeholder"
+    },
+    {
+      "name": "Mage - Fire (DPS)",
+      "img": "placeholder"
+    },
+    {
+      "name": "Mage - Frost (DPS)",
+      "img": "placeholder"
+    },
+    {
+      "name": "Monk - Brewmaster (Tank)",
+      "img": "placeholder"
+    },
+    {
+      "name": "Monk - Windwalker (DPS)",
+      "img": "placeholder"
+    },
+    {
+      "name": "Monk - Mistweaver (Healer)",
+      "img": "placeholder"
+    },
+    {
+      "name": "Paladin - Holy (Healer)",
+      "img": "placeholder"
+    },
+    {
+      "name": "Paladin - Protection (Tank)",
+      "img": "placeholder"
+    },
+    {
+      "name": "Paladin - Retribution (DPS)",
+      "img": "placeholder"
+    },
+    {
+      "name": "Priest - Discipline (Healer)",
+      "img": "placeholder"
+    },
+    {
+      "name": "Priest - Holy (Healer)",
+      "img": "placeholder"
+    },
+    {
+      "name": "Priest - Shadow (DPS)",
+      "img": "placeholder"
+    },
+    {
+      "name": "Rogue - Assassination (DPS)",
+      "img": "placeholder"
+    },
+    {
+      "name": "Rogue - Outlaw (DPS)",
+      "img": "placeholder"
+    },
+    {
+      "name": "Rogue - Subtlety (DPS)",
+      "img": "placeholder"
+    },
+    {
+      "name": "Shaman - Elemental (DPS)",
+      "img": "placeholder"
+    },
+    {
+      "name": "Shaman - Enhancement (DPS)",
+      "img": "placeholder"
+    },
+    {
+      "name": "Shaman - Restoration (Healer)",
+      "img": "placeholder"
+    },
+    {
+      "name": "Warlock - Affliction (DPS)",
+      "img": "placeholder"
+    },
+    {
+      "name": "Warlock - Demonology (DPS)",
+      "img": "placeholder"
+    },
+    {
+      "name": "Warlock - Destruction (DPS)",
+      "img": "placeholder"
+    },
+    {
+      "name": "Warrior - Arms (DPS)",
+      "img": "placeholder"
+    },
+    {
+      "name": "Warrior - Fury (DPS)",
+      "img": "placeholder"
+    },
+    {
+      "name": "Warrior - Protection (Tank)",
+      "img": "placeholder"
+    }
+  ]
+}
