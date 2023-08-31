@@ -1,0 +1,20 @@
+{
+  "items": [
+    {"name": "Mario", "img": "placeholder"},
+    {"name": "Luigi", "img": "placeholder"},
+    {"name": "Peach", "img": "placeholder"},
+    {"name": "Daisy", "img": "placeholder"},
+    {"name": "Yoshi", "img": "placeholder"},
+    {"name": "Bowser Jr.", "img": "placeholder"},
+    {"name": "Ludwig von Koopa", "img": "placeholder"},
+    {"name": "Iggy Koopa", "img": "placeholder"},
+    {"name": "Inkling (M)", "img": "placeholder"},
+    {"name": "Inkling (F)", "img": "placeholder"},
+    {"name": "Tanooki Mario", "img": "placeholder"},
+    {"name": "Cat Peach", "img": "placeholder"},
+    {"name": "Villager (M)", "img": "placeholder"},
+    {"name": "Villager (F)", "img": "placeholder"},
+    {"name": "Birdo", "img": "placeholder"},
+    {"name": "Kamek", "img": "placeholder"}
+  ]
+}
