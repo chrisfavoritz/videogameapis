@@ -1,0 +1,52 @@
+{
+  "items": [
+    {
+      "name": "Death Knight",
+      "img": "placeholder"
+    },
+    {
+      "name": "Demon Hunter",
+      "img": "placeholder"
+    },
+    {
+      "name": "Druid",
+      "img": "placeholder"
+    },
+    {
+      "name": "Hunter",
+      "img": "placeholder"
+    },
+    {
+      "name": "Mage",
+      "img": "placeholder"
+    },
+    {
+      "name": "Monk",
+      "img": "placeholder"
+    },
+    {
+      "name": "Paladin",
+      "img": "placeholder"
+    },
+    {
+      "name": "Priest",
+      "img": "placeholder"
+    },
+    {
+      "name": "Rogue",
+      "img": "placeholder"
+    },
+    {
+      "name": "Shaman",
+      "img": "placeholder"
+    },
+    {
+      "name": "Warlock",
+      "img": "placeholder"
+    },
+    {
+      "name": "Warrior",
+      "img": "placeholder"
+    }
+  ]
+}
