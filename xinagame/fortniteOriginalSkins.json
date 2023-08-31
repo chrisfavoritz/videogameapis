@@ -1,0 +1,44 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "name": "Jonesy",
+      "img": "placeholder"
+    },
+    {
+      "id": 2,
+      "name": "Ramirez",
+      "img": "placeholder"
+    },
+    {
+      "id": 3,
+      "name": "Banshee",
+      "img": "placeholder"
+    },
+    {
+      "id": 4,
+      "name": "Wildcat",
+      "img": "placeholder"
+    },
+    {
+      "id": 5,
+      "name": "Hawk",
+      "img": "placeholder"
+    },
+    {
+      "id": 6,
+      "name": "Spitfire",
+      "img": "placeholder"
+    },
+    {
+      "id": 7,
+      "name": "Renegade",
+      "img": "placeholder"
+    },
+    {
+      "id": 8,
+      "name": "Headhunter",
+      "img": "placeholder"
+    }
+  ]
+}
