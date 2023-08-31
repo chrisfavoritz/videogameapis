@@ -1,0 +1,32 @@
+{
+  "items": [
+    {"name": "Bokoblin", "img": "placeholder"},
+    {"name": "Moblin", "img": "placeholder"},
+    {"name": "Lizalfos", "img": "placeholder"},
+    {"name": "Chuchu", "img": "placeholder"},
+    {"name": "Keese", "img": "placeholder"},
+    {"name": "Octorok", "img": "placeholder"},
+    {"name": "Wizzrobe", "img": "placeholder"},
+    {"name": "Lynel", "img": "placeholder"},
+    {"name": "Guardian Scout", "img": "placeholder"},
+    {"name": "Guardian Stalker", "img": "placeholder"},
+    {"name": "Guardian Skywatcher", "img": "placeholder"},
+    {"name": "Guardian Turret", "img": "placeholder"},
+    {"name": "Decayed Guardian", "img": "placeholder"},
+    {"name": "Sentry", "img": "placeholder"},
+    {"name": "Stone Talus", "img": "placeholder"},
+    {"name": "Molduga", "img": "placeholder"},
+    {"name": "Pebblit", "img": "placeholder"},
+    {"name": "Yiga Footsoldier", "img": "placeholder"},
+    {"name": "Yiga Blademaster", "img": "placeholder"},
+    {"name": "Hinox", "img": "placeholder"},
+    {"name": "Stalnox", "img": "placeholder"},
+    {"name": "Chilfos", "img": "placeholder"},
+    {"name": "Meteo Wizzrobe", "img": "placeholder"},
+    {"name": "Blizzrobe", "img": "placeholder"},
+    {"name": "Thunder Wizzrobe", "img": "placeholder"},
+    {"name": "Fireblight Ganon", "img": "placeholder"},
+    {"name": "Waterblight Ganon", "img": "placeholder"},
+    {"name": "Thunderblight Ganon", "img": "placeholder"}
+  ]
+}
