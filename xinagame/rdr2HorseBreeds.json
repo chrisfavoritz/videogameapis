@@ -1,0 +1,80 @@
+{
+  "items": [
+    {
+      "name": "American Paint",
+      "img": "placeholder"
+    },
+    {
+      "name": "American Standardbred",
+      "img": "placeholder"
+    },
+    {
+      "name": "Andalusian",
+      "img": "placeholder"
+    },
+    {
+      "name": "Appaloosa",
+      "img": "placeholder"
+    },
+    {
+      "name": "Ardennes",
+      "img": "placeholder"
+    },
+    {
+      "name": "Belgian",
+      "img": "placeholder"
+    },
+    {
+      "name": "Dutch Warmblood",
+      "img": "placeholder"
+    },
+    {
+      "name": "Hungarian Halfbred",
+      "img": "placeholder"
+    },
+    {
+      "name": "Kentucky Saddler",
+      "img": "placeholder"
+    },
+    {
+      "name": "Missouri Fox Trotter",
+      "img": "placeholder"
+    },
+    {
+      "name": "Morgan",
+      "img": "placeholder"
+    },
+    {
+      "name": "Mustang",
+      "img": "placeholder"
+    },
+    {
+      "name": "Nokota",
+      "img": "placeholder"
+    },
+    {
+      "name": "Shire",
+      "img": "placeholder"
+    },
+    {
+      "name": "Suffolk Punch",
+      "img": "placeholder"
+    },
+    {
+      "name": "Tennessee Walker",
+      "img": "placeholder"
+    },
+    {
+      "name": "Thoroughbred",
+      "img": "placeholder"
+    },
+    {
+      "name": "Turkoman",
+      "img": "placeholder"
+    },
+    {
+      "name": "Welsh Mountain",
+      "img": "placeholder"
+    }
+  ]
+}
