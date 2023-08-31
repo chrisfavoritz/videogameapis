@@ -1,0 +1,29 @@
+{
+  "items": [
+    {"name": "Hot Dog", "img": "placeholder"},
+    {"name": "Pineapple", "img": "placeholder"},
+    {"name": "Pigeon", "img": "placeholder"},
+    {"name": "Wolf", "img": "placeholder"},
+    {"name": "T-Rex", "img": "placeholder"},
+    {"name": "Tomato", "img": "placeholder"},
+    {"name": "Ninja", "img": "placeholder"},
+    {"name": "Peabody (from Portal)", "img": "placeholder"},
+    {"name": "French Fries", "img": "placeholder"},
+    {"name": "Chicken", "img": "placeholder"},
+    {"name": "Unicorn", "img": "placeholder"},
+    {"name": "Slushie", "img": "placeholder"},
+    {"name": "Cactus", "img": "placeholder"},
+    {"name": "Grizzy (from Half-Life)", "img": "placeholder"},
+    {"name": "Scout (from Team Fortress 2)", "img": "placeholder"},
+    {"name": "Godzilla", "img": "placeholder"},
+    {"name": "Witch", "img": "placeholder"},
+    {"name": "Boxer", "img": "placeholder"},
+    {"name": "Robot", "img": "placeholder"},
+    {"name": "Mallard (Duck)", "img": "placeholder"},
+    {"name": "Monkey", "img": "placeholder"},
+    {"name": "Parrot", "img": "placeholder"},
+    {"name": "Sonic the Hedgehog", "img": "placeholder"},
+    {"name": "Shovel Knight", "img": "placeholder"},
+    {"name": "Gato Roboto", "img": "placeholder"}
+  ]
+}
