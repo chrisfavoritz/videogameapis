@@ -1,0 +1,11 @@
+{
+  "items": [
+    {"name": "Goal", "img": "placeholder"},
+    {"name": "Gravity Zone", "img": "placeholder"},
+    {"name": "Ice", "img": "placeholder"},
+    {"name": "Scoring Zone", "img": "placeholder"},
+    {"name": "Slime", "img": "placeholder"},
+    {"name": "Tile", "img": "placeholder"},
+    {"name": "Water", "img": "placeholder"}
+  ]
+}
