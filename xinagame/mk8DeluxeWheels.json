@@ -1,0 +1,24 @@
+{
+  "items": [
+    {"name": "Standard Tires", "img": "placeholder"},
+    {"name": "Monster", "img": "placeholder"},
+    {"name": "Roller", "img": "placeholder"},
+    {"name": "Slim", "img": "placeholder"},
+    {"name": "Slick", "img": "placeholder"},
+    {"name": "Metal", "img": "placeholder"},
+    {"name": "Button", "img": "placeholder"},
+    {"name": "Off-Road", "img": "placeholder"},
+    {"name": "Sponge", "img": "placeholder"},
+    {"name": "Wood", "img": "placeholder"},
+    {"name": "Cushion", "img": "placeholder"},
+    {"name": "Blue Standard", "img": "placeholder"},
+    {"name": "Azure Rollers", "img": "placeholder"},
+    {"name": "Crimson Slim", "img": "placeholder"},
+    {"name": "Cyber Slick", "img": "placeholder"},
+    {"name": "Retro Off-Road", "img": "placeholder"},
+    {"name": "Gold Tires", "img": "placeholder"},
+    {"name": "GLA Tires", "img": "placeholder"},
+    {"name": "Triforce Tires", "img": "placeholder"},
+    {"name": "Leaf Tires", "img": "placeholder"}
+  ]
+}
