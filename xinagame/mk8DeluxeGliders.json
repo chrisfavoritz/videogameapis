@@ -1,0 +1,18 @@
+{
+  "items": [
+    {"name": "Super Glider", "img": "placeholder"},
+    {"name": "Cloud Glider", "img": "placeholder"},
+    {"name": "Wario Wing", "img": "placeholder"},
+    {"name": "Waddle Wing", "img": "placeholder"},
+    {"name": "Peach Parasol", "img": "placeholder"},
+    {"name": "Parachute", "img": "placeholder"},
+    {"name": "Parafoil", "img": "placeholder"},
+    {"name": "Flower Glider", "img": "placeholder"},
+    {"name": "Bowser Kite", "img": "placeholder"},
+    {"name": "Plane Glider", "img": "placeholder"},
+    {"name": "MKTV Parafoil", "img": "placeholder"},
+    {"name": "Gold Glider", "img": "placeholder"},
+    {"name": "Hylian Kite", "img": "placeholder"},
+    {"name": "Paper Glider", "img": "placeholder"}
+  ]
+}
