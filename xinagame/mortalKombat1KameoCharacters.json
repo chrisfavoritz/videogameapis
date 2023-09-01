@@ -2,51 +2,59 @@
   "items": [
     {
       "name": "Cyrax",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/mkwikia/images/a/ae/Cyrax_RenderMK11.png/revision/latest/scale-to-width-down/239?cb=20190627163350"
+    },
+    {
+      "name": "Darrius",
+      "img": "https://static.wikia.nocookie.net/mkwikia/images/5/5b/Darrius223iy.png/revision/latest/scale-to-width-down/285?cb=20110624152008"
     },
     {
       "name": "Frost",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/mkwikia/images/8/8a/Frost_mk11.png/revision/latest?cb=20190423002639"
     },
     {
       "name": "Goro",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/mkwikia/images/7/74/GoroRenderMKX.png/revision/latest?cb=20150506005824"
+    },
+    {
+      "name": "Hanzo Hasashi",
+      "img": "https://static.wikia.nocookie.net/mkwikia/images/b/b6/Scorpion_MK11_3.png/revision/latest?cb=20190405144918"
     },
     {
       "name": "Jax Briggs",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/mkwikia/images/4/4c/Jax_mk11.png/revision/latest?cb=20190328005321"
     },
     {
       "name": "Kano",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/mkwikia/images/6/67/Kano_MK11.png/revision/latest?cb=20190227221749"
     },
     {
-      "name": "Kung Lao",
-      "img": "placeholder"
+      "name": "Kurtis Stryker",
+      "img": "https://static.wikia.nocookie.net/mkwikia/images/7/7a/Renderstrykermk9s.png/revision/latest?cb=20170101224503"
+    },
+    {
+      "name": "Motaro",
+      "img": "https://static.wikia.nocookie.net/mkwikia/images/7/7b/MKA_Motaro.jpg/revision/latest?cb=20110318030725"
     },
     {
       "name": "Sareena",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/mkwikia/images/3/32/SareenaMKXRender.png/revision/latest?cb=20210829072252"
     },
     {
       "name": "Scorpion",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/mkwikia/images/8/88/InjusticeScorpionMortalKombatX.png/revision/latest?cb=20171225230724"
     },
     {
       "name": "Sektor",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/mkwikia/images/c/ca/Sektor_Render.png/revision/latest/scale-to-width-down/1000?cb=20190627164044"
     },
     {
-      "name": "Sub-Zero",
-      "img": "placeholder"
+      "name": "Shujinko",
+      "img": "https://static.wikia.nocookie.net/mkwikia/images/d/db/Shujinko8pc.png/revision/latest?cb=20110624152535"
     },
     {
       "name": "Sonya Blade",
-      "img": "placeholder"
-    },
-    {
-      "name": "Stryker",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/mkwikia/images/7/72/Sonya_MK_11.png/revision/latest?cb=20190228013545"
     }
   ]
 }
