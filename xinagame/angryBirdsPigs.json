@@ -1,0 +1,40 @@
+{
+  "items": [
+    {
+      "name": "Minion Pig",
+      "img": "https://static.wikia.nocookie.net/angrybirds/images/3/31/Pig_%282010%29.png/revision/latest?cb=20230306000439"
+    },
+    {
+      "name": "Corporal Pig",
+      "img": "https://static.wikia.nocookie.net/angrybirds/images/4/4c/Epikbirbhelmet.svg/revision/latest?cb=20220613180637"
+    },
+    {
+      "name": "King Pig",
+      "img": "https://static.wikia.nocookie.net/angrybirds/images/7/76/Smoothcheeks_Chrome.png/revision/latest?cb=20220611081312"
+    },
+    {
+      "name": "Foreman Pig",
+      "img": "https://static.wikia.nocookie.net/angrybirds/images/6/65/Moustache_pig.png/revision/latest/scale-to-width-down/1000?cb=20221003215943"
+    },
+    {
+      "name": "Chef Pig",
+      "img": "https://static.wikia.nocookie.net/angrybirds/images/7/73/Maverick.png/revision/latest?cb=20191101004147"
+    },
+    {
+      "name": "Ross",
+      "img": "https://static.wikia.nocookie.net/angrybirds/images/0/0c/Freckled_pig.png/revision/latest?cb=20220621161921"
+    },
+    {
+      "name": "Mechanic Pig",
+      "img": "https://static.wikia.nocookie.net/angrybirds/images/5/5a/Mechanic_pig_handsome.png/revision/latest?cb=20130527055419"
+    },
+    {
+      "name": "Professor Pig",
+      "img": "https://static.wikia.nocookie.net/angrybirds/images/c/ce/Professor_pig_240.png/revision/latest?cb=20130419123316"
+    },
+    {
+      "name": "Leonard",
+      "img": "https://static.wikia.nocookie.net/angrybirds/images/5/5e/Leonard_Classic.png/revision/latest?cb=20230421153346"
+    }
+  ]
+}
