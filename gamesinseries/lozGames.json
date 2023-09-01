@@ -2,91 +2,91 @@
   "items": [
     {
       "name": "The Legend of Zelda (1986)",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/4/41/Legend_of_zelda_cover_%28with_cartridge%29_gold.png"
     },
     {
       "name": "Zelda II: The Adventure of Link (1987)",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/f/fd/Zelda_II_The_Adventure_of_Link_box.jpg"
     },
     {
       "name": "The Legend of Zelda: A Link to the Past (1991)",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/2/21/The_Legend_of_Zelda_A_Link_to_the_Past_SNES_Game_Cover.jpg"
     },
     {
       "name": "The Legend of Zelda: Link's Awakening (1993)",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/c/c1/Link%27s_Awakening.png"
     },
     {
       "name": "The Legend of Zelda: Ocarina of Time (1998)",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/5/57/The_Legend_of_Zelda_Ocarina_of_Time.jpg"
     },
     {
       "name": "The Legend of Zelda: Majora's Mask (2000)",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/6/60/The_Legend_of_Zelda_-_Majora%27s_Mask_Box_Art.jpg"
     },
     {
       "name": "The Legend of Zelda: Oracle of Ages (2001)",
-      "img": "placeholder"
+      "img": "https://www.zeldadungeon.net/wiki/images/d/d7/Oracle-of-Ages-Box.jpg"
     },
     {
       "name": "The Legend of Zelda: Oracle of Seasons (2001)",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/a/af/The_Legend_of_Zelda_Oracle_of_Seasons_and_Oracle_of_Ages_Game_Cover.jpg/220px-The_Legend_of_Zelda_Oracle_of_Seasons_and_Oracle_of_Ages_Game_Cover.jpg"
     },
     {
       "name": "The Legend of Zelda: A Link to the Past & Four Swords (2002)",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/8/83/The_Legend_of_Zelda_A_Link_to_the_Past_%26_Four_Swords_Game_Cover.jpg"
     },
     {
       "name": "The Legend of Zelda: The Wind Waker (2002)",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/7/79/The_Legend_of_Zelda_The_Wind_Waker.jpg"
     },
     {
       "name": "The Legend of Zelda: Four Swords Adventures (2004)",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/5/56/The_Legend_of_Zelda_Four_Swords_Adventures_Game_Cover.jpg"
     },
     {
       "name": "The Legend of Zelda: The Minish Cap (2004)",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/a/a5/The_Legend_of_Zelda_The_Minish_Cap_Game_Cover.JPG"
     },
     {
       "name": "The Legend of Zelda: Twilight Princess (2006)",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/0/0e/The_Legend_of_Zelda_Twilight_Princess_Game_Cover.jpg"
     },
     {
       "name": "The Legend of Zelda: Phantom Hourglass (2007)",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/5/5e/The_Legend_of_Zelda_Phantom_Hourglass_Game_Cover.jpg"
     },
     {
       "name": "The Legend of Zelda: Spirit Tracks (2009)",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/9/91/The_Legend_of_Zelda_Spirit_Tracks_box_art.jpg"
     },
     {
       "name": "The Legend of Zelda: Skyward Sword (2011)",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/9/99/Legend_of_Zelda_Skyward_Sword_boxart.png"
     },
     {
       "name": "The Legend of Zelda: A Link Between Worlds (2013)",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/1/1b/The_Legend_of_Zelda_A_Link_Between_Worlds_NA_cover.jpg"
     },
     {
       "name": "The Legend of Zelda: Tri Force Heroes (2015)",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/d/db/The_Legend_of_Zelda_Tri_Force_Heroes_Boxart.jpg"
     },
     {
       "name": "The Legend of Zelda: Breath of the Wild (2017)",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/c/c6/The_Legend_of_Zelda_Breath_of_the_Wild.jpg"
     },
     {
       "name": "The Legend of Zelda: Link's Awakening (2019)",
-      "img": "placeholder"
+      "img": "https://www.zeldadungeon.net/wiki/images/5/56/La19-boxart.png"
     },
     {
       "name": "The Legend of Zelda: Skyward Sword (2021)",
-      "img": "placeholder"
+      "img": "https://www.zeldadungeon.net/wiki/images/thumb/1/1d/SSHD_NOA_cover.png/185px-SSHD_NOA_cover.png"
     },
     {
       "name": "The Legend of Zelda: Tears of the Kingdom (2023)",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/f/fb/The_Legend_of_Zelda_Tears_of_the_Kingdom_cover.jpg"
     }
   ]
 }
