@@ -1,0 +1,28 @@
+{
+  "items": [
+    {
+      "name": "New Super Mario Bros. (2006)",
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/d/db/NewSuperMarioBrothers.jpg/220px-NewSuperMarioBrothers.jpg"
+    },
+    {
+      "name": "New Super Mario Bros. Wii (2009)",
+      "img": "https://upload.wikimedia.org/wikipedia/en/8/8f/NewSuperMarioBrosWiiBoxart.png"
+    },
+    {
+      "name": "New Super Mario Bros. 2 (2012)",
+      "img": "https://upload.wikimedia.org/wikipedia/en/3/35/New_Super_Mario_Bros._2_box_artwork.png"
+    },
+    {
+      "name": "New Super Mario Bros. U (2012)",
+      "img": "https://upload.wikimedia.org/wikipedia/en/0/03/New_Super_Mario_Bros._U_box_art.png"
+    },
+    {
+      "name": "New Super Luigi U (2013) - Expansion for NSMBU.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fe/New_Super_Luigi_U.jpg/220px-New_Super_Luigi_U.jpg"
+    },
+    {
+      "name": "New Super Mario Bros. U Deluxe (2019)",
+      "img": "https://mario.wiki.gallery/images/thumb/8/8b/NSMBU_Deluxe_Boxart.jpg/250px-NSMBU_Deluxe_Boxart.jpg"
+    }
+  ]
+}
