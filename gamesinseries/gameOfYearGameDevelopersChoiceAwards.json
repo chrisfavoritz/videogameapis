@@ -2,95 +2,95 @@
   "items": [
     {
       "name": "The Sims (2000)",
-      "img": "placeholder"
+      "img": "https://gamechoiceawards.com/sites/default/files/the-sims.png"
     },
     {
-      "name": "Halo: Combat Evolved (2001)",
-      "img": "placeholder"
+      "name": "Grand Theft Auto III (2001)",
+      "img": "https://gamechoiceawards.com/sites/default/files/grand-theft-auto-3.png"
     },
     {
       "name": "Metroid Prime (2002)",
-      "img": "placeholder"
+      "img": "https://gamechoiceawards.com/sites/default/files/metroid-prime.png"
     },
     {
       "name": "Star Wars: Knights of the Old Republic (2003)",
-      "img": "placeholder"
+      "img": "https://gamechoiceawards.com/sites/default/files/knights-of-the-old-republic.png"
     },
     {
       "name": "Half-Life 2 (2004)",
-      "img": "placeholder"
+      "img": "https://gamechoiceawards.com/sites/default/files/half-life-2.png"
     },
     {
       "name": "Shadow of the Colossus (2005)",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/Shadow_of_the_Colossus_%282005%29_cover.jpg/220px-Shadow_of_the_Colossus_%282005%29_cover.jpg"
     },
     {
       "name": "Gears of War (2006)",
-      "img": "placeholder"
+      "img": "https://gamechoiceawards.com/sites/default/files/gears-of-war.jpg"
     },
     {
       "name": "Portal (2007)",
-      "img": "placeholder"
+      "img": "https://gamechoiceawards.com/sites/default/files/portal.png"
     },
     {
       "name": "Fallout 3 (2008)",
-      "img": "placeholder"
+      "img": "https://gamechoiceawards.com/sites/default/files/fallout-3.png"
     },
     {
       "name": "Uncharted 2: Among Thieves (2009)",
-      "img": "placeholder"
+      "img": "https://gamechoiceawards.com/sites/default/files/uncharted-2.jpeg"
     },
     {
       "name": "Red Dead Redemption (2010)",
-      "img": "placeholder"
+      "img": "https://gamechoiceawards.com/sites/default/files/red-dead-redemption.png"
     },
     {
       "name": "The Elder Scrolls V: Skyrim (2011)",
-      "img": "placeholder"
+      "img": "https://gamechoiceawards.com/sites/default/files/skyrim.png"
     },
     {
       "name": "Journey (2012)",
-      "img": "placeholder"
+      "img": "https://gamechoiceawards.com/sites/default/files/journey.png"
     },
     {
       "name": "The Last of Us (2013)",
-      "img": "placeholder"
+      "img": "https://gamechoiceawards.com/sites/default/files/the-last-of-us.png"
     },
     {
       "name": "Middle-earth: Shadow of Mordor (2014)",
-      "img": "placeholder"
+      "img": "https://gamechoiceawards.com/sites/default/files/middle-earth-shadow-of-mordor.png"
     },
     {
       "name": "The Witcher 3: Wild Hunt (2015)",
-      "img": "placeholder"
+      "img": "https://gamechoiceawards.com/sites/default/files/the-witcher-3-wild-hunt.png"
     },
     {
       "name": "Overwatch (2016)",
-      "img": "placeholder"
+      "img": "https://gamechoiceawards.com/sites/default/files/overwatch.png"
     },
     {
       "name": "The Legend of Zelda: Breath of the Wild (2017)",
-      "img": "placeholder"
+      "img": "https://gamechoiceawards.com/sites/default/files/the-legend-of-zelda-breath-of-the-wild.png"
     },
     {
       "name": "God of War (2018)",
-      "img": "placeholder"
+      "img": "https://gamechoiceawards.com/sites/default/files/god-of-war.png"
     },
     {
       "name": "Untitled Goose Game (2019)",
-      "img": "placeholder"
+      "img": "https://gamechoiceawards.com/sites/default/files/untitled-goose-game.png"
     },
     {
       "name": "Hades (2020)",
-      "img": "placeholder"
+      "img": "https://gamechoiceawards.com/sites/default/files/Hades_cover_2022_360x540.jpg"
     },
     {
       "name": "Inscryption (2021)",
-      "img": "placeholder"
+      "img": "https://gamechoiceawards.com/sites/default/files/Inscryption_cover_2022_360x540.jpg"
     },
     {
       "name": "Elden Ring (2022)",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b9/Elden_Ring_Box_art.jpg/220px-Elden_Ring_Box_art.jpg"
     }
   ]
 }
