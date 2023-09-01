@@ -1,0 +1,44 @@
+{
+  "items": [
+    {
+      "name": "The Eggs",
+      "img": "https://static.wikia.nocookie.net/angrybirds/images/e/e5/Angry_Birds_2_trailer_Eggs.png/revision/latest/scale-to-width-down/350?cb=20210911041641"
+    },
+    {
+      "name": "Female Red Bird",
+      "img": "https://static.wikia.nocookie.net/angrybirds/images/7/73/FemaleRedBird.png/revision/latest?cb=20221011225612"
+    },
+    {
+      "name": "Tony",
+      "img": "https://static.wikia.nocookie.net/angrybirds/images/c/c6/ABSeasonsTony_%28Transparent%29.png/revision/latest?cb=20141116062825"
+    },
+    {
+      "name": "Ice Bird",
+      "img": "https://static.wikia.nocookie.net/angrybirds/images/d/dd/AB_Japan_Image_19.png/revision/latest?cb=20140720032419"
+    },
+    {
+      "name": "Poppy",
+      "img": "https://static.wikia.nocookie.net/angrybirds/images/3/37/Poppy.png/revision/latest?cb=20141209081106"
+    },
+    {
+      "name": "Luca",
+      "img": "https://static.wikia.nocookie.net/angrybirds/images/e/e5/LUCA_FRONT_copy.png/revision/latest/scale-to-width-down/1000?cb=20230204143214"
+    },
+    {
+      "name": "Dahlia",
+      "img": "https://static.wikia.nocookie.net/angrybirds/images/f/f3/DahliaABStella.png/revision/latest?cb=20140808225011"
+    },
+    {
+      "name": "Willow",
+      "img": "https://static.wikia.nocookie.net/angrybirds/images/8/8f/Willow_AB.png/revision/latest?cb=20211005055107"
+    },
+    {
+      "name": "Hatchlings",
+      "img": "https://static.wikia.nocookie.net/angrybirds/images/4/47/ABMovie_Hatchlings.png/revision/latest?cb=20160403054150"
+    },
+    {
+      "name": "Melody",
+      "img": "https://static.wikia.nocookie.net/angrybirds/images/5/51/Melody_bird_AB2.png/revision/latest?cb=20221230170405"
+    }
+  ]
+}
