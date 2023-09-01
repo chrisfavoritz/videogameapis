@@ -2,103 +2,115 @@
   "items": [
     {
       "name": "Ashrah",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/mkwikia/images/b/be/Ashrah_MK1_render.webp/revision/latest?cb=20230815195900"
     },
     {
       "name": "Baraka",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/mkwikia/images/0/0b/Baraka_MK1_render.webp/revision/latest?cb=20230801030420"
+    },
+    {
+      "name": "Bi-Han",
+      "img": "https://static.wikia.nocookie.net/mkwikia/images/4/4c/SubZero_MK1_render.webp/revision/latest?cb=20230828132257"
     },
     {
       "name": "Ermac",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/mkwikia/images/b/bd/Ermac_MK1.png/revision/latest?cb=20230724115742"
     },
     {
       "name": "Geras",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/mkwikia/images/c/c6/Geras_MK1_render.webp/revision/latest?cb=20230803120258"
     },
     {
       "name": "Havik",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/mkwikia/images/7/78/Havik_MK1_render.webp/revision/latest?cb=20230810223057"
     },
     {
       "name": "Homelander",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/mkwikia/images/3/3e/Homelander_%28trailer_appearance%29.png/revision/latest/scale-to-width-down/1000?cb=20230724115452"
     },
     {
       "name": "Johnny Cage",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/mkwikia/images/c/c0/JohnnyCage_MK1_render.webp/revision/latest?cb=20230831165448"
     },
     {
       "name": "Kenshi",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/mkwikia/images/4/4a/Kenshi_MK1_render.webp/revision/latest?cb=20230630031617"
     },
     {
       "name": "Kitana",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/mkwikia/images/5/51/Kitana_MK1_render.webp/revision/latest?cb=20230630031535"
+    },
+    {
+      "name": "Kuai Liang",
+      "img": "https://static.wikia.nocookie.net/mkwikia/images/e/e5/Scorpion_MK1_render.webp/revision/latest?cb=20230828131834"
     },
     {
       "name": "Kung Lao",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/mkwikia/images/4/49/KungLao_MK1_render.webp/revision/latest?cb=20230630031633"
     },
     {
       "name": "Li Mei",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/mkwikia/images/c/ca/LiMei_MK1_render.webp/revision/latest?cb=20230801030358"
     },
     {
       "name": "Liu Kang",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/mkwikia/images/9/97/LiuKang_MK1_render.webp/revision/latest?cb=20230823205633"
+    },
+    {
+      "name": "Madame Bo",
+      "img": "https://static.wikia.nocookie.net/mkwikia/images/0/02/Madame_Bo_-_MK1.png/revision/latest/scale-to-width-down/1000?cb=20230824030647"
     },
     {
       "name": "Mileena",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/mkwikia/images/2/22/Mileena_MK1_render.webp/revision/latest?cb=20230630031648"
     },
     {
       "name": "Omni-Man",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/mkwikia/images/b/b2/Omni-ManMK1.png/revision/latest/scale-to-width-down/1000?cb=20230724115410"
     },
     {
       "name": "Peacemaker",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/mkwikia/images/a/a8/PeacemakerMK1.png/revision/latest?cb=20230724115337"
     },
     {
       "name": "Quan Chi",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/mkwikia/images/b/bd/Quan_Chi_MK1.png/revision/latest?cb=20230724115827"
     },
     {
       "name": "Raiden",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/mkwikia/images/0/03/Raiden_MK1_render.webp/revision/latest?cb=20230630031659"
     },
     {
       "name": "Rain",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/mkwikia/images/0/0f/Rain_MK1.png/revision/latest/scale-to-width-down/1000?cb=20230714002129"
     },
     {
       "name": "Reptile",
-      "img": "placeholder"
-    },
-    {
-      "name": "Scorpion",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/mkwikia/images/c/c2/Reptile_MK1_render.webp/revision/latest?cb=20230810223046"
     },
     {
       "name": "Shang Tsung",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/mkwikia/images/d/d7/ShangMK1.png/revision/latest?cb=20230807215534"
+    },
+    {
+      "name": "Shao Kahn",
+      "img": "https://static.wikia.nocookie.net/mkwikia/images/b/bb/Shao_MK1_render.webp/revision/latest?cb=20230823175717"
+    },
+    {
+      "name": "Sindel",
+      "img": "https://static.wikia.nocookie.net/mkwikia/images/0/05/Sindel_MK1_render.webp/revision/latest?cb=20230823180149"
     },
     {
       "name": "Smoke",
-      "img": "placeholder"
-    },
-    {
-      "name": "Sub-Zero",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/mkwikia/images/e/e8/Smoke_MK1.png/revision/latest?cb=20230829021552"
     },
     {
       "name": "Takeda",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/mkwikia/images/0/09/Takeda_MK1.png/revision/latest?cb=20230724115635"
     },
     {
       "name": "Tanya",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/mkwikia/images/6/6a/Tanya_MK1_render.webp/revision/latest?cb=20230801030447"
     }
   ]
 }
