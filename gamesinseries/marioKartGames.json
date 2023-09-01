@@ -4,61 +4,67 @@
       "name": "Super Mario Kart",
       "platform": "Super Nintendo Entertainment System (SNES)",
       "year": 1992,
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/3/38/Supermariokart_box.JPG"
     },
     {
       "name": "Mario Kart 64",
       "platform": "Nintendo 64",
       "year": 1996,
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/a/a1/Mario_Kart_64.jpg"
     },
     {
       "name": "Mario Kart: Super Circuit",
       "platform": "Game Boy Advance (GBA)",
       "year": 2001,
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/9/90/Super_Circuit.jpg"
     },
     {
       "name": "Mario Kart: Double Dash!!",
       "platform": "GameCube",
       "year": 2003,
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/7/78/Mario_Kart_Double_Dash.jpg"
     },
     {
       "name": "Mario Kart DS",
       "platform": "Nintendo DS",
       "year": 2005,
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/8/86/Mario_Kart_DS_cover.jpg"
     },
     {
       "name": "Mario Kart Wii",
       "platform": "Wii",
       "year": 2008,
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/d/d6/Mario_Kart_Wii.png"
     },
     {
       "name": "Mario Kart 7",
       "platform": "Nintendo 3DS",
       "year": 2011,
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/2/2a/Mario_Kart_7_box_art.jpg"
     },
     {
       "name": "Mario Kart 8",
       "platform": "Wii U",
       "year": 2014,
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/b/b5/MarioKart8Boxart.jpg"
     },
     {
       "name": "Mario Kart 8 Deluxe",
       "platform": "Nintendo Switch",
       "year": 2017,
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/mariokart/images/9/9b/MK8_Deluxe_-_Box_NA.png/revision/latest/scale-to-width-down/309?cb=20170704085016"
     },
     {
       "name": "Mario Kart Tour",
       "platform": "Mobile (iOS, Android)",
       "year": 2019,
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/2/2e/Mario_Kart_Tour_2.9.2_app_icon.png"
+    },
+    {
+      "name": "Mario Kart Live: Home Circuit",
+      "platform": "Mobile (iOS, Android)",
+      "year": 2019,
+      "img": "https://upload.wikimedia.org/wikipedia/en/f/f5/Mario_Kart_Live_Home_Circuit.jpeg"
     }
   ]
 }
