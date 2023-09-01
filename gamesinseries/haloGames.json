@@ -2,27 +2,27 @@
   "items": [
     {
       "name": "Halo: Combat Evolved (2001)",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/8/80/Halo_-_Combat_Evolved_%28XBox_version_-_box_art%29.jpg"
     },
     {
       "name": "Halo 2 (2004)",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/9/92/Halo2-cover.png"
     },
     {
       "name": "Halo 3 (2007)",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/b/b4/Halo_3_final_boxshot.JPG"
     },
     {
       "name": "Halo 4 (2012)",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/9/92/Halo_4_box_artwork.png"
     },
     {
       "name": "Halo 5: Guardians (2015)",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/6/68/Halo_Guardians.png"
     },
     {
       "name": "Halo Infinite (2021)",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/1/14/Halo_Infinite.png"
     }
   ]
 }
