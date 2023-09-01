@@ -1,0 +1,44 @@
+{
+  "items": [
+    {
+      "name": "Red",
+      "img": "https://static.wikia.nocookie.net/angrybirds/images/3/31/Red.png/revision/latest/scale-to-width-down/1000?cb=20230125165323"
+    },
+    {
+      "name": "The Blues",
+      "img": "https://static.wikia.nocookie.net/angrybirds/images/d/dd/Blues_240.png/revision/latest?cb=20130419123057"
+    },
+    {
+      "name": "Chuck",
+      "img": "https://static.wikia.nocookie.net/angrybirds/images/a/a1/Yellow_23.png/revision/latest/scale-to-width-down/1000?cb=20220525125934"
+    },
+    {
+      "name": "Bomb",
+      "img": "https://static.wikia.nocookie.net/angrybirds/images/6/68/Blackbird.png/revision/latest?cb=20220428221729"
+    },
+    {
+      "name": "Matilda",
+      "img": "https://static.wikia.nocookie.net/angrybirds/images/9/91/Matilda_Classic.svg/revision/latest?cb=20220613194934"
+    },
+    {
+      "name": "Terenca",
+      "img": "https://static.wikia.nocookie.net/angrybirds/images/f/fa/TerenceABClassic.png/revision/latest?cb=20220609141906"
+    },
+    {
+      "name": "Hal",
+      "img": "https://static.wikia.nocookie.net/angrybirds/images/9/9a/1570297599173.png/revision/latest?cb=20221011141102"
+    },
+    {
+      "name": "Bubbles",
+      "img": "https://static.wikia.nocookie.net/angrybirds/images/4/43/Orange.png/revision/latest?cb=20220610151407"
+    },
+    {
+      "name": "Stella",
+      "img": "https://static.wikia.nocookie.net/angrybirds/images/d/d6/Stella_transparent.png/revision/latest/scale-to-width-down/1000?cb=20220711091924"
+    },
+    {
+      "name": "Silver",
+      "img": "https://static.wikia.nocookie.net/angrybirds/images/2/28/SilverBird2.png/revision/latest?cb=20220609141534"
+    }
+  ]
+}
