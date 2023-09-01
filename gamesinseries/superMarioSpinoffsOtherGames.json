@@ -1,0 +1,36 @@
+{
+  "items": [
+    {
+      "name": "Super Mario Land 3: Wario Land (1994)",
+      "img": "https://mario.wiki.gallery/images/thumb/e/e6/WarioLandBoxArt.jpg/250px-WarioLandBoxArt.jpg"
+    },
+    {
+      "name": "Super Mario RPG: Legend of the Seven Stars (1996)",
+      "img": "https://mario.wiki.gallery/images/thumb/c/c4/Super_Mario_RPG_Box.png/300px-Super_Mario_RPG_Box.png"
+    },
+    {
+      "name": "Super Mario Maker (2015)",
+      "img": "https://upload.wikimedia.org/wikipedia/en/d/da/Super_Mario_Maker_Artwork.jpg"
+    },
+    {
+      "name": "Super Mario Maker 2 (2019)",
+      "img": "https://upload.wikimedia.org/wikipedia/en/c/c7/Super_Mario_Maker_2.jpg"
+    },
+    {
+      "name": "Super Mario Run (2016)",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Super_Mario_Run_logo.svg/480px-Super_Mario_Run_logo.svg.png"
+    },
+    {
+      "name": "Super Mario All-Stars (1993)",
+      "img": "https://mario.wiki.gallery/images/thumb/7/72/SMAS.jpg/480px-SMAS.jpg"
+    },
+    {
+      "name": "Super Mario 3D All-Stars (2020)",
+      "img": "https://mario.wiki.gallery/images/thumb/f/fe/Box_NA-Super_Mario_3D_All-Stars.png/200px-Box_NA-Super_Mario_3D_All-Stars.png"
+    },
+    {
+      "name": "Super Mario 3D World + Bowser's Fury (2021)",
+      "img": "https://upload.wikimedia.org/wikipedia/en/8/89/Bowser%27s_Fury_cover.jpg"
+    }
+  ]
+}
