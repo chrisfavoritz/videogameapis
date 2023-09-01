@@ -2,43 +2,43 @@
   "items": [
     {
       "name": "Johnny Cage",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/mkwikia/images/9/98/Jcmk1.gif/revision/latest?cb=20091003212441"
     },
     {
       "name": "Kano",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/mkwikia/images/2/29/Kano.gif/revision/latest?cb=20090614025256"
     },
     {
       "name": "Raiden",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/mkwikia/images/e/ec/RAIDEN.gif/revision/latest?cb=20171222075826"
     },
     {
       "name": "Liu Kang",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/mkwikia/images/e/ea/Liu_Kang_MK1.gif/revision/latest?cb=20230628071813"
     },
     {
       "name": "Scorpion",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/mkwikia/images/0/0c/SCORPION.gif/revision/latest?cb=20100920165611"
     },
     {
       "name": "Sub-Zero",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/mkwikia/images/c/c2/Fightstance.gif/revision/latest?cb=20110129190255"
     },
     {
       "name": "Sonya Blade",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/mkwikia/images/6/6d/SONIYAMK1.gif/revision/latest?cb=20091108190905"
     },
     {
       "name": "Reptile",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/mkwikia/images/8/89/MK1.gif/revision/latest?cb=20090602231939"
     },
     {
       "name": "Goro",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/mkwikia/images/6/66/GordanceYEA%21.gif/revision/latest?cb=20091108190157"
     },
     {
       "name": "Shang Tsung",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/mkwikia/images/9/93/Sgh.gif/revision/latest?cb=20111126225754"
     }
   ]
 }
