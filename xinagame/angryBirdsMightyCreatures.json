@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "name": "Mighty Eagle",
+      "img": "https://static.wikia.nocookie.net/angrybirds/images/6/6c/Mighty_Eagle.png/revision/latest/scale-to-width-down/350?cb=20220618061704"
+    },
+    {
+      "name": "Mighty Dragon",
+      "img": "https://static.wikia.nocookie.net/angrybirds/images/e/e4/Mighty_Dragon.png/revision/latest?cb=20140313054853"
+    },
+    {
+      "name": "Space Eagle",
+      "img": "https://static.wikia.nocookie.net/angrybirds/images/f/f2/Space_eagle_SPEED.png/revision/latest?cb=20130713070933"
+    },
+    {
+      "name": "Millenium Falcon",
+      "img": "https://static.wikia.nocookie.net/angrybirds/images/6/6c/MightyFalconshortsides.png/revision/latest?cb=20130907033531"
+    },
+    {
+      "name": "Wingman",
+      "img": "https://static.wikia.nocookie.net/angrybirds/images/6/65/ABF_Wingman.png/revision/latest?cb=20191124165225"
+    }
+  ]
+}
