@@ -2,111 +2,115 @@
   "items": [
     {
       "name": "Super Mario Bros. (1985)",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/0/03/Super_Mario_Bros._box.png"
     },
     {
       "name": "Super Mario Bros. 2 (1988)",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/0/00/Super_Mario_Bros_2.jpg"
     },
     {
       "name": "Super Mario Bros. 3 (1988)",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/a/a5/Super_Mario_Bros._3_coverart.png"
     },
     {
       "name": "Super Mario Land (1989)",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/0/02/Supermariolandboxart.jpg"
     },
     {
       "name": "Super Mario World (1990)",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/3/32/Super_Mario_World_Coverart.png/220px-Super_Mario_World_Coverart.png"
     },
     {
       "name": "Super Mario Land 2: 6 Golden Coins (1992)",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/0/0d/Super_Mario_Land_2_box_art.jpg"
     },
     {
       "name": "Super Mario 64 (1996)",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/6/6a/Super_Mario_64_box_cover.jpg"
     },
     {
       "name": "Super Mario Sunshine (2002)",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/7/78/Super_mario_sunshine.jpg"
     },
     {
       "name": "Super Mario Galaxy (2007)",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/7/76/SuperMarioGalaxy.jpg"
     },
     {
       "name": "Super Mario Galaxy 2 (2010)",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/6/65/Super_Mario_Galaxy_2_Box_Art.jpg"
     },
     {
       "name": "Super Mario 3D Land (2011)",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/4/42/Super-Mario-3D-Land-Logo.jpg"
     },
     {
       "name": "Super Mario 3D World (2013)",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/5/5e/Super_Mario_3D_World_box_art.jpg"
     },
     {
       "name": "Super Mario Odyssey (2017)",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/8/8d/Super_Mario_Odyssey.jpg"
+    },
+    {
+      "name": "Super Mario Bros. Wonder (2023)",
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/MarioBrosWonder.jpg/220px-MarioBrosWonder.jpg"
     },
     {
       "name": "New Super Mario Bros. (2006)",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/d/db/NewSuperMarioBrothers.jpg/220px-NewSuperMarioBrothers.jpg"
     },
     {
       "name": "New Super Mario Bros. Wii (2009)",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/8/8f/NewSuperMarioBrosWiiBoxart.png"
     },
     {
       "name": "New Super Mario Bros. 2 (2012)",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/3/35/New_Super_Mario_Bros._2_box_artwork.png"
     },
     {
       "name": "New Super Mario Bros. U (2012)",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/0/03/New_Super_Mario_Bros._U_box_art.png"
     },
     {
       "name": "New Super Luigi U (2013) - Expansion for NSMBU.",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fe/New_Super_Luigi_U.jpg/220px-New_Super_Luigi_U.jpg"
     },
     {
       "name": "New Super Mario Bros. U Deluxe (2019)",
-      "img": "placeholder"
+      "img": "https://mario.wiki.gallery/images/thumb/8/8b/NSMBU_Deluxe_Boxart.jpg/250px-NSMBU_Deluxe_Boxart.jpg"
     },
     {
       "name": "Super Mario Land 3: Wario Land (1994)",
-      "img": "placeholder"
+      "img": "https://mario.wiki.gallery/images/thumb/e/e6/WarioLandBoxArt.jpg/250px-WarioLandBoxArt.jpg"
     },
     {
       "name": "Super Mario RPG: Legend of the Seven Stars (1996)",
-      "img": "placeholder"
+      "img": "https://mario.wiki.gallery/images/thumb/c/c4/Super_Mario_RPG_Box.png/300px-Super_Mario_RPG_Box.png"
     },
     {
       "name": "Super Mario Maker (2015)",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/d/da/Super_Mario_Maker_Artwork.jpg"
     },
     {
       "name": "Super Mario Maker 2 (2019)",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/c/c7/Super_Mario_Maker_2.jpg"
     },
     {
       "name": "Super Mario Run (2016)",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Super_Mario_Run_logo.svg/480px-Super_Mario_Run_logo.svg.png"
     },
     {
       "name": "Super Mario All-Stars (1993)",
-      "img": "placeholder"
+      "img": "https://mario.wiki.gallery/images/thumb/7/72/SMAS.jpg/480px-SMAS.jpg"
     },
     {
       "name": "Super Mario 3D All-Stars (2020)",
-      "img": "placeholder"
+      "img": "https://mario.wiki.gallery/images/thumb/f/fe/Box_NA-Super_Mario_3D_All-Stars.png/200px-Box_NA-Super_Mario_3D_All-Stars.png"
     },
     {
       "name": "Super Mario 3D World + Bowser's Fury (2021)",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/8/89/Bowser%27s_Fury_cover.jpg"
     }
   ]
 }
