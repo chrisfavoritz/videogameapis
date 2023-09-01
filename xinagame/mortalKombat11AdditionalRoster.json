@@ -1,0 +1,56 @@
+{
+  "items": [
+    {
+      "name": "Shao Kahn",
+      "img": "https://static.wikia.nocookie.net/mkwikia/images/b/bb/Shao_MK1_render.webp/revision/latest?cb=20230823175717"
+    },
+    {
+      "name": "The Joker",
+      "img": "https://static.wikia.nocookie.net/mkwikia/images/3/3d/MK11JokerRender.png/revision/latest?cb=20200129032527"
+    },
+    {
+      "name": "Nightwolf",
+      "img": "https://static.wikia.nocookie.net/mkwikia/images/a/ad/NightwolfRenderMK11.png/revision/latest?cb=20190815003315"
+    },
+    {
+      "name": "Shang Tsung",
+      "img": "https://static.wikia.nocookie.net/mkwikia/images/d/d7/ShangMK1.png/revision/latest?cb=20230807215534"
+    },
+    {
+      "name": "Sindel",
+      "img": "https://static.wikia.nocookie.net/mkwikia/images/0/05/Sindel_MK1_render.webp/revision/latest?cb=20230823180149"
+    },
+    {
+      "name": "Spawn",
+      "img": "https://static.wikia.nocookie.net/mkwikia/images/2/22/Spawn_Render.png/revision/latest?cb=20190827201327"
+    },
+    {
+      "name": "The Terminator",
+      "img": "https://static.wikia.nocookie.net/mkwikia/images/5/53/MK11TerminatorRender.png/revision/latest?cb=20200129033028"
+    },
+    {
+      "name": "Fujin",
+      "img": "https://static.wikia.nocookie.net/mkwikia/images/6/63/MK11_Fujin_render-0.png/revision/latest?cb=20200506203604"
+    },
+    {
+      "name": "RoboCop",
+      "img": "https://static.wikia.nocookie.net/mkwikia/images/a/a8/Robocop_MK11_render.png/revision/latest?cb=20200506203054"
+    },
+    {
+      "name": "Sheeva",
+      "img": "https://static.wikia.nocookie.net/mkwikia/images/8/84/Sheeva_Render.png/revision/latest?cb=20200508024526"
+    },
+    {
+      "name": "John Rambo",
+      "img": "https://static.wikia.nocookie.net/mkwikia/images/8/83/MK11JohnRamboRender.png/revision/latest?cb=20201008145819"
+    },
+    {
+      "name": "Mileena",
+      "img": "https://static.wikia.nocookie.net/mkwikia/images/2/22/Mileena_MK1_render.webp/revision/latest?cb=20230630031648"
+    },
+    {
+      "name": "Rain",
+      "img": "https://static.wikia.nocookie.net/mkwikia/images/0/0f/Rain_MK1.png/revision/latest/scale-to-width-down/1000?cb=20230714002129"
+    }
+  ]
+}
