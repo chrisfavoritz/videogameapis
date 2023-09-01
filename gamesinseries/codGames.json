@@ -2,79 +2,79 @@
   "items": [
     {
       "name": "Call of Duty (2003)",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/f/f3/Call_of_Duty_%282003%29_cover.jpg"
     },
     {
       "name": "Call of Duty 2 (2005)",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/d/d1/Call_of_Duty_2_Box.jpg"
     },
     {
       "name": "Call of Duty 3 (2006)",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/5/51/Call_of_Duty_3_Game_Cover.jpg"
     },
     {
       "name": "Call of Duty 4: Modern Warfare (2007)",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/5/5f/Call_of_Duty_4_Modern_Warfare.jpg"
     },
     {
       "name": "Call of Duty: World at War (2008)",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/1/19/Call_of_Duty_World_at_War_cover.png"
     },
     {
       "name": "Call of Duty: Modern Warfare 2 (2009)",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/5/52/Call_of_Duty_Modern_Warfare_2_%282009%29_cover.png"
     },
     {
       "name": "Call of Duty: Black Ops (2010)",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/0/02/CoD_Black_Ops_cover.png"
     },
     {
       "name": "Call of Duty: Modern Warfare 3 (2011)",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/b/bf/Call_of_Duty_Modern_Warfare_3_box_art.png"
     },
     {
       "name": "Call of Duty: Black Ops II (2012)",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/0/05/Call_of_Duty_Black_Ops_II_box_artwork.png"
     },
     {
       "name": "Call of Duty: Ghosts (2013)",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/9/9c/Call_of_duty_ghosts_box_art.jpg"
     },
     {
       "name": "Call of Duty: Advanced Warfare (2014)",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/3/3b/Advanced_Warfare.jpg"
     },
     {
       "name": "Call of Duty: Black Ops III (2015)",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/b/b1/Black_Ops_3.jpg"
     },
     {
       "name": "Call of Duty: Infinite Warfare (2016)",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/8/87/Call_of_Duty_Infinite_Warfare_cover.jpg"
     },
     {
       "name": "Call of Duty: WWII (2017)",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/1/18/Call_of_Duty_WWII_Cover_Art.jpg"
     },
     {
       "name": "Call of Duty: Black Ops 4 (2018)",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/1/1c/Call_of_Duty_Black_Ops_4_official_box_art.jpg"
     },
     {
       "name": "Call of Duty: Modern Warfare (2019)",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/1/1f/Call_of_Duty_Modern_Warfare_%282019%29_cover.jpg"
     },
     {
       "name": "Call of Duty: Black Ops Cold War (2020)",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/4/40/Black_Ops_Cold_War.jpeg"
     },
     {
       "name": "Call of Duty: Vanguard (2021)",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/0/06/Call_of_Duty_Vanguard_cover_art.jpg"
     },
     {
       "name": "Call of Duty: Modern Warfare II (2022)",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/4/4a/Call_of_Duty_Modern_Warfare_II_Key_Art.jpg"
     }
   ]
 }
