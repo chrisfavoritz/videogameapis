@@ -2,143 +2,151 @@
   "items": [
     {
       "name": "Pokémon Red",
-      "img": "placeholder"
+      "img": "https://archives.bulbagarden.net/media/upload/thumb/8/80/Red_EN_boxart.png/200px-Red_EN_boxart.png"
     },
     {
       "name": "Pokémon Blue",
-      "img": "placeholder"
+      "img": "https://archives.bulbagarden.net/media/upload/thumb/5/5a/Blue_EN_boxart.png/200px-Blue_EN_boxart.png"
     },
     {
       "name": "Pokémon Yellow",
-      "img": "placeholder"
+      "img": "https://archives.bulbagarden.net/media/upload/thumb/9/95/Yellow_EN_boxart.png/200px-Yellow_EN_boxart.png"
     },
     {
       "name": "Pokémon Gold",
-      "img": "placeholder"
+      "img": "https://archives.bulbagarden.net/media/upload/thumb/c/c7/Gold_EN_boxart.png/200px-Gold_EN_boxart.png"
     },
     {
       "name": "Pokémon Silver",
-      "img": "placeholder"
+      "img": "https://archives.bulbagarden.net/media/upload/thumb/f/f5/Silver_EN_boxart.png/200px-Silver_EN_boxart.png"
     },
     {
       "name": "Pokémon Crystal",
-      "img": "placeholder"
+      "img": "https://archives.bulbagarden.net/media/upload/thumb/6/60/Crystal_EN_boxart.png/200px-Crystal_EN_boxart.png"
     },
     {
       "name": "Pokémon Ruby",
-      "img": "placeholder"
+      "img": "https://archives.bulbagarden.net/media/upload/thumb/5/5f/Ruby_EN_boxart.png/200px-Ruby_EN_boxart.png"
     },
     {
       "name": "Pokémon Sapphire",
-      "img": "placeholder"
+      "img": "https://archives.bulbagarden.net/media/upload/thumb/6/62/Sapphire_EN_boxart.png/200px-Sapphire_EN_boxart.png"
     },
     {
       "name": "Pokémon Emerald",
-      "img": "placeholder"
+      "img": "https://archives.bulbagarden.net/media/upload/thumb/6/65/Emerald_EN_boxart.jpg/200px-Emerald_EN_boxart.jpg"
     },
     {
       "name": "Pokémon FireRed",
-      "img": "placeholder"
+      "img": "https://archives.bulbagarden.net/media/upload/thumb/4/43/FireRed_EN_boxart.png/200px-FireRed_EN_boxart.png"
     },
     {
       "name": "Pokémon LeafGreen",
-      "img": "placeholder"
+      "img": "https://archives.bulbagarden.net/media/upload/thumb/d/d7/LeafGreen_EN_boxart.png/200px-LeafGreen_EN_boxart.png"
     },
     {
       "name": "Pokémon Diamond",
-      "img": "placeholder"
+      "img": "https://archives.bulbagarden.net/media/upload/thumb/6/69/Diamond_EN_boxart.jpg/200px-Diamond_EN_boxart.jpg"
     },
     {
       "name": "Pokémon Pearl",
-      "img": "placeholder"
+      "img": "https://archives.bulbagarden.net/media/upload/thumb/a/af/Pearl_EN_boxart.jpg/200px-Pearl_EN_boxart.jpg"
     },
     {
       "name": "Pokémon Platinum",
-      "img": "placeholder"
+      "img": "https://archives.bulbagarden.net/media/upload/thumb/8/83/Platinum_EN_boxart.png/200px-Platinum_EN_boxart.png"
     },
     {
       "name": "Pokémon HeartGold",
-      "img": "placeholder"
+      "img": "https://archives.bulbagarden.net/media/upload/thumb/6/6e/HeartGold_EN_boxart.jpg/200px-HeartGold_EN_boxart.jpg"
     },
     {
       "name": "Pokémon SoulSilver",
-      "img": "placeholder"
+      "img": "https://archives.bulbagarden.net/media/upload/thumb/5/5c/SoulSilver_EN_boxart.jpg/200px-SoulSilver_EN_boxart.jpg"
     },
     {
       "name": "Pokémon Black",
-      "img": "placeholder"
+      "img": "https://archives.bulbagarden.net/media/upload/thumb/d/dc/Black_EN_boxart.png/200px-Black_EN_boxart.png"
     },
     {
       "name": "Pokémon White",
-      "img": "placeholder"
+      "img": "https://archives.bulbagarden.net/media/upload/thumb/0/08/White_EN_boxart.png/200px-White_EN_boxart.png"
     },
     {
       "name": "Pokémon Black 2",
-      "img": "placeholder"
+      "img": "https://archives.bulbagarden.net/media/upload/thumb/3/34/Black_2_EN_boxart.png/200px-Black_2_EN_boxart.png"
     },
     {
       "name": "Pokémon White 2",
-      "img": "placeholder"
+      "img": "https://archives.bulbagarden.net/media/upload/thumb/1/14/White_2_EN_boxart.png/200px-White_2_EN_boxart.png"
     },
     {
       "name": "Pokémon X",
-      "img": "placeholder"
+      "img": "https://archives.bulbagarden.net/media/upload/thumb/2/27/X_EN_boxart.png/200px-X_EN_boxart.png"
     },
     {
       "name": "Pokémon Y",
-      "img": "placeholder"
+      "img": "https://archives.bulbagarden.net/media/upload/thumb/4/41/Y_EN_boxart.png/200px-Y_EN_boxart.png"
     },
     {
       "name": "Pokémon Omega Ruby",
-      "img": "placeholder"
+      "img": "https://archives.bulbagarden.net/media/upload/thumb/5/5b/Omega_Ruby_EN_boxart.png/200px-Omega_Ruby_EN_boxart.png"
     },
     {
       "name": "Pokémon Alpha Sapphire",
-      "img": "placeholder"
+      "img": "https://archives.bulbagarden.net/media/upload/thumb/f/f2/Alpha_Sapphire_EN_boxart.png/200px-Alpha_Sapphire_EN_boxart.png"
     },
     {
       "name": "Pokémon Sun",
-      "img": "placeholder"
+      "img": "https://archives.bulbagarden.net/media/upload/thumb/0/06/Sun_EN_boxart.png/200px-Sun_EN_boxart.png"
     },
     {
       "name": "Pokémon Moon",
-      "img": "placeholder"
+      "img": "https://archives.bulbagarden.net/media/upload/thumb/3/38/Moon_EN_boxart.png/200px-Moon_EN_boxart.png"
     },
     {
       "name": "Pokémon Ultra Sun",
-      "img": "placeholder"
+      "img": "https://archives.bulbagarden.net/media/upload/thumb/d/de/Ultra_Sun_EN_boxart.png/200px-Ultra_Sun_EN_boxart.png"
     },
     {
       "name": "Pokémon Ultra Moon",
-      "img": "placeholder"
+      "img": "https://archives.bulbagarden.net/media/upload/thumb/8/86/Ultra_Moon_EN_boxart.png/200px-Ultra_Moon_EN_boxart.png"
     },
     {
       "name": "Pokémon Let's Go, Pikachu!",
-      "img": "placeholder"
+      "img": "https://archives.bulbagarden.net/media/upload/thumb/a/ae/Lets_Go_Pikachu_EN_boxart.png/175px-Lets_Go_Pikachu_EN_boxart.png"
     },
     {
       "name": "Pokémon Let's Go, Eevee!",
-      "img": "placeholder"
+      "img": "https://archives.bulbagarden.net/media/upload/thumb/1/1e/Lets_Go_Eevee_EN_boxart.png/175px-Lets_Go_Eevee_EN_boxart.png"
     },
     {
       "name": "Pokémon Sword",
-      "img": "placeholder"
+      "img": "https://archives.bulbagarden.net/media/upload/thumb/4/47/Sword_EN_boxart.png/175px-Sword_EN_boxart.png"
     },
     {
       "name": "Pokémon Shield",
-      "img": "placeholder"
+      "img": "https://archives.bulbagarden.net/media/upload/thumb/8/8d/Shield_EN_boxart.png/175px-Shield_EN_boxart.png"
+    },
+    {
+      "name": "Pokémon Brilliant Diamond",
+      "img": "https://archives.bulbagarden.net/media/upload/thumb/3/33/Brilliant_Diamond_EN_boxart.png/175px-Brilliant_Diamond_EN_boxart.png"
+    },
+    {
+      "name": "Pokémon Shining Pearl",
+      "img": "https://archives.bulbagarden.net/media/upload/thumb/f/fa/Shining_Pearl_EN_boxart.png/175px-Shining_Pearl_EN_boxart.png"
     },
     {
       "name": "Pokémon Legends Arceus",
-      "img": "placeholder"
+      "img": "https://archives.bulbagarden.net/media/upload/thumb/3/3a/Legends_Arceus_EN_boxart.png/175px-Legends_Arceus_EN_boxart.png"
     },
     {
       "name": "Pokémon Scarlet",
-      "img": "placeholder"
+      "img": "https://archives.bulbagarden.net/media/upload/thumb/5/5f/Scarlet_EN_boxart.png/175px-Scarlet_EN_boxart.png"
     },
     {
       "name": "Pokémon Violet",
-      "img": "placeholder"
+      "img": "https://archives.bulbagarden.net/media/upload/thumb/1/13/Violet_EN_boxart.png/175px-Violet_EN_boxart.png"
     }
   ]
 }
