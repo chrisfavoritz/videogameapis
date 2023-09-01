@@ -4,73 +4,85 @@
       "name": "Mario Party",
       "platform": "Nintendo 64",
       "year": 1998,
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/c/cd/Marioparty1.jpg"
     },
     {
       "name": "Mario Party 2",
       "platform": "Nintendo 64",
       "year": 1999,
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/2/23/Marioparty2.jpg/220px-Marioparty2.jpg"
     },
     {
       "name": "Mario Party 3",
       "platform": "Nintendo 64",
       "year": 2000,
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/1/19/Marioparty3.jpg/220px-Marioparty3.jpg"
     },
     {
       "name": "Mario Party 4",
       "platform": "GameCube",
       "year": 2002,
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/5/58/Mario_Party_4.jpg"
     },
     {
       "name": "Mario Party 5",
       "platform": "GameCube",
       "year": 2003,
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/d/d0/Mario_Party_5_Box_Art.JPG"
     },
     {
       "name": "Mario Party 6",
       "platform": "GameCube",
       "year": 2004,
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/c/c6/Mario_Party_6_Coverart.png"
     },
     {
       "name": "Mario Party 7",
       "platform": "GameCube",
       "year": 2005,
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/6/60/Mario_Party_7_Coverart.png"
     },
     {
       "name": "Mario Party 8",
       "platform": "Wii",
       "year": 2007,
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/b/b2/Mario_Party_8_NA_Box_Art.png"
+    },
+    {
+      "name": "Mario Party DS",
+      "platform": "Wii",
+      "year": 2007,
+      "img": "https://upload.wikimedia.org/wikipedia/en/0/0f/Mario_Party_DS_US_cover.jpg"
     },
     {
       "name": "Mario Party 9",
       "platform": "Wii",
       "year": 2012,
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/f/f0/Mario_Party_9_US_cover.jpg"
+    },
+    {
+      "name": "Mario Party: Island Tour",
+      "platform": "Wii",
+      "year": 2012,
+      "img": "https://upload.wikimedia.org/wikipedia/en/9/98/Mario_Party_Island_Tour_boxart.png"
     },
     {
       "name": "Mario Party 10",
       "platform": "Wii U",
       "year": 2015,
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/1/1a/Mario_Party_10_Small_Official_Boxart.png"
     },
     {
       "name": "Super Mario Party",
       "platform": "Nintendo Switch",
       "year": 2018,
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/6/6c/Super_Mario_Party.jpg"
     },
     {
       "name": "Mario Party Superstars",
       "platform": "Nintendo Switch",
       "year": 2021,
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/1/1a/Mario_Party_Superstars_cover_art.jpg"
     }
   ]
 }
