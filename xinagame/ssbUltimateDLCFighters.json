@@ -1,0 +1,15 @@
+{
+  "items": [
+    {"name": "Piranha Plant", "img": "https://static.wikia.nocookie.net/ssb/images/d/d7/Piranha_Plant_-_Super_Smash_Bros._Ultimate.png/revision/latest/scale-to-width-down/1000?cb=20181101165757"},
+    {"name": "Joker", "img": "https://static.wikia.nocookie.net/ssb/images/5/56/Joker_-_Super_Smash_Bros._Ultimate.png/revision/latest/scale-to-width-down/1000?cb=20201107233616"},
+    {"name": "Hero", "img": "https://static.wikia.nocookie.net/ssb/images/0/07/Hero_SSBU.png/revision/latest/scale-to-width-down/1000?cb=20190611220256"},
+    {"name": "Banjo & Kazooie", "img": "https://static.wikia.nocookie.net/ssb/images/c/c4/BanjoKazooieRender.png/revision/latest/scale-to-width-down/1000?cb=20190907192847"},
+    {"name": "Terry", "img": "https://static.wikia.nocookie.net/ssb/images/f/f5/Terry_SSBU.png/revision/latest/scale-to-width-down/1000?cb=20200626010159"},
+    {"name": "Byleth", "img": "https://static.wikia.nocookie.net/ssb/images/3/3d/Byleth_SSBU.png/revision/latest/scale-to-width-down/1000?cb=20200116163825"},
+    {"name": "Steve", "img": "https://static.wikia.nocookie.net/ssb/images/3/3a/Steve_SSBU.png/revision/latest/scale-to-width-down/1000?cb=20201001151548"},
+    {"name": "Sephiroth", "img": "https://static.wikia.nocookie.net/ssb/images/1/19/Sephiroth_-_Super_Smash_Bros._Ultimate.png/revision/latest/scale-to-width-down/1000?cb=20201211031123"},
+    {"name": "Pyra/Mythra", "img": "https://static.wikia.nocookie.net/ssb/images/e/ec/Pyra_SSBU.png/revision/latest/scale-to-width-down/1000?cb=20210218225342"},
+    {"name": "Kazuya", "img": "https://static.wikia.nocookie.net/ssb/images/6/61/Kazuya.png/revision/latest/scale-to-width-down/1000?cb=20210615194302"},
+    {"name": "Sora", "img": "https://static.wikia.nocookie.net/ssb/images/7/72/Fighter-sora.png/revision/latest/scale-to-width-down/1000?cb=20211006064439"}
+  ]
+}
