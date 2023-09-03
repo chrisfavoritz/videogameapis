@@ -1,0 +1,28 @@
+{
+  "items": [
+    {
+      "name": "Brinstar",
+      "img": "https://static.wikia.nocookie.net/ssb/images/d/d1/SSBU-Brinstar.png/revision/latest/scale-to-width-down/350?cb=20181108024946"
+    },
+    {
+      "name": "Brinstar Depths",
+      "img": "https://static.wikia.nocookie.net/ssb/images/b/b3/SSBU-Brinstar_Depths.png/revision/latest/scale-to-width-down/350?cb=20181108025008"
+    },
+    {
+      "name": "Norfair",
+      "img": "https://static.wikia.nocookie.net/ssb/images/1/11/Norfair1.jpg/revision/latest?cb=20071109161825"
+    },
+    {
+      "name": "Frigate Orpheon",
+      "img": "https://static.wikia.nocookie.net/ssb/images/f/fe/Frigate_Orpheon.jpg/revision/latest?cb=20080103185541"
+    },
+    {
+      "name": "Planet Zebes",
+      "img": "https://static.wikia.nocookie.net/ssb/images/3/30/Planet_Zebes_SSB.jpg/revision/latest?cb=20071228224207"
+    },
+    {
+      "name": "Pyrosphere",
+      "img": "https://static.wikia.nocookie.net/ssb/images/1/14/WiiU_SuperSmashBros_Stage05_Screen_01.jpg/revision/latest/scale-to-width-down/350?cb=20140409193949"
+    },
+  ]
+}
