@@ -1,0 +1,28 @@
+{
+  "items": [
+    {
+      "name": "Kongo Jungle",
+      "img": "https://static.wikia.nocookie.net/ssb/images/d/d7/SSBWU_Kongo_Jungle_64.jpg/revision/latest/scale-to-width-down/350?cb=20151113183454"
+    },
+    {
+      "name": "Kongo Falls",
+      "img": "https://static.wikia.nocookie.net/ssb/images/1/10/SSBU_Kongo_Falls.png/revision/latest/scale-to-width-down/350?cb=20180705032022"
+    },
+    {
+      "name": "Jungle Japes",
+      "img": "https://static.wikia.nocookie.net/ssb/images/4/4c/SSBU-Jungle_Japes.png/revision/latest/scale-to-width-down/350?cb=20181107023451"
+    },
+    {
+      "name": "Rumble Falls",
+      "img": "https://static.wikia.nocookie.net/ssb/images/a/ac/Rumble_Falls1.jpg/revision/latest?cb=20071109165255"
+    },
+    {
+      "name": "75m",
+      "img": "https://static.wikia.nocookie.net/ssb/images/6/64/75m.jpg/revision/latest?cb=20080304182226"
+    },
+    {
+      "name": "Jungle Hijinxs",
+      "img": "https://static.wikia.nocookie.net/ssb/images/6/60/-JungleHijinxs.png/revision/latest?cb=20141024013101"
+    }
+  ]
+}
