@@ -1,0 +1,40 @@
+{
+  "items": [
+    {
+      "name": "Great Plateau Tower",
+      "img": "https://static.wikia.nocookie.net/ssb/images/2/20/Great_Plateau_Tower.png/revision/latest/scale-to-width-down/350?cb=20180724170106"
+    },
+    {
+      "name": "Hyrule Castle",
+      "img": "https://static.wikia.nocookie.net/ssb/images/4/45/Hyrule_Castle_SSBWU.jpg/revision/latest/scale-to-width-down/350?cb=20150803225737"
+    },
+    {
+      "name": "Great Bay",
+      "img": "https://static.wikia.nocookie.net/ssb/images/8/83/SSBU-Great_Bay.jpg/revision/latest/scale-to-width-down/1000?cb=20181107042059"
+    },
+    {
+      "name": "Temple",
+      "img": "https://static.wikia.nocookie.net/ssb/images/3/3b/SSBU-Temple.png/revision/latest/scale-to-width-down/350?cb=20181107042128"
+    },
+    {
+      "name": "Bridge of Eldin",
+      "img": "https://static.wikia.nocookie.net/ssb/images/6/60/Bridge_of_Eldin.jpg/revision/latest?cb=20080103184707"
+    },
+    {
+      "name": "Pirate Ship",
+      "img": "https://static.wikia.nocookie.net/ssb/images/a/ae/Pirate_Ship_SSBWU.jpg/revision/latest?cb=20150930113730"
+    },
+    {
+      "name": "Gerudo Valley",
+      "img": "https://static.wikia.nocookie.net/ssb/images/5/5d/SSBU-Gerudo_Valley.png/revision/latest/scale-to-width-down/700?cb=20181107044717"
+    },
+    {
+      "name": "Spirit Train",
+      "img": "https://static.wikia.nocookie.net/ssb/images/0/0a/SSBU-Spirit_Train.png/revision/latest/scale-to-width-down/699?cb=20181107044747"
+    },
+    {
+      "name": "Skyloft",
+      "img": "https://static.wikia.nocookie.net/ssb/images/a/aa/SkyloftFullView.jpg/revision/latest/scale-to-width-down/350?cb=20140409193858"
+    }
+  ]
+}
