@@ -1,0 +1,400 @@
+{
+  "items": [
+    {
+      "name": "Battlefield",
+      "img": "https://static.wikia.nocookie.net/ssb/images/8/86/SSBU-Battlefield.png/revision/latest/scale-to-width-down/350?cb=20181027033632"
+    },
+    {
+      "name": "Big Battlefield",
+      "img": "https://static.wikia.nocookie.net/ssb/images/1/16/SSBU_Big_Battlefield.png/revision/latest/scale-to-width-down/1000?cb=20181106214841"
+    },
+    {
+      "name": "Final Destination",
+      "img": "https://static.wikia.nocookie.net/ssb/images/d/d4/SSBU_Final_Destination.jpg/revision/latest/scale-to-width-down/1000?cb=20181106215234"
+    },
+    {
+      "name": "Peach's Castle",
+      "img": "https://static.wikia.nocookie.net/ssb/images/2/2a/Peachs_Castle_SSBWU.jpg/revision/latest?cb=20150628194901"
+    },
+    {
+      "name": "Kongo Jungle",
+      "img": "https://static.wikia.nocookie.net/ssb/images/d/d7/SSBWU_Kongo_Jungle_64.jpg/revision/latest/scale-to-width-down/350?cb=20151113183454"
+    },
+    {
+      "name": "Hyrule Castle",
+      "img": "https://static.wikia.nocookie.net/ssb/images/4/45/Hyrule_Castle_SSBWU.jpg/revision/latest/scale-to-width-down/350?cb=20150803225737"
+    },
+    {
+      "name": "Super Happy Tree",
+      "img": "https://static.wikia.nocookie.net/ssb/images/7/7b/Melee_Yoshis_Island_N64.jpg/revision/latest?cb=20160113061630"
+    },
+    {
+      "name": "Dream Land",
+      "img": "https://static.wikia.nocookie.net/ssb/images/9/96/Dream_Land_64_SSBWU.jpg/revision/latest?cb=20150628194603"
+    },
+    {
+      "name": "Saffron City",
+      "img": "https://static.wikia.nocookie.net/ssb/images/0/05/SaffronCitySSB.png/revision/latest?cb=20111008210018"
+    },
+    {
+      "name": "Mushroom Kingdom",
+      "img": "https://static.wikia.nocookie.net/ssb/images/5/5d/MushroomKingdom_-_Super_Smash_Bros.jpg/revision/latest?cb=20110928234029"
+    },
+    {
+      "name": "Princess Peach's Castle",
+      "img": "https://static.wikia.nocookie.net/ssb/images/a/a3/Peachycastle.PNG/revision/latest?cb=20070404222051"
+    },
+    {
+      "name": "Rainbow Cruise",
+      "img": "https://static.wikia.nocookie.net/ssb/images/8/84/SSBU-Rainbow_Cruise.png/revision/latest/scale-to-width-down/350?cb=20181106224137"
+    },
+    {
+      "name": "Kongo Falls",
+      "img": "https://static.wikia.nocookie.net/ssb/images/1/10/SSBU_Kongo_Falls.png/revision/latest/scale-to-width-down/350?cb=20180705032022"
+    },
+    {
+      "name": "Jungle Japes",
+      "img": "https://static.wikia.nocookie.net/ssb/images/4/4c/SSBU-Jungle_Japes.png/revision/latest/scale-to-width-down/350?cb=20181107023451"
+    },
+    {
+      "name": "Great Bay",
+      "img": "https://static.wikia.nocookie.net/ssb/images/8/83/SSBU-Great_Bay.jpg/revision/latest/scale-to-width-down/1000?cb=20181107042059"
+    },
+    {
+      "name": "Temple",
+      "img": "https://static.wikia.nocookie.net/ssb/images/3/3b/SSBU-Temple.png/revision/latest/scale-to-width-down/350?cb=20181107042128"
+    },
+    {
+      "name": "Brinstar",
+      "img": "https://static.wikia.nocookie.net/ssb/images/d/d1/SSBU-Brinstar.png/revision/latest/scale-to-width-down/350?cb=20181108024946"
+    },
+    {
+      "name": "Yoshi's Island (Melee)",
+      "img": "https://static.wikia.nocookie.net/ssb/images/d/d1/YoshisIslandSSBM.jpg/revision/latest?cb=20080109185927"
+    },
+    {
+      "name": "Yoshi's Story",
+      "img": "https://static.wikia.nocookie.net/ssb/images/0/0c/SSBU-Yoshi%27s_Story.png/revision/latest/scale-to-width-down/350?cb=20181108031519"
+    },
+    {
+      "name": "Fountain of Dreams",
+      "img": "https://static.wikia.nocookie.net/ssb/images/c/c3/SSBU-Fountain_of_Dreams.png/revision/latest/scale-to-width-down/350?cb=20181108044752"
+    },
+    {
+      "name": "Green Greens",
+      "img": "https://static.wikia.nocookie.net/ssb/images/5/5a/SSBU-Green_Greens.png/revision/latest/scale-to-width-down/350?cb=20181108044851"
+    },
+    {
+      "name": "Corneria",
+      "img": "https://static.wikia.nocookie.net/ssb/images/0/01/SSBU-Corneria.png/revision/latest/scale-to-width-down/350?cb=20181108204955"
+    },
+    {
+      "name": "Venom",
+      "img": "https://static.wikia.nocookie.net/ssb/images/8/8d/SSBU-Venom.png/revision/latest/scale-to-width-down/350?cb=20181108205021"
+    },
+    {
+      "name": "Pokémon Stadium",
+      "img": "https://static.wikia.nocookie.net/ssb/images/7/73/SSBU-Pok%C3%A9mon_Stadium.png/revision/latest/scale-to-width-down/350?cb=20181108210818"
+    },
+    {
+      "name": "Onett",
+      "img": "https://static.wikia.nocookie.net/ssb/images/6/68/SSBU-Onett.png/revision/latest/scale-to-width-down/350?cb=20181108225855"
+    },
+    {
+      "name": "Mushroom Kingdom II",
+      "img": "https://static.wikia.nocookie.net/ssb/images/9/92/SSBU-Mushroom_Kingdom_II.png/revision/latest/scale-to-width-down/350?cb=20181106224635"
+    },
+    {
+      "name": "Brinstar Depths",
+      "img": "https://static.wikia.nocookie.net/ssb/images/b/b3/SSBU-Brinstar_Depths.png/revision/latest/scale-to-width-down/350?cb=20181108025008"
+    },
+    {
+      "name": "Big Blue",
+      "img": "https://static.wikia.nocookie.net/ssb/images/6/61/SSBU-Big_Blue.png/revision/latest/scale-to-width-down/350?cb=20181108223407"
+    },
+    {
+      "name": "Fourside",
+      "img": "https://static.wikia.nocookie.net/ssb/images/f/fd/Fourside_SSBU.jpg/revision/latest/scale-to-width-down/699?cb=20180829184310"
+    },
+    {
+      "name": "Delfino Plaza",
+      "img": "https://static.wikia.nocookie.net/ssb/images/d/d2/Delfino_Plaza.jpg/revision/latest?cb=20080103185337"
+    },
+    {
+      "name": "Mushroomy Kingdom",
+      "img": "https://static.wikia.nocookie.net/ssb/images/c/c1/SSBU-Mushroomy_Kingdom.png/revision/latest/scale-to-width-down/700?cb=20181106224751"
+    },
+    {
+      "name": "Figure-8 Circuit",
+      "img": "https://static.wikia.nocookie.net/ssb/images/6/6f/SSBU-Mario_Circuit_%28SSBB%29.png/revision/latest/scale-to-width-down/699?cb=20181106225941"
+    },
+    {
+      "name": "WarioWare, Inc.",
+      "img": "https://static.wikia.nocookie.net/ssb/images/3/33/WarioWare4.jpg/revision/latest?cb=20071028170911"
+    },
+    {
+      "name": "Bridge of Eldin",
+      "img": "https://static.wikia.nocookie.net/ssb/images/6/60/Bridge_of_Eldin.jpg/revision/latest?cb=20080103184707"
+    },
+    {
+      "name": "Norfair",
+      "img": "https://static.wikia.nocookie.net/ssb/images/1/11/Norfair1.jpg/revision/latest?cb=20071109161825"
+    },
+    {
+      "name": "Frigate Orpheon",
+      "img": "https://static.wikia.nocookie.net/ssb/images/f/fe/Frigate_Orpheon.jpg/revision/latest?cb=20080103185541"
+    },
+    {
+      "name": "Yoshi's Island",
+      "img": "https://static.wikia.nocookie.net/ssb/images/8/87/S054.jpg/revision/latest/scale-to-width-down/150?cb=20180915041237"
+    },
+    {
+      "name": "Halberd",
+      "img": "https://static.wikia.nocookie.net/ssb/images/7/79/Omega_Halberd.png/revision/latest/scale-to-width-down/700?cb=20181125112453"
+    },
+    {
+      "name": "Lylat Cruise",
+      "img": "https://static.wikia.nocookie.net/ssb/images/c/ce/Omega_Lylat.png/revision/latest?cb=20151103171239"
+    },
+    {
+      "name": "Pokémon Stadium 2",
+      "img": "https://static.wikia.nocookie.net/ssb/images/8/87/Omega_PokeStad.png/revision/latest?cb=20151103172608"
+    },
+    {
+      "name": "Port Town Aero Dive",
+      "img": "https://static.wikia.nocookie.net/ssb/images/6/62/Omega_PortTown.png/revision/latest?cb=20151103172919"
+    },
+    {
+      "name": "Castle Siege",
+      "img": "https://static.wikia.nocookie.net/ssb/images/4/4f/Castle_Siege.jpg/revision/latest?cb=20080103185030"
+    },
+    {
+      "name": "Distant Planet",
+      "img": "https://static.wikia.nocookie.net/ssb/images/7/7d/SSBU-Distant_Planet.png/revision/latest/scale-to-width-down/699?cb=20181111031918"
+    },
+    {
+      "name": "Smashville",
+      "img": "https://static.wikia.nocookie.net/ssb/images/9/91/Omega_Smashville.png/revision/latest?cb=20151103173749"
+    },
+    {
+      "name": "New Pork City",
+      "img": "https://static.wikia.nocookie.net/ssb/images/d/d6/New_Pork_City1.jpg/revision/latest?cb=20071107040240"
+    },
+    {
+      "name": "Summit",
+      "img": "https://static.wikia.nocookie.net/ssb/images/0/05/The_Summit.jpg/revision/latest?cb=20080103192858"
+    },
+    {
+      "name": "Skyworld",
+      "img": "https://static.wikia.nocookie.net/ssb/images/7/79/Skyworld1.jpg/revision/latest?cb=20071028173355"
+    },
+    {
+      "name": "Shadow Moses Island",
+      "img": "https://static.wikia.nocookie.net/ssb/images/7/7a/Shadow_Moses_Island.jpg/revision/latest?cb=20080103191910"
+    },
+    {
+      "name": "Luigi's Mansion",
+      "img": "https://static.wikia.nocookie.net/ssb/images/5/56/Omega_Mansion.png/revision/latest?cb=20151103170739"
+    },
+    {
+      "name": "Pirate Ship",
+      "img": "https://static.wikia.nocookie.net/ssb/images/a/ae/Pirate_Ship_SSBWU.jpg/revision/latest?cb=20150930113730"
+    },
+    {
+      "name": "Spear Pillar",
+      "img": "https://static.wikia.nocookie.net/ssb/images/f/f0/SpearPillarSSBB.jpg/revision/latest?cb=20181101094745"
+    },
+    {
+      "name": "75m",
+      "img": "https://static.wikia.nocookie.net/ssb/images/6/64/75m.jpg/revision/latest?cb=20080304182226"
+    },
+    {
+      "name": "Mario Bros.",
+      "img": "https://static.wikia.nocookie.net/ssb/images/6/6c/MarioBros_Stage.jpg/revision/latest?cb=20080212071306"
+    },
+    {
+      "name": "Hanenbow",
+      "img": "https://static.wikia.nocookie.net/ssb/images/b/b6/Hanenbow.jpg/revision/latest?cb=20180716224845"
+    },
+    {
+      "name": "Green Hill Zone",
+      "img": "https://static.wikia.nocookie.net/ssb/images/0/04/SSBU-Green_Hill_Zone.png/revision/latest/scale-to-width-down/699?cb=20181111043334"
+    },
+    {
+      "name": "3D Land",
+      "img": "https://static.wikia.nocookie.net/ssb/images/8/82/SSBU-3D_Land.png/revision/latest/scale-to-width-down/700?cb=20181106230020"
+    },
+    {
+      "name": "Golden Plains",
+      "img": "https://static.wikia.nocookie.net/ssb/images/a/a1/SSBU-Golden_Plains.png/revision/latest/scale-to-width-down/700?cb=20181106230036"
+    },
+    {
+      "name": "Paper Mario",
+      "img": "https://static.wikia.nocookie.net/ssb/images/9/98/SSBU-Paper_Mario.png/revision/latest/scale-to-width-down/700?cb=20181106230438"
+    },
+    {
+      "name": "Gerudo Valley",
+      "img": "https://static.wikia.nocookie.net/ssb/images/5/5d/SSBU-Gerudo_Valley.png/revision/latest/scale-to-width-down/700?cb=20181107044717"
+    },
+    {
+      "name": "Spirit Train",
+      "img": "https://static.wikia.nocookie.net/ssb/images/0/0a/SSBU-Spirit_Train.png/revision/latest/scale-to-width-down/699?cb=20181107044747"
+    },
+    {
+      "name": "Dream Land GB",
+      "img": "https://static.wikia.nocookie.net/ssb/images/c/c3/Dream_Land_Omega.jpg/revision/latest/scale-to-width-down/350?cb=20151108224250"
+    },
+    {
+      "name": "Unova Pokémon League",
+      "img": "https://static.wikia.nocookie.net/ssb/images/1/1c/Unova_Pokemon_League_Omega.jpg/revision/latest/scale-to-width-down/350?cb=20151108233213"
+    },
+    {
+      "name": "Prism Tower",
+      "img": "https://static.wikia.nocookie.net/ssb/images/a/a2/Prism_Tower_Omega.jpg/revision/latest/scale-to-width-down/350?cb=201511082354240"
+    },
+    {
+      "name": "Mute City SNES",
+      "img": "https://static.wikia.nocookie.net/ssb/images/1/1e/Mute_City.jpg/revision/latest/scale-to-width-down/350?cb=20151109001248"
+    },
+    {
+      "name": "Magicant",
+      "img": "https://static.wikia.nocookie.net/ssb/images/b/b7/SSBU-Magicant.png/revision/latest/scale-to-width-down/350?cb=20181108230143"
+    },
+    {
+      "name": "Arena Ferox",
+      "img": "https://static.wikia.nocookie.net/ssb/images/e/ee/N3DS_SuperSmashBros_Stage02_Screen_01.jpg/revision/latest/scale-to-width-down/350?cb=20140409200714"
+    },
+    {
+      "name": "Reset Bomb Forest",
+      "img": "https://static.wikia.nocookie.net/ssb/images/d/db/N3DS_SuperSmashBros_Stage06_Screen_01.jpg/revision/latest/scale-to-width-down/350?cb=20140409214023"
+    },
+    {
+      "name": "Tortimer Island",
+      "img": "https://static.wikia.nocookie.net/ssb/images/6/6b/N3DS_SuperSmashBros_Stage08_Screen_01.jpg/revision/latest/scale-to-width-down/350?cb=20140409211812"
+    },
+    {
+      "name": "Balloon Fight",
+      "img": "https://static.wikia.nocookie.net/ssb/images/1/1f/Balloon_Fight_Omega.jpg/revision/latest/scale-to-width-down/350?cb=20141231025153"
+    },
+    {
+      "name": "Living Room",
+      "img": "https://static.wikia.nocookie.net/ssb/images/0/02/Nintendogstage.png/revision/latest/scale-to-width-down/350?cb=20140409204957"
+    },
+    {
+      "name": "Find Mii",
+      "img": "https://static.wikia.nocookie.net/ssb/images/1/11/SSB4-Find_Mii_Select_Screen_001.png/revision/latest/scale-to-width-down/350?cb=20140910073418"
+    },
+    {
+      "name": "Tomodachi Life",
+      "img": "https://static.wikia.nocookie.net/ssb/images/3/3c/TomodachiLifestage.jpg/revision/latest/scale-to-width-down/350?cb=20140724092512"
+    },
+    {
+      "name": "PictoChat 2",
+      "img": "https://static.wikia.nocookie.net/ssb/images/9/9c/PictoChat_2_Omega.jpg/revision/latest/scale-to-width-down/350?cb=20141231153113"
+    },
+    {
+      "name": "Mushroom Kingdom U",
+      "img": "https://static.wikia.nocookie.net/ssb/images/6/61/Mario_u_world01.jpg/revision/latest/scale-to-width-down/350?cb=20140602063226"
+    },
+    {
+      "name": "Mario Galaxy",
+      "img": "https://static.wikia.nocookie.net/ssb/images/d/d8/WiiU_SuperSmashBros_Stage07_Screen_01.jpg/revision/latest/scale-to-width-down/350?cb=20140409191328"
+    },
+    {
+      "name": "Mario Circuit",
+      "img": "https://static.wikia.nocookie.net/ssb/images/8/8f/SSBWU_Mario_Circuit.png/revision/latest/scale-to-width-down/350?cb=20141024064012"
+    },
+    {
+      "name": "Skyloft",
+      "img": "https://static.wikia.nocookie.net/ssb/images/a/aa/SkyloftFullView.jpg/revision/latest/scale-to-width-down/350?cb=20140409193858"
+    },
+    {
+      "name": "The Great Cave Offensive",
+      "img": "https://static.wikia.nocookie.net/ssb/images/8/89/Great_Cave_Offensive_Stage_%28SSBWU_only%29.jpg/revision/latest/scale-to-width-down/350?cb=20141024013310"
+    },
+    {
+      "name": "Kalos Pokémon League",
+      "img": "https://static.wikia.nocookie.net/ssb/images/0/00/Kalos4.jpg/revision/latest/scale-to-width-down/350?cb=20141025001007"
+    },
+    {
+      "name": "Coliseum",
+      "img": "https://static.wikia.nocookie.net/ssb/images/7/76/Omega_Coliseum.png/revision/latest?cb=20151102151709"
+    },
+    {
+      "name": "Flat Zone X",
+      "img": "https://static.wikia.nocookie.net/ssb/images/b/b1/Fzx1.jpg/revision/latest?cb=20141215005657"
+    },
+    {
+      "name": "Palutena's Temple",
+      "img": "https://static.wikia.nocookie.net/ssb/images/a/ab/WiiU_SuperSmashBros_Stage03_Screen_01.jpg/revision/latest/scale-to-width-down/350?cb=20140409192145"
+    },
+    {
+      "name": "Gamer",
+      "img": "https://static.wikia.nocookie.net/ssb/images/9/9b/Gamer_Stage.jpg/revision/latest/scale-to-width-down/350?cb=20140926084700"
+    },
+    {
+      "name": "Garden of Hope",
+      "img": "https://static.wikia.nocookie.net/ssb/images/4/4d/WiiU_SuperSmashBros_Stage09_Screen_01.jpg/revision/latest/scale-to-width-down/350?cb=20140409185000"
+    },
+    {
+      "name": "Town and City",
+      "img": "https://static.wikia.nocookie.net/ssb/images/7/72/Town_and_City_Omega.png/revision/latest?cb=20151103044925"
+    },
+    {
+      "name": "Wii Fit Studio",
+      "img": "https://static.wikia.nocookie.net/ssb/images/f/f0/WiiFitStudio.jpg/revision/latest/scale-to-width-down/350?cb=20140409194737"
+    },
+    {
+      "name": "Boxing Ring",
+      "img": "https://static.wikia.nocookie.net/ssb/images/b/b4/SSBU-Boxing_Ring_2.png/revision/latest/scale-to-width-down/350?cb=20181111034556"
+    },
+    {
+      "name": "Gaur Plain",
+      "img": "https://static.wikia.nocookie.net/ssb/images/5/5d/SSBU-Gaur_Plain.png/revision/latest/scale-to-width-down/350?cb=20181111035702"
+    },
+    {
+      "name": "Duck Hunt",
+      "img": "https://static.wikia.nocookie.net/ssb/images/2/26/Duck_Hunt_Stage.png/revision/latest/scale-to-width-down/350?cb=20201120174946"
+    },
+    {
+      "name": "Wrecking Crew",
+      "img": "https://static.wikia.nocookie.net/ssb/images/9/96/WreckingCrewStage.png/revision/latest?cb=20141024014526"
+    },
+    {
+      "name": "Pilotwings",
+      "img": "https://static.wikia.nocookie.net/ssb/images/7/7c/Smash.4_-_Pilotwings_Stage.jpg/revision/latest/scale-to-width-down/350?cb=20140409193015"
+    },
+    {
+      "name": "Wuhu Island",
+      "img": "https://static.wikia.nocookie.net/ssb/images/7/7f/Pilotwings_Wuhu_Island_2.jpg/revision/latest?cb=20140409192714"
+    },
+    {
+      "name": "Windy Hill Zone",
+      "img": "https://static.wikia.nocookie.net/ssb/images/f/fa/WiiU_SuperSmashBros_Stage02_Screen_01.jpg/revision/latest/scale-to-width-down/350?cb=20140409215211"
+    },
+    {
+      "name": "Wily Castle",
+      "img": "https://static.wikia.nocookie.net/ssb/images/9/93/SSBU-Wily_Castle.png/revision/latest/scale-to-width-down/350?cb=20181111043514"
+    },
+    {
+      "name": "Pac-Land",
+      "img": "https://static.wikia.nocookie.net/ssb/images/e/e0/Pac-land_Stage.png/revision/latest/scale-to-width-down/350?cb=20140617164436"
+    },
+    {
+      "name": "Super Mario Maker",
+      "img": "https://static.wikia.nocookie.net/ssb/images/3/3e/MarioMaker.jpg/revision/latest/scale-to-width-down/350?cb=20150915115916"
+    },
+    {
+      "name": "Suzaku Castle",
+      "img": "https://static.wikia.nocookie.net/ssb/images/1/16/Suzaku_Castle.png/revision/latest/scale-to-width-down/350?cb=20150614005645"
+    },
+    {
+      "name": "Midgar",
+      "img": "https://static.wikia.nocookie.net/ssb/images/7/7d/Midgar.png/revision/latest/scale-to-width-down/350?cb=20151112230832"
+    },
+    {
+      "name": "Umbra Clock Tower",
+      "img": "https://static.wikia.nocookie.net/ssb/images/f/f0/Screenshot_2015-12-15-20-45-33.png/revision/latest/scale-to-width-down/350?cb=20160105020351"
+    }
+  ]
+}
