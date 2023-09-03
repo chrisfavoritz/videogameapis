@@ -1,0 +1,40 @@
+{
+  "items": [
+    {
+      "name": "Peach's Castle",
+      "img": "https://static.wikia.nocookie.net/ssb/images/2/2a/Peachs_Castle_SSBWU.jpg/revision/latest?cb=20150628194901"
+    },
+    {
+      "name": "Kongo Jungle",
+      "img": "https://static.wikia.nocookie.net/ssb/images/d/d7/SSBWU_Kongo_Jungle_64.jpg/revision/latest/scale-to-width-down/350?cb=20151113183454"
+    },
+    {
+      "name": "Hyrule Castle",
+      "img": "https://static.wikia.nocookie.net/ssb/images/4/45/Hyrule_Castle_SSBWU.jpg/revision/latest/scale-to-width-down/350?cb=20150803225737"
+    },
+    {
+      "name": "Super Happy Tree",
+      "img": "https://static.wikia.nocookie.net/ssb/images/7/7b/Melee_Yoshis_Island_N64.jpg/revision/latest?cb=20160113061630"
+    },
+    {
+      "name": "Dream Land",
+      "img": "https://static.wikia.nocookie.net/ssb/images/9/96/Dream_Land_64_SSBWU.jpg/revision/latest?cb=20150628194603"
+    },
+    {
+      "name": "Saffron City",
+      "img": "https://static.wikia.nocookie.net/ssb/images/0/05/SaffronCitySSB.png/revision/latest?cb=20111008210018"
+    },
+    {
+      "name": "Mushroom Kingdom",
+      "img": "https://static.wikia.nocookie.net/ssb/images/5/5d/MushroomKingdom_-_Super_Smash_Bros.jpg/revision/latest?cb=20110928234029"
+    },
+    {
+      "name": "Planet Zebes",
+      "img": "https://static.wikia.nocookie.net/ssb/images/3/30/Planet_Zebes_SSB.jpg/revision/latest?cb=20071228224207"
+    },
+    {
+      "name": "Sector Z",
+      "img": "https://static.wikia.nocookie.net/ssb/images/4/47/Fighting_without_air.jpg/revision/latest?cb=20090226191236"
+    }
+  ]
+}
