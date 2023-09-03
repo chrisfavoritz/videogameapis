@@ -1,0 +1,32 @@
+{
+  "items": [
+    {
+      "name": "Saffron City",
+      "img": "https://static.wikia.nocookie.net/ssb/images/0/05/SaffronCitySSB.png/revision/latest?cb=20111008210018"
+    },
+    {
+      "name": "Pokémon Stadium",
+      "img": "https://static.wikia.nocookie.net/ssb/images/7/73/SSBU-Pok%C3%A9mon_Stadium.png/revision/latest/scale-to-width-down/350?cb=20181108210818"
+    },
+    {
+      "name": "Pokémon Stadium 2",
+      "img": "https://static.wikia.nocookie.net/ssb/images/8/87/Omega_PokeStad.png/revision/latest?cb=20151103172608"
+    },
+    {
+      "name": "Spear Pillar",
+      "img": "https://static.wikia.nocookie.net/ssb/images/f/f0/SpearPillarSSBB.jpg/revision/latest?cb=20181101094745"
+    },
+    {
+      "name": "Unova Pokémon League",
+      "img": "https://static.wikia.nocookie.net/ssb/images/1/1c/Unova_Pokemon_League_Omega.jpg/revision/latest/scale-to-width-down/350?cb=20151108233213"
+    },
+    {
+      "name": "Prism Tower",
+      "img": "https://static.wikia.nocookie.net/ssb/images/a/a2/Prism_Tower_Omega.jpg/revision/latest/scale-to-width-down/350?cb=201511082354240"
+    },
+    {
+      "name": "Kalos Pokémon League",
+      "img": "https://static.wikia.nocookie.net/ssb/images/0/00/Kalos4.jpg/revision/latest/scale-to-width-down/350?cb=20141025001007"
+    }
+  ]
+}
