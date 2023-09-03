@@ -1,0 +1,17 @@
+{
+  "items": [
+    {"name": "Colgera", "img": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/9/92/Screenshot_2023-05-15_08.35.02.png/revision/latest?cb=20230515123906&format=original"},
+    {"name": "Yunobo", "img": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/b/bd/Yunobo_Sage.png/revision/latest/scale-to-width-down/1000?cb=20230513134437&format=original"},
+    {"name": "Moragia", "img": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/0/0d/MoragiaTotK.png/revision/latest/scale-to-width-down/1000?cb=20230521223425&format=original"},
+    {"name": "Marbled Gohma", "img": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/3/39/MarbledGohma.png/revision/latest/scale-to-width-down/1000?cb=20230521203810&format=original"},
+    {"name": "Sludge Like", "img": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/0/02/TotK_Sludge_Like_Artwork.png/revision/latest?cb=20230523022507&format=original"},
+    {"name": "Mucktorok", "img": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/0/0c/Mucktorok2.png/revision/latest/scale-to-width-down/1000?cb=20230521210349&format=original"},
+    {"name": "Queen Gibdo", "img": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/9/99/Queen_Gibdo.png/revision/latest/scale-to-width-down/1000?cb=20230506225520&format=original"},
+    {"name": "Seized Construct", "img": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/6/63/SeizedConstructTotK.png/revision/latest/scale-to-width-down/1000?cb=20230521215326&format=original"},
+    {"name": "Yiga Clan Master Kohga", "img": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/1/11/Master_Kohga_totk.png/revision/latest?cb=20230514204415&format=original"},
+    {"name": "The Menace Unleashed Demon King Ganondorf", "img": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/3/35/Capture_d%E2%80%99%C3%A9cran_2023-05-22_%C3%A0_18.52.17.png/revision/latest?cb=20230522170956"},
+    {"name": "Master of the Secret Stone Demon King Ganondorf", "img": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/6/66/TotK_Ganondorf.png/revision/latest?cb=20230513141802&format=original"},
+    {"name": "The Demon King's Army", "img": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/c/c1/DemonKingArmy.png/revision/latest/scale-to-width-down/1000?cb=20230521180526&format=original"},
+    {"name": "Demon Dragon", "img": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/a/a2/DemonDragonTotK3.png/revision/latest/scale-to-width-down/1000?cb=20230521175548&format=original"}
+  ]
+}
