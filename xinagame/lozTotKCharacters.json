@@ -1,16 +1,18 @@
-{
+0000000{
   "items": [
-    {"name": "Link", "img": "placeholder"},
-    {"name": "Zelda", "img": "placeholder"},
-    {"name": "Ganondorf", "img": "placeholder"},
-    {"name": "King Rauru", "img": "placeholder"},
-    {"name": "Queen Sonia", "img": "placeholder"},
-    {"name": "Mineru", "img": "placeholder"},
-    {"name": "Riju", "img": "placeholder"},
-    {"name": "Sidon", "img": "placeholder"},
-    {"name": "Yunobo", "img": "placeholder"},
-    {"name": "Tulin", "img": "placeholder"},
-    {"name": "Impa", "img": "placeholder"},
-    {"name": "Tauro", "img": "placeholder"}
+    {"name": "Link", "img": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/1/15/TotK_Link_Artwork.png/revision/latest/scale-to-width-down/1000?cb=20230209040435&format=original0"},
+    {"name": "Zelda", "img": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/c/c9/TotK_Princess_Zelda_Artwork.png/revision/latest?cb=20230804024857&format=original"},
+    {"name": "Ganondorf", "img": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/6/66/TotK_Ganondorf.png/revision/latest?cb=20230513141802&format=original"},
+    {"name": "King Rauru", "img": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/0/0e/King_Rauru_Extracted.png/revision/latest/scale-to-width-down/1000?cb=20230512231423&format=original"},
+    {"name": "Queen Sonia", "img": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/d/d6/TotK_Queen_Sonia_Artwork.png/revision/latest/scale-to-width-down/1000?cb=20230513153620&format=original"},
+    {"name": "Mineru", "img": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/5/5c/Mineru.png/revision/latest?cb=20230513134649&format=original"},
+    {"name": "Riju", "img": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/b/b1/Riju_Sage.png/revision/latest/scale-to-width-down/196?cb=20230513133811&format=original"},
+    {"name": "Sidon", "img": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/6/6c/Sidon_Sage.png/revision/latest?cb=20230513141301&format=original"},
+    {"name": "Yunobo", "img": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/b/bd/Yunobo_Sage.png/revision/latest/scale-to-width-down/1000?cb=20230513134437&format=original"},
+    {"name": "Tulin", "img": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/e/e2/TotK_Tulin_Artwork_4.png/revision/latest?cb=20230804042240&format=original"},
+    {"name": "Impa", "img": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/c/ca/TotK_Impa_Artwork.png/revision/latest?cb=20230531215047&format=original"},
+    {"name": "Purah", "img": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/9/9e/Purah.png/revision/latest?cb=20230515235544&format=original"},
+    {"name": "Josha", "img": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/7/7a/Josha_totk.png/revision/latest?cb=20230514205801&format=original"},
+    {"name": "Robbie", "img": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/b/b0/Robbie_totk.png/revision/latest?cb=20230514205137&format=original"}
   ]
 }
