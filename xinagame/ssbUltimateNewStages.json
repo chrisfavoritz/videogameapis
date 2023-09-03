@@ -1,0 +1,68 @@
+{
+  "items": [
+    {
+      "name": "Small Battlefield",
+      "img": "https://static.wikia.nocookie.net/ssb/images/a/ae/Small_Battlefield.jpg/revision/latest/scale-to-width-down/1000?cb=20200805051702"
+    },
+    {
+      "name": "New Donk City Hall",
+      "img": "https://static.wikia.nocookie.net/ssb/images/f/f5/SSBU-New_Donk_City_Hall.jpg/revision/latest?cb=20180818073835"
+    },
+    {
+      "name": "Great Plateau Tower",
+      "img": "https://static.wikia.nocookie.net/ssb/images/2/20/Great_Plateau_Tower.png/revision/latest/scale-to-width-down/350?cb=20180724170106"
+    },
+    {
+      "name": "Moray Towers",
+      "img": "https://static.wikia.nocookie.net/ssb/images/9/90/SSBU-Moray_Towers.png/revision/latest/scale-to-width-down/350?cb=20180717220224"
+    },
+    {
+      "name": "Dracula's Castle",
+      "img": "https://static.wikia.nocookie.net/ssb/images/c/c1/SSBU-Dracula%27s_Castle.png/revision/latest/scale-to-width-down/350?cb=20180816052435"
+    },
+    {
+      "name": "Mementos",
+      "img": "https://static.wikia.nocookie.net/ssb/images/8/81/SSBU-Mementos_%28Persona_5%29.jpg/revision/latest/scale-to-width-down/350?cb=20190420030608"
+    },
+    {
+      "name": "Yggdrasil's Altar",
+      "img": "https://static.wikia.nocookie.net/ssb/images/b/b3/SSBU-Yggdrasil%27s_Altar.jpg/revision/latest/scale-to-width-down/350?cb=20190907032548"
+    },
+    {
+      "name": "Spiral Mountain",
+      "img": "https://static.wikia.nocookie.net/ssb/images/1/13/SSBU-Spiral_Mountain.jpg/revision/latest/scale-to-width-down/350?cb=20190907031647"
+    },
+    {
+      "name": "King of Fighters Stadium",
+      "img": "https://static.wikia.nocookie.net/ssb/images/d/d6/SSBU-Fatal_Fury_Stage.png/revision/latest/scale-to-width-down/350?cb=20191108155221"
+    },
+    {
+      "name": "Garreg Mach Monastery",
+      "img": "https://static.wikia.nocookie.net/ssb/images/c/c7/SSBU-Garreg_Mach_Monastery.jpg/revision/latest/scale-to-width-down/350?cb=20200117032850"
+    },
+    {
+      "name": "Spring Stadium",
+      "img": "https://static.wikia.nocookie.net/ssb/images/5/55/SSBU-Spring_Stadium.jpg/revision/latest/scale-to-width-down/350?cb=20210331210405"
+    },
+    {
+      "name": "Minecraft World",
+      "img": "https://static.wikia.nocookie.net/ssb/images/7/72/Minecraft_World.jpg/revision/latest/scale-to-width-down/350?cb=20201003191316"
+    },
+    {
+      "name": "Northern Cave",
+      "img": "https://static.wikia.nocookie.net/ssb/images/4/44/Northern_Cave.jpeg/revision/latest/scale-to-width-down/350?cb=20201220074413"
+    },
+    {
+      "name": "Cloud Sea of Alrest",
+      "img": "https://static.wikia.nocookie.net/ssb/images/b/b6/SSBU-Cloud_Sea_of_Alrest.jpg/revision/latest/scale-to-width-down/350?cb=20210304171607"
+    },
+    {
+      "name": "Mishima Dojo",
+      "img": "https://static.wikia.nocookie.net/ssb/images/9/96/Mishima_Dojo.jpeg/revision/latest/scale-to-width-down/350?cb=20210630025301"
+    },
+    {
+      "name": "Hollow Bastion",
+      "img": "https://static.wikia.nocookie.net/ssb/images/7/7e/SSBU-Hollow_Bastion.jpg/revision/latest/scale-to-width-down/350?cb=20211006001600"
+    }
+  ]
+}
