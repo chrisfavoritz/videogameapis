@@ -1,8 +1,20 @@
 {
   "items": [
     {
+      "name": "Battlefield",
+      "img": "https://static.wikia.nocookie.net/ssb/images/8/86/SSBU-Battlefield.png/revision/latest/scale-to-width-down/350?cb=20181027033632"
+    },
+    {
       "name": "Small Battlefield",
       "img": "https://static.wikia.nocookie.net/ssb/images/a/ae/Small_Battlefield.jpg/revision/latest/scale-to-width-down/1000?cb=20200805051702"
+    },
+    {
+      "name": "Big Battlefield",
+      "img": "https://static.wikia.nocookie.net/ssb/images/1/16/SSBU_Big_Battlefield.png/revision/latest/scale-to-width-down/1000?cb=20181106214841"
+    },
+    {
+      "name": "Final Destination",
+      "img": "https://static.wikia.nocookie.net/ssb/images/d/d4/SSBU_Final_Destination.jpg/revision/latest/scale-to-width-down/1000?cb=20181106215234"
     },
     {
       "name": "New Donk City Hall",
