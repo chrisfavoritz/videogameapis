@@ -1,0 +1,18 @@
+{
+  "items": [
+    {"name": "Flux Construct", "img": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/4/4b/Flux_Construct.webp/revision/latest?cb=20230525014619&format=original"},
+    {"name": "Hinox", "img": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/6/69/BotW_Hinox_Model.png/revision/latest?cb=20170520171143&format=original"},
+    {"name": "Stalnox", "img": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/a/aa/BotW_Stalnox_Model.png/revision/latest?cb=20170430144204&format=original"},
+    {"name": "Stone Talus", "img": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/7/73/BotW_Stone_Talus_Model.png/revision/latest?cb=20210615130435&format=original"},
+    {"name": "Igneo Talus", "img": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/b/b5/BotW_Hyrule_Compendium_Igneo_Talus.png/revision/latest?cb=20170510070459&format=original"},
+    {"name": "Frost Talus", "img": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/d/dd/BotW_Frost_Talus_Model.png/revision/latest?cb=20170501173724&format=original"},
+    {"name": "Battle Talus", "img": "https://cdn.wikimg.net/en/zeldawiki/images/thumb/f/ff/TotK_Battle_Talus_Model.png/320px-TotK_Battle_Talus_Model.png"},
+    {"name": "Frox", "img": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/8/8b/Frox.jpg/revision/latest/scale-to-width-down/1000?cb=20230525015428&format=original"},
+    {"name": "Molduga", "img": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/7/7e/BotW_Molduga_Artwork.png/revision/latest/scale-to-width-down/1000?cb=20230601164940&format=original"},
+    {"name": "Electric Gleeok", "img": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/c/c4/ThunderGleeok.png/revision/latest?cb=20230513184744&format=original"},
+    {"name": "Flame Gleeok", "img": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/9/94/Flamegleeok.png/revision/latest/scale-to-width-down/1000?cb=20230513183950&format=original"},
+    {"name": "Frost Gleeok", "img": "https://cdn.wikimg.net/en/zeldawiki/images/thumb/d/dd/TotK_Frost_Gleeok_Model.png/320px-TotK_Frost_Gleeok_Model.png"},
+    {"name": "King Gleeok", "img": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/3/37/TotK_King_Gleeok.jpg/revision/latest?cb=20230621162533"},
+    {"name": "Phantom Ganon", "img": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/1/16/PhantomGanonTotK.png/revision/latest/scale-to-width-down/1000?cb=20230521190052"}
+  ]
+}
