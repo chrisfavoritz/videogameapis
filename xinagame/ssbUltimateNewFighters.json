@@ -1,0 +1,15 @@
+{
+  "items": [
+    {"name": "Chrom", "img": "https://static.wikia.nocookie.net/ssb/images/a/a9/Chrom_-_Super_Smash_Bros._Ultimate.png/revision/latest/scale-to-width-down/1000?cb=20180808153028"},
+    {"name": "Daisy", "img": "https://static.wikia.nocookie.net/ssb/images/2/23/Daisy_-_Super_Smash_Bros._Ultimate.png/revision/latest/scale-to-width-down/1000?cb=20190715071930"},
+    {"name": "Dark Samus", "img": "https://static.wikia.nocookie.net/ssb/images/7/7e/Dark_Samus_-_Super_Smash_Bros._Ultimate.png/revision/latest/scale-to-width-down/1000?cb=20180808153139"},
+    {"name": "Incineroar", "img": "https://static.wikia.nocookie.net/ssb/images/9/9a/Incineroar_-_Super_Smash_Bros._Ultimate.png/revision/latest/scale-to-width-down/1000?cb=20220219173808"},
+    {"name": "Inkling", "img": "https://static.wikia.nocookie.net/ssb/images/8/81/Inkling_-_Super_Smash_Bros._Ultimate.png/revision/latest/scale-to-width-down/1000?cb=20180612204700"},
+    {"name": "Isabelle", "img": "https://static.wikia.nocookie.net/ssb/images/f/fb/Isabelle_-_Super_Smash_Bros._Ultimate.png/revision/latest/scale-to-width-down/1000?cb=20180914091810"},
+    {"name": "Ken", "img": "https://static.wikia.nocookie.net/ssb/images/2/2a/Ken_-_Super_Smash_Bros._Ultimate.png/revision/latest/scale-to-width-down/1000?cb=20220219174348"},
+    {"name": "King Dedede", "img": "https://static.wikia.nocookie.net/ssb/images/b/b4/King_Dedede_-_Super_Smash_Bros._Ultimate.png/revision/latest/scale-to-width-down/1000?cb=20180909152046"},
+    {"name": "King K. Rool", "img": "https://static.wikia.nocookie.net/ssb/images/f/fd/King_K._Rool_-_Super_Smash_Bros._Ultimate.png/revision/latest/scale-to-width-down/1000?cb=20180808152915"},
+    {"name": "Richter Belmont", "img": "https://static.wikia.nocookie.net/ssb/images/b/b4/Richter_Belmont_-_Super_Smash_Bros._Ultimate.png/revision/latest/scale-to-width-down/1000?cb=20220219174812"},
+    {"name": "Ridley", "img": "https://static.wikia.nocookie.net/ssb/images/5/5c/Ridley_-_Super_Smash_Bros._Ultimate.png/revision/latest/scale-to-width-down/1000?cb=20180914125125"}
+  ]
+}
