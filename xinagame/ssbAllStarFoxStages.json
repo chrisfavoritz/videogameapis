@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "name": "Corneria",
+      "img": "https://static.wikia.nocookie.net/ssb/images/0/01/SSBU-Corneria.png/revision/latest/scale-to-width-down/350?cb=20181108204955"
+    },
+    {
+      "name": "Venom",
+      "img": "https://static.wikia.nocookie.net/ssb/images/8/8d/SSBU-Venom.png/revision/latest/scale-to-width-down/350?cb=20181108205021"
+    },
+    {
+      "name": "Lylat Cruise",
+      "img": "https://static.wikia.nocookie.net/ssb/images/c/ce/Omega_Lylat.png/revision/latest?cb=20151103171239"
+    },
+    {
+      "name": "Sector Z",
+      "img": "https://static.wikia.nocookie.net/ssb/images/4/47/Fighting_without_air.jpg/revision/latest?cb=20090226191236"
+    },
+    {
+      "name": "Orbital Gate Assault",
+      "img": "https://static.wikia.nocookie.net/ssb/images/7/73/GreatFoxWiiU.jpg/revision/latest/scale-to-width-down/350?cb=20140722065442"
+    }
+  ]
+}
