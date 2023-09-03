@@ -1,0 +1,80 @@
+{
+  "items": [
+    {
+      "name": "New Donk City Hall",
+      "img": "https://static.wikia.nocookie.net/ssb/images/f/f5/SSBU-New_Donk_City_Hall.jpg/revision/latest?cb=20180818073835"
+    },
+    {
+      "name": "Peach's Castle",
+      "img": "https://static.wikia.nocookie.net/ssb/images/2/2a/Peachs_Castle_SSBWU.jpg/revision/latest?cb=20150628194901"
+    },
+    {
+      "name": "Mushroom Kingdom",
+      "img": "https://static.wikia.nocookie.net/ssb/images/5/5d/MushroomKingdom_-_Super_Smash_Bros.jpg/revision/latest?cb=20110928234029"
+    },
+    {
+      "name": "Princess Peach's Castle",
+      "img": "https://static.wikia.nocookie.net/ssb/images/a/a3/Peachycastle.PNG/revision/latest?cb=20070404222051"
+    },
+    {
+      "name": "Rainbow Cruise",
+      "img": "https://static.wikia.nocookie.net/ssb/images/8/84/SSBU-Rainbow_Cruise.png/revision/latest/scale-to-width-down/350?cb=20181106224137"
+    },
+    {
+      "name": "Mushroom Kingdom II",
+      "img": "https://static.wikia.nocookie.net/ssb/images/9/92/SSBU-Mushroom_Kingdom_II.png/revision/latest/scale-to-width-down/350?cb=20181106224635"
+    },
+    {
+      "name": "Delfino Plaza",
+      "img": "https://static.wikia.nocookie.net/ssb/images/d/d2/Delfino_Plaza.jpg/revision/latest?cb=20080103185337"
+    },
+    {
+      "name": "Mushroomy Kingdom",
+      "img": "https://static.wikia.nocookie.net/ssb/images/c/c1/SSBU-Mushroomy_Kingdom.png/revision/latest/scale-to-width-down/700?cb=20181106224751"
+    },
+    {
+      "name": "Figure-8 Circuit",
+      "img": "https://static.wikia.nocookie.net/ssb/images/6/6f/SSBU-Mario_Circuit_%28SSBB%29.png/revision/latest/scale-to-width-down/699?cb=20181106225941"
+    },
+    {
+      "name": "Luigi's Mansion",
+      "img": "https://static.wikia.nocookie.net/ssb/images/5/56/Omega_Mansion.png/revision/latest?cb=20151103170739"
+    },
+    {
+      "name": "Mario Bros.",
+      "img": "https://static.wikia.nocookie.net/ssb/images/6/6c/MarioBros_Stage.jpg/revision/latest?cb=20080212071306"
+    },
+    {
+      "name": "3D Land",
+      "img": "https://static.wikia.nocookie.net/ssb/images/8/82/SSBU-3D_Land.png/revision/latest/scale-to-width-down/700?cb=20181106230020"
+    },
+    {
+      "name": "Golden Plains",
+      "img": "https://static.wikia.nocookie.net/ssb/images/a/a1/SSBU-Golden_Plains.png/revision/latest/scale-to-width-down/700?cb=20181106230036"
+    },
+    {
+      "name": "Paper Mario",
+      "img": "https://static.wikia.nocookie.net/ssb/images/9/98/SSBU-Paper_Mario.png/revision/latest/scale-to-width-down/700?cb=20181106230438"
+    },
+    {
+      "name": "Mushroom Kingdom U",
+      "img": "https://static.wikia.nocookie.net/ssb/images/6/61/Mario_u_world01.jpg/revision/latest/scale-to-width-down/350?cb=20140602063226"
+    },
+    {
+      "name": "Mario Galaxy",
+      "img": "https://static.wikia.nocookie.net/ssb/images/d/d8/WiiU_SuperSmashBros_Stage07_Screen_01.jpg/revision/latest/scale-to-width-down/350?cb=20140409191328"
+    },
+    {
+      "name": "Mario Circuit",
+      "img": "https://static.wikia.nocookie.net/ssb/images/8/8f/SSBWU_Mario_Circuit.png/revision/latest/scale-to-width-down/350?cb=20141024064012"
+    },
+    {
+      "name": "Skyloft",
+      "img": "https://static.wikia.nocookie.net/ssb/images/a/aa/SkyloftFullView.jpg/revision/latest/scale-to-width-down/350?cb=20140409193858"
+    },
+    {
+      "name": "Super Mario Maker",
+      "img": "https://static.wikia.nocookie.net/ssb/images/3/3e/MarioMaker.jpg/revision/latest/scale-to-width-down/350?cb=20150915115916"
+    }
+  ]
+}
