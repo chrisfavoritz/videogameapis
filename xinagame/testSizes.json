@@ -1,0 +1,28 @@
+{
+  "items": [
+    {
+      "name": "Big Mario",
+      "img": "https://static.wikia.nocookie.net/ssb/images/0/07/Mario_-_Super_Smash_Bros._Ultimate.png/revision/latest/scale-to-width-down/1000?cb=20180910105834"
+    },
+    {
+      "name": "Little Mario",
+      "img": "https://static.wikia.nocookie.net/ssb/images/4/44/Mario_SSBU.png/revision/latest/scale-to-width-down/100?cb=20180612204958"
+    },
+    {
+      "name": "Big Battlefield",
+      "img": "https://static.wikia.nocookie.net/ssb/images/8/86/SSBU-Battlefield.png/revision/latest/scale-to-width-down/1000?cb=20181027033632"
+    },
+    {
+      "name": "Little Battlefield",
+      "img": "https://static.wikia.nocookie.net/ssb/images/8/86/SSBU-Battlefield.png/revision/latest/scale-to-width-down/125?cb=20181027033632"
+    },
+    {
+      "name": "Little Golden Plains",
+      "img": "https://static.wikia.nocookie.net/ssb/images/a/a1/SSBU-Golden_Plains.png/revision/latest/scale-to-width-down/125?cb=20181106230036"
+    },
+    {
+      "name": "Big Golden Plains",
+      "img": "https://static.wikia.nocookie.net/ssb/images/a/a1/SSBU-Golden_Plains.png/revision/latest/scale-to-width-down/350?cb=20181106230036"
+    }
+  ]
+}
