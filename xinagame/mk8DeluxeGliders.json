@@ -1,18 +1,19 @@
 {
   "items": [
-    {"name": "Super Glider", "img": "placeholder"},
-    {"name": "Cloud Glider", "img": "placeholder"},
-    {"name": "Wario Wing", "img": "placeholder"},
-    {"name": "Waddle Wing", "img": "placeholder"},
-    {"name": "Peach Parasol", "img": "placeholder"},
-    {"name": "Parachute", "img": "placeholder"},
-    {"name": "Parafoil", "img": "placeholder"},
-    {"name": "Flower Glider", "img": "placeholder"},
-    {"name": "Bowser Kite", "img": "placeholder"},
-    {"name": "Plane Glider", "img": "placeholder"},
-    {"name": "MKTV Parafoil", "img": "placeholder"},
-    {"name": "Gold Glider", "img": "placeholder"},
-    {"name": "Hylian Kite", "img": "placeholder"},
-    {"name": "Paper Glider", "img": "placeholder"}
+    {"name": "Super Glider", "img": "https://static.wikia.nocookie.net/mariokart/images/a/a8/SuperGliderMK8.png/revision/latest?cb=20141102125815"},
+    {"name": "Cloud Glider", "img": "https://static.wikia.nocookie.net/mariokart/images/8/84/Cloud_Glider.png/revision/latest?cb=20141102125838"},
+    {"name": "Wario Wing", "img": "https://static.wikia.nocookie.net/mariokart/images/a/ae/WarioWingMK8.png/revision/latest?cb=20141102125853"},
+    {"name": "Waddle Wing", "img": "https://static.wikia.nocookie.net/mariokart/images/e/ef/WaddleWingMK8.png/revision/latest?cb=20141102125901"},
+    {"name": "Peach Parasol", "img": "https://static.wikia.nocookie.net/mariokart/images/6/6e/PeachParasolGliderMK8.png/revision/latest?cb=20141102125940"},
+    {"name": "Parachute", "img": "https://static.wikia.nocookie.net/mariokart/images/d/dd/ParachuteGliderMK8.png/revision/latest?cb=20141102125823"},
+    {"name": "Parafoil", "img": "https://static.wikia.nocookie.net/mariokart/images/c/c4/ParafoilGliderMK8.png/revision/latest?cb=20141102125830"},
+    {"name": "Flower Glider", "img": "https://static.wikia.nocookie.net/mariokart/images/b/b3/FlowerGliderMK8.png/revision/latest?cb=20141102125846"},
+    {"name": "Bowser Kite", "img": "https://static.wikia.nocookie.net/mariokart/images/f/f7/BowserKiteMK8.png/revision/latest?cb=20141102125909"},
+    {"name": "Plane Glider", "img": "https://static.wikia.nocookie.net/mariokart/images/c/ca/PlaneGliderMK8.png/revision/latest?cb=20141102125930"},
+    {"name": "MKTV Parafoil", "img": "https://static.wikia.nocookie.net/mariokart/images/9/96/MKTVParafoilGliderMK8.png/revision/latest?cb=20141102125947"},
+    {"name": "Gold Glider", "img": "https://static.wikia.nocookie.net/mariokart/images/1/18/GoldGliderMK8.png/revision/latest?cb=20141102125956"},
+    {"name": "Hylian Kite", "img": "https://static.wikia.nocookie.net/mariokart/images/6/62/MK8_HylianKite.png/revision/latest?cb=20150331232731"},
+    {"name": "Paraglider", "img": "https://static.wikia.nocookie.net/mariokart/images/3/39/MK8D_Paraglider.png/revision/latest?cb=20200726155246"},
+    {"name": "Paper Glider", "img": "https://static.wikia.nocookie.net/mariokart/images/0/0e/PaperGliderIcon-MK8.png/revision/latest?cb=20150426181313"}
   ]
 }
