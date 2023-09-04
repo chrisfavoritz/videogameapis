@@ -1,14 +1,16 @@
 {
   "items": [
-    {"name": "Standard Bike", "img": "placeholder"},
-    {"name": "Comet", "img": "placeholder"},
-    {"name": "Sport Bike", "img": "placeholder"},
-    {"name": "The Duke", "img": "placeholder"},
-    {"name": "Varmint", "img": "placeholder"},
-    {"name": "Mr. Scooty", "img": "placeholder"},
-    {"name": "Jet Bike", "img": "placeholder"},
-    {"name": "Yoshi Bike", "img": "placeholder"},
-    {"name": "Master Cycle", "img": "placeholder"},
-    {"name": "City Tripper", "img": "placeholder"}
+    {"name": "Standard Bike", "img": "https://static.wikia.nocookie.net/mariokart/images/8/84/StandardBikeBodyMK8.png/revision/latest?cb=20141102123849"},
+    {"name": "Comet", "img": "https://static.wikia.nocookie.net/mariokart/images/0/0e/CometBodyMK8.png/revision/latest?cb=20141102124024"},
+    {"name": "Sport Bike", "img": "https://static.wikia.nocookie.net/mariokart/images/f/fe/SportBikeBodyMK8.png/revision/latest?cb=20141102123857"},
+    {"name": "The Duke", "img": "https://static.wikia.nocookie.net/mariokart/images/8/8a/TheDukeBodyMK8.png/revision/latest?cb=20200925174819"},
+    {"name": "Flame Rider", "img": "https://static.wikia.nocookie.net/mariokart/images/3/31/FlameRiderBodyMK8.png/revision/latest?cb=20141102123942"},
+    {"name": "Varmint", "img": "https://static.wikia.nocookie.net/mariokart/images/d/d0/VarmintBodyMK8.png/revision/latest?cb=20141102123951"},
+    {"name": "Mr. Scooty", "img": "https://static.wikia.nocookie.net/mariokart/images/1/18/MrScootyBodyMK8.png/revision/latest?cb=20141102123925"},
+    {"name": "Jet Bike", "img": "https://static.wikia.nocookie.net/mariokart/images/1/12/JetBikeBodyMK8.png/revision/latest?cb=20141102123928"},
+    {"name": "Yoshi Bike", "img": "https://static.wikia.nocookie.net/mariokart/images/6/62/YoshiBikeBodyMK8.png/revision/latest?cb=20200925193256"},
+    {"name": "Master Cycle", "img": "https://static.wikia.nocookie.net/mariokart/images/8/8a/MK8MasterCycle.png/revision/latest?cb=20150408113037"},
+    {"name": "Master Cycle Zero", "img": "https://static.wikia.nocookie.net/mariokart/images/3/3e/150px-MK8D_Master_Cycle_Zero.png/revision/latest?cb=20200726154936"},
+    {"name": "City Tripper", "img": "https://static.wikia.nocookie.net/mariokart/images/9/90/MK8CityTripper.png/revision/latest?cb=20150426175601"}
   ]
 }
