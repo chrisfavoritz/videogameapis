@@ -1,19 +1,19 @@
 {
   "items": [
-    {"name": "Rosalina", "img": "placeholder"},
-    {"name": "Metal Mario", "img": "placeholder"},
-    {"name": "Lakitu", "img": "placeholder"},
-    {"name": "Toadette", "img": "placeholder"},
-    {"name": "Baby Rosalina", "img": "placeholder"},
-    {"name": "Pink Gold Peach", "img": "placeholder"},
-    {"name": "Bowser Jr.", "img": "placeholder"},
-    {"name": "Roy Koopa", "img": "placeholder"},
-    {"name": "Lemmy Koopa", "img": "placeholder"},
-    {"name": "Larry Koopa", "img": "placeholder"},
-    {"name": "Wendy O. Koopa", "img": "placeholder"},
-    {"name": "Ludwig von Koopa", "img": "placeholder"},
-    {"name": "Morton Koopa Jr.", "img": "placeholder"},
-    {"name": "Iggy Koopa", "img": "placeholder"},
-    {"name": "Mii", "img": "placeholder"}
+    {"name": "Rosalina", "img": "https://static.wikia.nocookie.net/mariokart/images/5/5f/85A953A8-76D0-42E4-99F0-E24E5A92DC1F.png/revision/latest/scale-to-width-down/1000?cb=20181124233303"},
+    {"name": "Metal Mario", "img": "https://static.wikia.nocookie.net/mariokart/images/5/58/Metal_Mario_-_Mario_Kart_7.png/revision/latest/scale-to-width-down/1000?cb=20170720224317"},
+    {"name": "Lakitu", "img": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/mario-kart-7/7/7a/Character-lakitu.png"},
+    {"name": "Toadette", "img": "https://static.wikia.nocookie.net/mariokart/images/4/4e/Toadettemk8.png/revision/latest?cb=20190207013807"},
+    {"name": "Baby Rosalina", "img": "https://static.wikia.nocookie.net/mariokart/images/e/e6/270px-Baby_Rosalina-MK8.png/revision/latest?cb=20170728131501"},
+    {"name": "Pink Gold Peach", "img": "https://static.wikia.nocookie.net/mariokart/images/e/e1/MK8_PinkGoldPeach_art.png/revision/latest/scale-to-width-down/1000?cb=20140501013010"},
+    {"name": "Bowser Jr.", "img": "https://static.wikia.nocookie.net/mariokart/images/4/48/SMG_BowserJr.png/revision/latest/scale-to-width-down/1000?cb=20170621054501"},
+    {"name": "Roy Koopa", "img": "https://static.wikia.nocookie.net/mariokart/images/2/23/Roy_NSMBWii.png/revision/latest/scale-to-width-down/1000?cb=20181128120515"},
+    {"name": "Lemmy Koopa", "img": "https://static.wikia.nocookie.net/mariokart/images/e/e9/756px-Mk8lemmy.png/revision/latest?cb=20190529190853"},
+    {"name": "Larry Koopa", "img": "https://static.wikia.nocookie.net/mariokart/images/4/46/LarryKart8.png/revision/latest?cb=20230624152521"},
+    {"name": "Wendy O. Koopa", "img": "https://static.wikia.nocookie.net/mariokart/images/e/e7/Wendy_NSMBWii.png/revision/latest/scale-to-width-down/1000?cb=20181128120437"},
+    {"name": "Ludwig von Koopa", "img": "https://static.wikia.nocookie.net/mariokart/images/f/f0/Ludwig_NSMBWii.png/revision/latest?cb=20181128120700"},
+    {"name": "Morton Koopa Jr.", "img": "https://static.wikia.nocookie.net/mariokart/images/a/af/349px-MortonNSMBU.png/revision/latest?cb=20140313171753"},
+    {"name": "Iggy Koopa", "img": "https://static.wikia.nocookie.net/mariokart/images/2/2a/Iggy_NSMBWii.png/revision/latest/scale-to-width-down/1000?cb=20200617000317"},
+    {"name": "Mii", "img": "https://static.wikia.nocookie.net/debatesjungle/images/e/e8/Mii_%28Mario_Kart%29.png/revision/latest?cb=20210113051654"}
   ]
 }
