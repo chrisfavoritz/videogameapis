@@ -1,0 +1,10 @@
+{
+  "items": [
+    {"name": "Standard ATV", "img": "https://static.wikia.nocookie.net/mariokart/images/2/23/StandardATVBodyMK8.png/revision/latest?cb=20141102124111"},
+    {"name": "Wild Wiggler", "img": "https://static.wikia.nocookie.net/mariokart/images/a/aa/WildWigglerBodyMK8.png/revision/latest?cb=20200925175122"},
+    {"name": "Teddy Buggy", "img": "https://static.wikia.nocookie.net/mariokart/images/f/fa/TeddyBuggyBodyMK8.png/revision/latest?cb=20141102124120"},
+    {"name": "Bone Rattler", "img": "https://static.wikia.nocookie.net/mariokart/images/0/0a/MK8BoneRattler.png/revision/latest?cb=20150426180108"},
+    {"name": "Splat Buggy", "img": "https://static.wikia.nocookie.net/mariokart/images/6/63/MK8DX_Splat_Buggy.png/revision/latest?cb=20170706064814"},
+    {"name": "Inkstriker", "img": "https://static.wikia.nocookie.net/mariokart/images/e/eb/MK8DX_Inkstriker.png/revision/latest?cb=20170706065507"}
+  ]
+}
