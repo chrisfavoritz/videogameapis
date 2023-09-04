@@ -1,0 +1,20 @@
+{
+  "items": [
+    {"name": "Cheep Cheep Beach", "img": "https://static.wikia.nocookie.net/mariokart/images/7/7b/MK8_DSCheepCheepBeach.jpg/revision/latest?cb=20150412110517"},
+    {"name": "DK Jungle", "img": "https://static.wikia.nocookie.net/mariokart/images/d/dd/MK8_3DSDKJungle.png/revision/latest?cb=20150426091254"},
+    {"name": "Donut Plains 3", "img": "https://static.wikia.nocookie.net/mariokart/images/4/44/MK8_SNESDonutPlains3.jpg/revision/latest?cb=20150416064451"},
+    {"name": "Dry Dry Desert", "img": "https://static.wikia.nocookie.net/mariokart/images/0/01/MK8_GCNDryDryDesert.jpg/revision/latest?cb=20150415062329"},
+    {"name": "Grumble Volcano", "img": "https://static.wikia.nocookie.net/mariokart/images/0/0d/MK8-Course-Wii_GrumbleVolcano.jpg/revision/latest/scale-to-width-down/700?cb=20150626174113"},
+    {"name": "Mario Circuit (GBA)", "img": "https://static.wikia.nocookie.net/mariokart/images/7/78/MK8_GBAMarioCircuit.jpg/revision/latest?cb=20150406154413"},
+    {"name": "Moo Moo Meadows", "img": "https://static.wikia.nocookie.net/mariokart/images/7/7d/MK8_WiiMooMooMeadows.jpg/revision/latest?cb=20150406100636"},
+    {"name": "Music Park", "img": "https://static.wikia.nocookie.net/mariokart/images/4/47/MK8-Course-3DS_MusicPark.png/revision/latest?cb=20150613080725"},
+    {"name": "Piranha Plant Slide", "img": "https://static.wikia.nocookie.net/mariokart/images/e/e6/MK8-Course-3DS_PiranhaPlantSlide.jpg/revision/latest/scale-to-width-down/700?cb=20160307045015"},
+    {"name": "Rainbow Road (N64)", "img": "https://static.wikia.nocookie.net/mariokart/images/d/d6/Rainbow-road-n64.png/revision/latest/scale-to-width-down/1000?cb=20140513125408"},
+    {"name": "Royal Raceway", "img": "https://static.wikia.nocookie.net/mariokart/images/3/35/Royal_Raceway_%28Mario_Kart_8%29.jpg/revision/latest/scale-to-width-down/700?cb=20161016075156"},
+    {"name": "Sherbet Land (GCN)", "img": "https://static.wikia.nocookie.net/mariokart/images/c/cf/MK8-Course-GCN_SherbetLand.png/revision/latest?cb=20150529051645"},
+    {"name": "Tick-Tock Clock", "img": "https://static.wikia.nocookie.net/mariokart/images/a/ad/MK8-Course-DS_Tick-TockClock.jpg/revision/latest/scale-to-width-down/1000?cb=20150619164855"},
+    {"name": "Toad's Turnpike", "img": "https://static.wikia.nocookie.net/mariokart/images/0/0e/MK8_N64ToadsTurnpike.jpg/revision/latest?cb=20150413063929"},
+    {"name": "Wario Stadium (DS)", "img": "https://static.wikia.nocookie.net/mariokart/images/8/85/MK8_DSWarioStadium.png/revision/latest?cb=20150428162838"},
+    {"name": "Yoshi Valley", "img": "https://static.wikia.nocookie.net/mariokart/images/4/43/MK8-Course-N64_YoshiValley.png/revision/latest?cb=20150616175706"}
+  ]
+}
