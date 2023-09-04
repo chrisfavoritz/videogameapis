@@ -1,18 +1,18 @@
 {
   "items": [
-    {"name": "Toad", "img": "placeholder"},
-    {"name": "Koopa Troopa", "img": "placeholder"},
-    {"name": "Shy Guy", "img": "placeholder"},
-    {"name": "Baby Mario", "img": "placeholder"},
-    {"name": "Baby Luigi", "img": "placeholder"},
-    {"name": "Baby Peach", "img": "placeholder"},
-    {"name": "Baby Daisy", "img": "placeholder"},
-    {"name": "Lakitu", "img": "placeholder"},
-    {"name": "Toadette", "img": "placeholder"},
-    {"name": "Baby Rosalina", "img": "placeholder"},
-    {"name": "Lemmy Koopa", "img": "placeholder"},
-    {"name": "Larry Koopa", "img": "placeholder"},
-    {"name": "Wendy O. Koopa", "img": "placeholder"},
-    {"name": "Isabelle", "img": "placeholder"}
+    {"name": "Toad", "img": "https://static.wikia.nocookie.net/mariokart/images/6/61/897px-MKDS-Toad_Artwork.png/revision/latest?cb=20170820224205"},
+    {"name": "Koopa Troopa", "img": "https://static.wikia.nocookie.net/mariokart/images/2/28/731px-Koopa_Troopa_Artwork_-_Mario_Kart_Wii.png/revision/latest?cb=20200716011036"},
+    {"name": "Shy Guy", "img": "https://static.wikia.nocookie.net/mariokart/images/3/33/MKT_Driver_5.png/revision/latest?cb=20191005024056"},
+    {"name": "Baby Mario", "img": "https://static.wikia.nocookie.net/mariokart/images/3/37/EAFE4E75-B353-4B4A-BB54-DC5DB769A037.png/revision/latest/scale-to-width-down/1000?cb=20181126002735"},
+    {"name": "Baby Luigi", "img": "https://static.wikia.nocookie.net/mariokart/images/6/62/84C22C79-AB5F-4E73-9E0F-E6B354858982.png/revision/latest/scale-to-width-down/1000?cb=20181125034927"},
+    {"name": "Baby Peach", "img": "https://static.wikia.nocookie.net/mariokart/images/2/20/Babypeachsimple.png/revision/latest?cb=20200827174933"},
+    {"name": "Baby Daisy", "img": "https://static.wikia.nocookie.net/mariokart/images/c/ce/29057E40-3B55-4477-90B1-F9A5D2009F9B.png/revision/latest?cb=20200312211912"},
+    {"name": "Lakitu", "img": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/mario-kart-7/7/7a/Character-lakitu.png"},
+    {"name": "Toadette", "img": "https://static.wikia.nocookie.net/mariokart/images/4/4e/Toadettemk8.png/revision/latest?cb=20190207013807"},
+    {"name": "Baby Rosalina", "img": "https://static.wikia.nocookie.net/mariokart/images/e/e6/270px-Baby_Rosalina-MK8.png/revision/latest?cb=20170728131501"},
+    {"name": "Lemmy Koopa", "img": "https://static.wikia.nocookie.net/mariokart/images/e/e9/756px-Mk8lemmy.png/revision/latest?cb=20190529190853"},
+    {"name": "Larry Koopa", "img": "https://static.wikia.nocookie.net/mariokart/images/4/46/LarryKart8.png/revision/latest?cb=20230624152521"},
+    {"name": "Wendy O. Koopa", "img": "https://static.wikia.nocookie.net/mariokart/images/e/e7/Wendy_NSMBWii.png/revision/latest/scale-to-width-down/1000?cb=20181128120437"},
+    {"name": "Isabelle", "img": "https://mario.wiki.gallery/images/thumb/2/2b/Isabelle_SSBU.png/1200px-Isabelle_SSBU.png"}
   ]
 }
