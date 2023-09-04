@@ -1,0 +1,20 @@
+{
+  "items": [
+    {"name": "Animal Crossing", "img": "https://static.wikia.nocookie.net/mariokart/images/a/a8/MarioKart8_AnimalCrossing.png/revision/latest/scale-to-width-down/700?cb=20150411154805"},
+    {"name": "Baby Park", "img": "https://static.wikia.nocookie.net/mariokart/images/d/d7/MarioKart8_GCNBabyPark.png/revision/latest/scale-to-width-down/699?cb=20150416162942"},
+    {"name": "Big Blue", "img": "https://static.wikia.nocookie.net/mariokart/images/e/e0/MK8-DLC-Course-BigBlue-overview.jpg/revision/latest/scale-to-width-down/700?cb=20160307011015"},
+    {"name": "Cheese Land", "img": "https://static.wikia.nocookie.net/mariokart/images/3/39/MK8-DLC-Course-GBA_CheeseLand.jpg/revision/latest/scale-to-width-down/700?cb=20151218033310"},
+    {"name": "Dragon Driftway", "img": "https://static.wikia.nocookie.net/mariokart/images/6/6d/MarioKart8_DragonDriftway.png/revision/latest/scale-to-width-down/700?cb=20150409164802"},
+    {"name": "Excitebike Arena", "img": "https://static.wikia.nocookie.net/mariokart/images/5/55/MarioKart8_ExcitebikeArena.jpg/revision/latest/scale-to-width-down/1000?cb=20150412155659"},
+    {"name": "Hyrule Circuit", "img": "https://static.wikia.nocookie.net/mariokart/images/f/f8/MK8-DLC-Course-HyruleCircuit.jpg/revision/latest/scale-to-width-down/700?cb=20151205060538"},
+    {"name": "Ice Ice Outpost", "img": "https://static.wikia.nocookie.net/mariokart/images/b/bc/MK8-DLC-Course-IceIceOutpost.jpg/revision/latest/scale-to-width-down/700?cb=20151130123719"},
+    {"name": "Mute City", "img": "https://static.wikia.nocookie.net/mariokart/images/a/a8/MK8-DLC-Course-MuteCity.jpg/revision/latest/scale-to-width-down/700?cb=20160307042021"},
+    {"name": "Neo Bowser City", "img": "https://static.wikia.nocookie.net/mariokart/images/c/c7/MK8-DLC-Course-3DS_NeoBowserCity.jpg/revision/latest/scale-to-width-down/700?cb=20151225091347"},
+    {"name": "Rainbow Road (SNES)", "img": "https://static.wikia.nocookie.net/mariokart/images/2/2a/Mk8-DLC-Course-SNES_RainbowRoad.jpg/revision/latest/scale-to-width-down/700?cb=20150822070236"},
+    {"name": "Ribbon Road", "img": "https://static.wikia.nocookie.net/mariokart/images/c/cd/MK8-DLC-Course-GBA_RibbonRoad.jpg/revision/latest/scale-to-width-down/700?cb=20151227123530"},
+    {"name": "Super Bell Subway", "img": "https://static.wikia.nocookie.net/mariokart/images/7/7b/MK8-DLC-Course-SuperBellSubway.jpg/revision/latest/scale-to-width-down/700?cb=20151230081652"},
+    {"name": "Wario's Gold Mine", "img": "https://static.wikia.nocookie.net/mariokart/images/7/7d/MK8_Wario%27s_Gold_Mine.jpg/revision/latest?cb=20150330183711"},
+    {"name": "Wild Woods", "img": "https://static.wikia.nocookie.net/mariokart/images/6/6a/MK8-DLC-Course-WildWoods01.jpg/revision/latest/scale-to-width-down/700?cb=20151220142931"},
+    {"name": "Yoshi Circuit", "img": "https://static.wikia.nocookie.net/mariokart/images/b/b8/Mk8-dlc-yoshi-circuit-1-.jpg/revision/latest/scale-to-width-down/700?cb=20150211200424"}
+  ]
+}
