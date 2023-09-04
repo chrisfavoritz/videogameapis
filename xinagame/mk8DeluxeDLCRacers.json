@@ -1,17 +1,17 @@
 {
   "items": [
-    {"name": "Inkling (M\\F)", "img": "placeholder"},
-    {"name": "Link", "img": "placeholder"},
-    {"name": "Tanooki Mario", "img": "placeholder"},
-    {"name": "Cat Peach", "img": "placeholder"},
-    {"name": "Dry Bowser", "img": "placeholder"},
-    {"name": "Villager (M/F)", "img": "placeholder"},
-    {"name": "Isabelle", "img": "placeholder"},
-    {"name": "King Boo", "img": "placeholder"},
-    {"name": "Dry Bones", "img": "placeholder"},
-    {"name": "Birdo", "img": "placeholder"},
-    {"name": "Petey Piranha", "img": "placeholder"},
-    {"name": "Wiggler", "img": "placeholder"},
-    {"name": "Kamek", "img": "placeholder"}
+    {"name": "Inkling (M\\F)", "img": "https://mario.wiki.gallery/images/thumb/2/2e/Inkling_SSBU.png/1200px-Inkling_SSBU.png"},
+    {"name": "Link", "img": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/fe8e6ab4-bc07-4932-bca4-17e2d7594645/dfrceo5-213d11d9-356c-46dd-ba44-b85cb74e177a.png/v1/fill/w_973,h_821/link___mario_kart_8_deluxe_by_rubychu96_dfrceo5-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTA4MSIsInBhdGgiOiJcL2ZcL2ZlOGU2YWI0LWJjMDctNDkzMi1iY2E0LTE3ZTJkNzU5NDY0NVwvZGZyY2VvNS0yMTNkMTFkOS0zNTZjLTQ2ZGQtYmE0NC1iODVjYjc0ZTE3N2EucG5nIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.bfMzbFW73bMouR3_7eSP6PVL_VrCfzm82gmU6N51jSA"},
+    {"name": "Tanooki Mario", "img": "https://static.wikia.nocookie.net/nintendo/images/e/e4/SM3DL_Tanooki_Mario.png/revision/latest?cb=20150424194738&path-prefix=en"},
+    {"name": "Cat Peach", "img": "https://static.wikia.nocookie.net/nintendo/images/2/28/SM3DW_Cat_Princess_Peach.png/revision/latest?cb=20140902213016&path-prefix=en"},
+    {"name": "Dry Bowser", "img": "https://static.wikia.nocookie.net/mariokart/images/9/9d/Dry_Bowser_Artwork.png/revision/latest/scale-to-width-down/1000?cb=20170507213929"},
+    {"name": "Villager (M/F)", "img": "https://pm1.aminoapps.com/6977/f06197e0c1d293c1e873d4eb747e40e450d244bdr1-800-794v2_00.jpg"},
+    {"name": "Isabelle", "img": "https://mario.wiki.gallery/images/thumb/2/2b/Isabelle_SSBU.png/1200px-Isabelle_SSBU.png"},
+    {"name": "King Boo", "img": "https://static.wikia.nocookie.net/mariokart/images/2/27/King_Boo_-_Mario_Kart_Wii.PNG/revision/latest?cb=20170507213155"},
+    {"name": "Dry Bones", "img": "https://static.wikia.nocookie.net/mariokart/images/4/4c/Dry_Bones_Artwork_-_Mario_Party_7.png/revision/latest?cb=20170507212653"},
+    {"name": "Birdo", "img": "https://static.wikia.nocookie.net/mariokart/images/a/a7/Birdo_Render.png/revision/latest/scale-to-width-down/1000?cb=20230309211048"},
+    {"name": "Petey Piranha", "img": "https://static.wikia.nocookie.net/mariokart/images/7/71/Petey_Piranha.png/revision/latest?cb=20180203220624"},
+    {"name": "Wiggler", "img": "https://static.wikia.nocookie.net/mariokart/images/0/09/Wiggler_-_Mario_Kart_X.png/revision/latest?cb=20200504160814"},
+    {"name": "Kamek", "img": "https://static.wikia.nocookie.net/mariokart/images/f/f9/Kamek_%28Mario_Kart_Tour%29.png/revision/latest?cb=20221229170015"}
   ]
 }
