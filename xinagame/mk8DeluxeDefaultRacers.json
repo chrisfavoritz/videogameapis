@@ -1,20 +1,20 @@
 {
   "items": [
-    {"name": "Mario", "img": "placeholder"},
-    {"name": "Luigi", "img": "placeholder"},
-    {"name": "Peach", "img": "placeholder"},
-    {"name": "Daisy", "img": "placeholder"},
-    {"name": "Yoshi", "img": "placeholder"},
-    {"name": "Toad", "img": "placeholder"},
-    {"name": "Koopa Troopa", "img": "placeholder"},
-    {"name": "Shy Guy", "img": "placeholder"},
-    {"name": "Baby Mario", "img": "placeholder"},
-    {"name": "Baby Luigi", "img": "placeholder"},
-    {"name": "Baby Peach", "img": "placeholder"},
-    {"name": "Baby Daisy", "img": "placeholder"},
-    {"name": "Bowser", "img": "placeholder"},
-    {"name": "Donkey Kong", "img": "placeholder"},
-    {"name": "Wario", "img": "placeholder"},
-    {"name": "Waluigi", "img": "placeholder"}
+    {"name": "Mario", "img": "https://static.wikia.nocookie.net/mariokart/images/4/4c/Mario_mario_kart_8_deluxe.png/revision/latest/scale-to-width-down/1000?cb=20170429081902"},
+    {"name": "Luigi", "img": "https://static.wikia.nocookie.net/mariokart/images/8/85/MK8D_BCP_Luigi.png/revision/latest?cb=20230624151537"},
+    {"name": "Peach", "img": "https://static.wikia.nocookie.net/mariokart/images/9/94/MKT_Peach_Artwork.png/revision/latest/scale-to-width-down/1000?cb=20211206175432"},
+    {"name": "Daisy", "img": "https://static.wikia.nocookie.net/mariokart/images/7/7e/AB937D1B-7139-4359-B502-7AF65B3C22B7.jpeg/revision/latest?cb=20181125012203"},
+    {"name": "Yoshi", "img": "https://static.wikia.nocookie.net/mariokart/images/2/2f/MK8_Yoshi_Artwork.png/revision/latest/scale-to-width-down/1000?cb=20181125034031"},
+    {"name": "Toad", "img": "https://static.wikia.nocookie.net/mariokart/images/6/61/897px-MKDS-Toad_Artwork.png/revision/latest?cb=20170820224205"},
+    {"name": "Koopa Troopa", "img": "https://static.wikia.nocookie.net/mariokart/images/2/28/731px-Koopa_Troopa_Artwork_-_Mario_Kart_Wii.png/revision/latest?cb=20200716011036"},
+    {"name": "Shy Guy", "img": "https://static.wikia.nocookie.net/mariokart/images/3/33/MKT_Driver_5.png/revision/latest?cb=20191005024056"},
+    {"name": "Baby Mario", "img": "https://static.wikia.nocookie.net/mariokart/images/3/37/EAFE4E75-B353-4B4A-BB54-DC5DB769A037.png/revision/latest/scale-to-width-down/1000?cb=20181126002735"},
+    {"name": "Baby Luigi", "img": "https://static.wikia.nocookie.net/mariokart/images/6/62/84C22C79-AB5F-4E73-9E0F-E6B354858982.png/revision/latest/scale-to-width-down/1000?cb=20181125034927"},
+    {"name": "Baby Peach", "img": "https://static.wikia.nocookie.net/mariokart/images/2/20/Babypeachsimple.png/revision/latest?cb=20200827174933"},
+    {"name": "Baby Daisy", "img": "https://static.wikia.nocookie.net/mariokart/images/c/ce/29057E40-3B55-4477-90B1-F9A5D2009F9B.png/revision/latest?cb=20200312211912"},
+    {"name": "Bowser", "img": "https://static.wikia.nocookie.net/mariokart/images/6/65/MK8DX_-_Bowser_artwork.png/revision/latest?cb=20211121190644"},
+    {"name": "Donkey Kong", "img": "https://static.wikia.nocookie.net/mariokart/images/6/66/BAFADEE3-A41C-4F1D-86C3-2951FE24017F.png/revision/latest/scale-to-width-down/1000?cb=20181126005614"},
+    {"name": "Wario", "img": "https://static.wikia.nocookie.net/mariokart/images/9/99/MK8_Wario_Artwork.png/revision/latest?cb=20211223114044"},
+    {"name": "Waluigi", "img": "https://static.wikia.nocookie.net/mariokart/images/1/10/Waluigi_-_Mario_Kart_Wii.png/revision/latest/scale-to-width-down/1000?cb=20140404172930"}
   ]
 }
