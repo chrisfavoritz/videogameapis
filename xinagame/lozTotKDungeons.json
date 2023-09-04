@@ -1,11 +1,11 @@
 {
   "items": [
-    {"name": "Wind Temple - The Legendary Stormwind Ark", "img": "placeholder"},
-    {"name": "Water Temple - The Great Wellspring of Hyrule", "img": "placeholder"},
-    {"name": "Fire Temple - Lost Gorondia Rediscovered", "img": "placeholder"},
-    {"name": "Lightning Temple - The Mural’s Myth, Risen From the Sands", "img": "placeholder"},
-    {"name": "Hyrule Castle", "img": "placeholder"},
-    {"name": "Spirit Temple - The Vessel of Spirit’s Resting Place", "img": "placeholder"},
-    {"name": "Gloom's Lair", "img": "placeholder"}
+    {"name": "Wind Temple - The Legendary Stormwind Ark", "img": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/b/bb/TotKWindTemple.png/revision/latest/scale-to-width-down/1000?cb=20230715221627&format=original"},
+    {"name": "Water Temple - The Great Wellspring of Hyrule", "img": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/0/07/TotKWaterTemple.png/revision/latest/scale-to-width-down/1000?cb=20230715235655&format=original"},
+    {"name": "Fire Temple - Lost Gorondia Rediscovered", "img": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/2/27/TotKFireTemple.png/revision/latest/scale-to-width-down/1000?cb=20230716163449&format=original"},
+    {"name": "Lightning Temple - The Mural’s Myth, Risen From the Sands", "img": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/e/e7/TotKLightningTemple.png/revision/latest/scale-to-width-down/1000?cb=20230716163955&format=original"},
+    {"name": "Hyrule Castle", "img": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/2/26/HCS.jpg/revision/latest/scale-to-width-down/1000?cb=20230716195821&format=original"},
+    {"name": "Spirit Temple - The Vessel of Spirit’s Resting Place", "img": "https://www.zeldadungeon.net/wiki/images/f/fd/Spirit_Temple_Title_-_TotK_screenshot.jpg"},
+    {"name": "Gloom's Lair", "img": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/4/41/GloomLair.png/revision/latest/scale-to-width-down/1000?cb=20230521151300&format=original"}
   ]
 }
