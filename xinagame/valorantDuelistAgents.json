@@ -1,0 +1,28 @@
+{
+  "items": [
+    {
+      "name": "Phoenix",
+      "img": "https://static.wikia.nocookie.net/valorant/images/9/90/Phoenix_Artwork_Full.png/revision/latest/scale-to-width-down/1000?cb=20220810202811"
+    },
+    {
+      "name": "Jett",
+      "img": "https://static.wikia.nocookie.net/valorant/images/e/e3/Jett_Artwork_Full.png/revision/latest/scale-to-width-down/1000?cb=20220810202742"
+    },
+    {
+      "name": "Reyna",
+      "img": "https://static.wikia.nocookie.net/valorant/images/3/36/Reyna_Artwork_Full.png/revision/latest/scale-to-width-down/1000?cb=20220810202820"
+    },
+    {
+      "name": "Raze",
+      "img": "https://static.wikia.nocookie.net/valorant/images/6/6f/Raze_Artwork_Full.png/revision/latest/scale-to-width-down/1000?cb=20220810202815"
+    },
+    {
+      "name": "Yoru",
+      "img": "https://static.wikia.nocookie.net/valorant/images/1/1e/Yoru_Artwork_Full.png/revision/latest/scale-to-width-down/1000?cb=20220810202841"
+    },
+    {
+      "name": "Neon",
+      "img": "https://static.wikia.nocookie.net/valorant/images/f/fe/Neon_Artwork_Full.png/revision/latest/scale-to-width-down/1000?cb=20220810202800"
+    }
+  ]
+}
