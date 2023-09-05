@@ -2,83 +2,83 @@
   "items": [
     {
       "name": "Yasuo",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c9/Yasuo_Render.png/revision/latest?cb=20200514001932"
     },
     {
       "name": "Lee Sin",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/leagueoflegends/images/4/4f/Lee_Sin_Render.png/revision/latest/scale-to-width-down/271?cb=20181117192315"
     },
     {
       "name": "Thresh",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/leagueoflegends/images/4/48/Thresh_Render.png/revision/latest?cb=20200403153402"
     },
     {
       "name": "Ahri",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/leagueoflegends/images/f/f1/Ahri_Render.png/revision/latest/scale-to-width-down/1000?cb=20230110211552"
     },
     {
       "name": "Ezreal",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/leagueoflegends/images/7/7e/Ezreal_Render.png/revision/latest?cb=20181110192054"
     },
     {
       "name": "Jhin",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/leagueoflegends/images/d/df/Jhin_Render.png/revision/latest?cb=20210521172423"
     },
     {
       "name": "Zed",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/leagueoflegends/images/d/de/Zed_Render.png/revision/latest?cb=20190115041729"
     },
     {
-      "name": "Kai'Sa",
-      "img": "placeholder"
+      "name": "Kha'Zix",
+      "img": "https://static.wikia.nocookie.net/leagueoflegends/images/3/38/Kha%27Zix_Render.png/revision/latest?cb=20200503215114"
     },
     {
       "name": "Akali",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/leagueoflegends/images/e/ee/Akali_Render.png/revision/latest?cb=20200324143407"
     },
     {
       "name": "Darius",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d0/Darius_Render.png/revision/latest/scale-to-width-down/1000?cb=20200330044003"
     },
     {
       "name": "Teemo",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d6/Teemo_Render.png/revision/latest?cb=20190112183654"
     },
     {
       "name": "Jinx",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c8/Jinx_Render.png/revision/latest?cb=20200514000223"
     },
     {
       "name": "Miss Fortune",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/leagueoflegends/images/1/16/Miss_Fortune_Render.png/revision/latest?cb=20210521205159"
     },
     {
       "name": "Pyke",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/leagueoflegends/images/9/9e/Pyke_Render.png/revision/latest?cb=20200319191348"
     },
     {
       "name": "Riven",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/leagueoflegends/images/e/ee/Riven_Render.png/revision/latest?cb=20200328000634"
     },
     {
       "name": "Lucian",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/leagueoflegends/images/5/50/Lucian_Render.png/revision/latest/scale-to-width-down/173?cb=20200513235027"
     },
     {
       "name": "Katarina",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/leagueoflegends/images/1/1e/Katarina_Render.png/revision/latest?cb=20210521205837"
     },
     {
       "name": "Garen",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/leagueoflegends/images/b/ba/Garen_Render.png/revision/latest?cb=20190111211100"
     },
     {
       "name": "Lux",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/leagueoflegends/images/f/f4/Lux_Render.png/revision/latest?cb=20200209203614"
     },
     {
       "name": "Fiora",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/leagueoflegends/images/d/d9/Fiora_Render.png/revision/latest/scale-to-width-down/1000?cb=20200329144055"
     }
   ]
 }
