@@ -1,52 +1,52 @@
 {
   "items": [
     {
-      "name": "Astronaut",
-      "img": "placeholder"
+      "name": "Astronaught",
+      "img": "https://static.wikia.nocookie.net/among-us-wiki/images/0/07/Astronaught.png/revision/latest?cb=20210616132303"
     },
     {
-      "name": "Captain",
-      "img": "placeholder"
+      "name": "Pilot's License",
+      "img": "https://static.wikia.nocookie.net/among-us-wiki/images/5/55/Pilot%27s_License.png/revision/latest?cb=20210616132348"
     },
     {
-      "name": "Mechanic",
-      "img": "placeholder"
+      "name": "Airship Mechanic",
+      "img": "https://static.wikia.nocookie.net/among-us-wiki/images/c/c3/Airship_Mechanic.png/revision/latest?cb=20211115044516"
     },
     {
-      "name": "Military",
-      "img": "placeholder"
+      "name": "Officer Outfit",
+      "img": "https://static.wikia.nocookie.net/among-us-wiki/images/8/8b/Officer_Outfit.png/revision/latest?cb=20210616132524"
     },
     {
-      "name": "Police",
-      "img": "placeholder"
+      "name": "Policeman Officer",
+      "img": "https://static.wikia.nocookie.net/among-us-wiki/images/b/bc/Policeman_Officer.png/revision/latest?cb=20210616132814"
     },
     {
       "name": "Doctor",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/among-us-wiki/images/6/6c/Doctor.png/revision/latest/scale-to-width-down/70?cb=20211115045426"
     },
     {
-      "name": "Black Suit",
-      "img": "placeholder"
+      "name": "Suited Up",
+      "img": "https://static.wikia.nocookie.net/among-us-wiki/images/f/f5/Suited_Up.png/revision/latest/scale-to-width-down/70?cb=20210616132322"
     },
     {
-      "name": "White Suit",
-      "img": "placeholder"
+      "name": "Flashy",
+      "img": "https://static.wikia.nocookie.net/among-us-wiki/images/c/c4/Flashy.png/revision/latest/scale-to-width-down/70?cb=20210616133010"
     },
     {
-      "name": "Scientist",
-      "img": "placeholder"
+      "name": "Scientific Theory",
+      "img": "https://static.wikia.nocookie.net/among-us-wiki/images/d/d0/Scientific_Theory.png/revision/latest/scale-to-width-down/70?cb=20210616132417"
     },
     {
-      "name": "Security Guard",
-      "img": "placeholder"
+      "name": "Keepin it Secure",
+      "img": "https://static.wikia.nocookie.net/among-us-wiki/images/d/d1/Keepin_it_Secure.png/revision/latest/scale-to-width-down/70?cb=20210616132646"
     },
     {
-      "name": "Miner",
-      "img": "placeholder"
+      "name": "Underminer",
+      "img": "https://static.wikia.nocookie.net/among-us-wiki/images/a/a8/Underminer.png/revision/latest/scale-to-width-down/70?cb=20210616132554"
     },
     {
-      "name": "Winter Gear",
-      "img": "placeholder"
+      "name": "Jacket Up",
+      "img": "https://static.wikia.nocookie.net/among-us-wiki/images/5/5b/Jacket_Up.png/revision/latest/scale-to-width-down/70?cb=20210616133001"
     }
   ]
 }
