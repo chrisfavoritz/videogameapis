@@ -2,47 +2,131 @@
   "items": [
     {
       "name": "Bedcrab",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/among-us-wiki/images/1/18/Bedcrab.png/revision/latest?cb=20210616131543"
     },
     {
-      "name": "Brainslug",
-      "img": "placeholder"
+      "name": "Breb",
+      "img": "https://static.wikia.nocookie.net/among-us-wiki/images/5/58/Breb.png/revision/latest?cb=20220823203947"
     },
     {
-      "name": "Dog",
-      "img": "placeholder"
+      "name": "Bränt",
+      "img": "https://static.wikia.nocookie.net/among-us-wiki/images/e/ef/Br%C3%A4nt.png/revision/latest?cb=20221209221901"
     },
     {
-      "name": "UFO",
-      "img": "placeholder"
+      "name": "Bushfriend",
+      "img": "https://static.wikia.nocookie.net/among-us-wiki/images/9/97/Bushfriend.png/revision/latest?cb=20211112215745"
     },
     {
-      "name": "Hamster",
-      "img": "placeholder"
+      "name": "Charles Chopper",
+      "img": "https://static.wikia.nocookie.net/among-us-wiki/images/c/c4/Charles_Chopper.png/revision/latest?cb=20211113030515"
+    },
+    {
+      "name": "Chewie",
+      "img": "https://static.wikia.nocookie.net/among-us-wiki/images/d/df/Chewie.png/revision/latest?cb=20221018200851"
+    },
+    {
+      "name": "Clank",
+      "img": "https://static.wikia.nocookie.net/among-us-wiki/images/8/86/Clank.png/revision/latest?cb=20220331182838"
+    },
+    {
+      "name": "Coalton",
+      "img": "https://static.wikia.nocookie.net/among-us-wiki/images/f/fa/Coalton.png/revision/latest?cb=20221209200411"
+    },
+    {
+      "name": "Deitied Guy",
+      "img": "https://static.wikia.nocookie.net/among-us-wiki/images/1/11/Deitied_Guy.png/revision/latest?cb=20211113032602"
+    },
+    {
+      "name": "Doggy",
+      "img": "https://static.wikia.nocookie.net/among-us-wiki/images/0/09/Doggy.png/revision/latest?cb=20211114002258"
+    },
+    {
+      "name": "E. Rose",
+      "img": "https://static.wikia.nocookie.net/among-us-wiki/images/b/bd/E._Rose.png/revision/latest?cb=20210616132713"
+    },
+    {
+      "name": "Frankendog",
+      "img": "https://static.wikia.nocookie.net/among-us-wiki/images/c/c2/Frankendog.png/revision/latest?cb=20211113033342"
+    },
+    {
+      "name": "Ghost",
+      "img": "https://static.wikia.nocookie.net/among-us-wiki/images/c/c2/Ghost_pet.png/revision/latest?cb=20230228202347"
+    },
+    {
+      "name": "Glitch Pet",
+      "img": "https://static.wikia.nocookie.net/among-us-wiki/images/4/46/Glitch_Pet.png/revision/latest?cb=20211113023613"
+    },
+    {
+      "name": "Guilty Spark",
+      "img": "https://static.wikia.nocookie.net/among-us-wiki/images/7/73/Guilty_Spark.png/revision/latest?cb=20220331185004"
+    },
+    {
+      "name": "H. Stickmin",
+      "img": "https://static.wikia.nocookie.net/among-us-wiki/images/3/31/H._Stickmin.png/revision/latest?cb=20210616132832"
+    },
+    {
+      "name": "Hammy",
+      "img": "https://static.wikia.nocookie.net/among-us-wiki/images/b/be/Hammy.png/revision/latest?cb=20220823203841"
+    },
+    {
+      "name": "Hampton",
+      "img": "https://static.wikia.nocookie.net/among-us-wiki/images/8/89/Hampton.png/revision/latest?cb=20210616132040"
+    },
+    {
+      "name": "Headslug",
+      "img": "https://static.wikia.nocookie.net/among-us-wiki/images/6/60/Headslug_pet.png/revision/latest?cb=20210616131710"
+    },
+    {
+      "name": "Heimerdinger's Poro",
+      "img": "https://static.wikia.nocookie.net/among-us-wiki/images/5/50/Heimerdinger%27s_Poro.png/revision/latest?cb=20211113025538"
+    },
+    {
+      "name": "Holiday Hammy",
+      "img": "https://static.wikia.nocookie.net/among-us-wiki/images/6/61/Holiday_Hammy.png/revision/latest?cb=20221209222005"
+    },
+    {
+      "name": "Magmate",
+      "img": "https://static.wikia.nocookie.net/among-us-wiki/images/2/2b/Magmate.png/revision/latest?cb=20211113033934"
+    },
+    {
+      "name": "Pusheen",
+      "img": "https://static.wikia.nocookie.net/among-us-wiki/images/7/71/Pusheen_Pet_Standing-Idle.png/revision/latest?cb=20230620233514"
+    },
+    {
+      "name": "Pouka",
+      "img": "https://static.wikia.nocookie.net/among-us-wiki/images/2/2a/Pouka.png/revision/latest?cb=20230228202437"
     },
     {
       "name": "Mini Crewmate",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/among-us-wiki/images/6/64/Mini_Crewmate_pet_idle.png/revision/latest?cb=20210616135332"
     },
     {
-      "name": "Robot",
-      "img": "placeholder"
+      "name": "Ro-Bot",
+      "img": "https://static.wikia.nocookie.net/among-us-wiki/images/6/65/Ro-Bot.png/revision/latest?cb=20210616143639"
     },
     {
-      "name": "Stickmin",
-      "img": "placeholder"
+      "name": "Snowball",
+      "img": "https://static.wikia.nocookie.net/among-us-wiki/images/0/04/Snowball.png/revision/latest?cb=20211113034503"
     },
     {
       "name": "Squig",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/among-us-wiki/images/4/48/Squig.png/revision/latest?cb=20210616131518"
     },
     {
-      "name": "Twitch",
-      "img": "placeholder"
+      "name": "The Nug",
+      "img": "https://static.wikia.nocookie.net/among-us-wiki/images/5/56/The_Nug.png/revision/latest?cb=20221209222129"
     },
     {
-      "name": "Ellie",
-      "img": "placeholder"
+      "name": "Toppat Chopper",
+      "img": "https://static.wikia.nocookie.net/among-us-wiki/images/8/8e/Toppat_Chopper.png/revision/latest?cb=20211113031643"
+    },
+    {
+      "name": "UFO",
+      "img": "https://static.wikia.nocookie.net/among-us-wiki/images/7/77/UFO.png/revision/latest?cb=20210616131708"
+    },
+    {
+      "name": "Worm",
+      "img": "https://static.wikia.nocookie.net/among-us-wiki/images/5/52/Worm.png/revision/latest?cb=20230228202505"
     }
   ]
 }
