@@ -1,0 +1,28 @@
+{
+  "items": [
+    {
+      "name": "Sova",
+      "img": "https://static.wikia.nocookie.net/valorant/images/c/c5/Sova_Artwork_Full.png/revision/latest?cb=20220810202832"
+    },
+    {
+      "name": "Breach",
+      "img": "https://static.wikia.nocookie.net/valorant/images/2/24/Breach_Artwork_Full.png/revision/latest/scale-to-width-down/1000?cb=20220810202713"
+    },
+    {
+      "name": "Skye",
+      "img": "https://static.wikia.nocookie.net/valorant/images/7/7f/Skye_Artwork_Full.png/revision/latest/scale-to-width-down/1000?cb=20220810202828"
+    },
+    {
+      "name": "KAY/O",
+      "img": "https://static.wikia.nocookie.net/valorant/images/5/57/KAYO_Artwork_Full.png/revision/latest/scale-to-width-down/1000?cb=20220810202747"
+    },
+    {
+      "name": "Fade",
+      "img": "https://static.wikia.nocookie.net/valorant/images/e/e8/Fade_Artwork_Full.png/revision/latest/scale-to-width-down/1000?cb=20220810202738"
+    },
+    {
+      "name": "Gekko",
+      "img": "https://static.wikia.nocookie.net/valorant/images/a/a4/Gekko_Artwork_Full.png/revision/latest/scale-to-width-down/1000?cb=20230304203025"
+    }
+  ]
+}
