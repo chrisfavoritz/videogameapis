@@ -1,19 +1,20 @@
 {
   "items": [
-    {"name": "Bowser", "img": "placeholder"},
-    {"name": "Donkey Kong", "img": "placeholder"},
-    {"name": "Wario", "img": "placeholder"},
-    {"name": "Waluigi", "img": "placeholder"},
-    {"name": "Rosalina", "img": "placeholder"},
-    {"name": "Metal Mario", "img": "placeholder"},
-    {"name": "Pink Gold Peach", "img": "placeholder"},
-    {"name": "Roy Koopa", "img": "placeholder"},
-    {"name": "Morton Koopa Jr.", "img": "placeholder"},
-    {"name": "Link", "img": "placeholder"},
-    {"name": "Dry Bowser", "img": "placeholder"},
-    {"name": "King Boo", "img": "placeholder"},
-    {"name": "Dry Bones", "img": "placeholder"},
-    {"name": "Petey Piranha", "img": "placeholder"},
-    {"name": "Wiggler", "img": "placeholder"}
+    {"name": "Bowser", "img": "https://static.wikia.nocookie.net/mariokart/images/6/65/MK8DX_-_Bowser_artwork.png/revision/latest?cb=20211121190644"},
+    {"name": "Donkey Kong", "img": "https://static.wikia.nocookie.net/mariokart/images/6/66/BAFADEE3-A41C-4F1D-86C3-2951FE24017F.png/revision/latest/scale-to-width-down/1000?cb=20181126005614"},
+    {"name": "Wario", "img": "https://static.wikia.nocookie.net/mariokart/images/9/99/MK8_Wario_Artwork.png/revision/latest?cb=20211223114044"},
+    {"name": "Waluigi", "img": "https://static.wikia.nocookie.net/mariokart/images/1/10/Waluigi_-_Mario_Kart_Wii.png/revision/latest/scale-to-width-down/1000?cb=20140404172930"},
+    {"name": "Rosalina", "img": "https://static.wikia.nocookie.net/mariokart/images/5/5f/85A953A8-76D0-42E4-99F0-E24E5A92DC1F.png/revision/latest/scale-to-width-down/1000?cb=20181124233303"},
+    {"name": "Metal Mario", "img": "https://static.wikia.nocookie.net/mariokart/images/5/58/Metal_Mario_-_Mario_Kart_7.png/revision/latest/scale-to-width-down/1000?cb=20170720224317"},
+    {"name": "Pink Gold Peach", "img": "https://static.wikia.nocookie.net/mariokart/images/e/e1/MK8_PinkGoldPeach_art.png/revision/latest/scale-to-width-down/1000?cb=20140501013010"},
+    {"name": "Roy Koopa", "img": "https://static.wikia.nocookie.net/mariokart/images/2/23/Roy_NSMBWii.png/revision/latest/scale-to-width-down/1000?cb=20181128120515"},
+    {"name": "Morton Koopa Jr.", "img": "https://static.wikia.nocookie.net/mariokart/images/a/af/349px-MortonNSMBU.png/revision/latest?cb=20140313171753"},
+    {"name": "Link", "img": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/fe8e6ab4-bc07-4932-bca4-17e2d7594645/dfrceo5-213d11d9-356c-46dd-ba44-b85cb74e177a.png/v1/fill/w_973,h_821/link___mario_kart_8_deluxe_by_rubychu96_dfrceo5-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTA4MSIsInBhdGgiOiJcL2ZcL2ZlOGU2YWI0LWJjMDctNDkzMi1iY2E0LTE3ZTJkNzU5NDY0NVwvZGZyY2VvNS0yMTNkMTFkOS0zNTZjLTQ2ZGQtYmE0NC1iODVjYjc0ZTE3N2EucG5nIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.bfMzbFW73bMouR3_7eSP6PVL_VrCfzm82gmU6N51jSA"},
+    {"name": "Dry Bowser", "img": "https://static.wikia.nocookie.net/mariokart/images/9/9d/Dry_Bowser_Artwork.png/revision/latest/scale-to-width-down/1000?cb=20170507213929"},
+    {"name": "King Boo", "img": "https://static.wikia.nocookie.net/mariokart/images/2/27/King_Boo_-_Mario_Kart_Wii.PNG/revision/latest?cb=20170507213155"},
+    {"name": "Dry Bones", "img": "https://static.wikia.nocookie.net/mariokart/images/4/4c/Dry_Bones_Artwork_-_Mario_Party_7.png/revision/latest?cb=20170507212653"},
+    {"name": "Petey Piranha", "img": "https://static.wikia.nocookie.net/mariokart/images/7/71/Petey_Piranha.png/revision/latest?cb=20180203220624"},
+    {"name": "Wiggler", "img": "https://static.wikia.nocookie.net/mariokart/images/0/09/Wiggler_-_Mario_Kart_X.png/revision/latest?cb=20200504160814"}
   ]
 }
+
