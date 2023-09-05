@@ -1,20 +1,18 @@
 {
   "items": [
-    {"name": "Mario", "img": "placeholder"},
-    {"name": "Luigi", "img": "placeholder"},
-    {"name": "Peach", "img": "placeholder"},
-    {"name": "Daisy", "img": "placeholder"},
-    {"name": "Yoshi", "img": "placeholder"},
-    {"name": "Bowser Jr.", "img": "placeholder"},
-    {"name": "Ludwig von Koopa", "img": "placeholder"},
-    {"name": "Iggy Koopa", "img": "placeholder"},
-    {"name": "Inkling (M)", "img": "placeholder"},
-    {"name": "Inkling (F)", "img": "placeholder"},
-    {"name": "Tanooki Mario", "img": "placeholder"},
-    {"name": "Cat Peach", "img": "placeholder"},
-    {"name": "Villager (M)", "img": "placeholder"},
-    {"name": "Villager (F)", "img": "placeholder"},
-    {"name": "Birdo", "img": "placeholder"},
-    {"name": "Kamek", "img": "placeholder"}
+    {"name": "Mario", "img": "https://static.wikia.nocookie.net/mariokart/images/4/4c/Mario_mario_kart_8_deluxe.png/revision/latest/scale-to-width-down/1000?cb=20170429081902"},
+    {"name": "Luigi", "img": "https://static.wikia.nocookie.net/mariokart/images/8/85/MK8D_BCP_Luigi.png/revision/latest?cb=20230624151537"},
+    {"name": "Peach", "img": "https://static.wikia.nocookie.net/mariokart/images/9/94/MKT_Peach_Artwork.png/revision/latest/scale-to-width-down/1000?cb=20211206175432"},
+    {"name": "Daisy", "img": "https://static.wikia.nocookie.net/mariokart/images/7/7e/AB937D1B-7139-4359-B502-7AF65B3C22B7.jpeg/revision/latest?cb=20181125012203"},
+    {"name": "Yoshi", "img": "https://static.wikia.nocookie.net/mariokart/images/2/2f/MK8_Yoshi_Artwork.png/revision/latest/scale-to-width-down/1000?cb=20181125034031"},
+    {"name": "Bowser Jr.", "img": "https://static.wikia.nocookie.net/mariokart/images/4/48/SMG_BowserJr.png/revision/latest/scale-to-width-down/1000?cb=20170621054501"},
+    {"name": "Ludwig von Koopa", "img": "https://static.wikia.nocookie.net/mariokart/images/f/f0/Ludwig_NSMBWii.png/revision/latest?cb=20181128120700"},
+    {"name": "Iggy Koopa", "img": "https://static.wikia.nocookie.net/mariokart/images/2/2a/Iggy_NSMBWii.png/revision/latest/scale-to-width-down/1000?cb=20200617000317"},
+    {"name": "Inkling (M\\F)", "img": "https://mario.wiki.gallery/images/thumb/2/2e/Inkling_SSBU.png/1200px-Inkling_SSBU.png"},
+    {"name": "Tanooki Mario", "img": "https://static.wikia.nocookie.net/nintendo/images/e/e4/SM3DL_Tanooki_Mario.png/revision/latest?cb=20150424194738&path-prefix=en"},
+    {"name": "Cat Peach", "img": "https://static.wikia.nocookie.net/nintendo/images/2/28/SM3DW_Cat_Princess_Peach.png/revision/latest?cb=20140902213016&path-prefix=en"},
+    {"name": "Villager (M/F)", "img": "https://pm1.aminoapps.com/6977/f06197e0c1d293c1e873d4eb747e40e450d244bdr1-800-794v2_00.jpg"},
+    {"name": "Birdo", "img": "https://static.wikia.nocookie.net/mariokart/images/a/a7/Birdo_Render.png/revision/latest/scale-to-width-down/1000?cb=20230309211048"},
+    {"name": "Kamek", "img": "https://static.wikia.nocookie.net/mariokart/images/f/f9/Kamek_%28Mario_Kart_Tour%29.png/revision/latest?cb=20221229170015"}
   ]
 }
