@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "name": "Brimstone",
+      "img": "https://static.wikia.nocookie.net/valorant/images/8/81/Brimstone_Artwork_Full.png/revision/latest/scale-to-width-down/1000?cb=20220810202719"
+    },
+    {
+      "name": "Viper",
+      "img": "https://static.wikia.nocookie.net/valorant/images/8/85/Viper_Artwork_Full.png/revision/latest/scale-to-width-down/1000?cb=20220810202837"
+    },
+    {
+      "name": "Omen",
+      "img": "https://static.wikia.nocookie.net/valorant/images/0/0e/Omen_Artwork_Full.png/revision/latest/scale-to-width-down/1000?cb=20220810202807"
+    },
+    {
+      "name": "Astra",
+      "img": "https://static.wikia.nocookie.net/valorant/images/e/e0/Astra_Artwork_Full.png/revision/latest/scale-to-width-down/1000?cb=20220810202708"
+    },
+    {
+      "name": "Harbor",
+      "img": "https://static.wikia.nocookie.net/valorant/images/5/5c/Harbor_Artwork_Full.png/revision/latest/scale-to-width-down/1000?cb=20221018133900"
+    }
+  ]
+}
