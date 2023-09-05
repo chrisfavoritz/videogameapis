@@ -2,71 +2,83 @@
   "items": [
     {
       "name": "Classic",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/valorant/images/5/57/Classic.png/revision/latest?cb=20230711205256"
     },
     {
       "name": "Shorty",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/valorant/images/7/77/Shorty.png/revision/latest?cb=20230711205304"
     },
     {
       "name": "Frenzy",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/valorant/images/f/f1/Frenzy.png/revision/latest?cb=20230711205257"
     },
     {
       "name": "Ghost",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/valorant/images/a/ab/Ghost.png/revision/latest?cb=20230711205257"
     },
     {
       "name": "Sheriff",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/valorant/images/3/3e/Sheriff.png/revision/latest?cb=20230711205303"
+    },
+    {
+      "name": "Golden Gun",
+      "img": "https://static.wikia.nocookie.net/valorant/images/2/23/GoldenGun.png/revision/latest/scale-to-width-down/1000?cb=20210122000812"
+    },
+    {
+      "name": "Snowball Launcher",
+      "img": "https://static.wikia.nocookie.net/valorant/images/d/dc/SnowballLauncher_icon.png/revision/latest?cb=20210613222344"
     },
     {
       "name": "Bulldog",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/valorant/images/0/07/Bulldog.png/revision/latest?cb=20230711205255"
     },
     {
       "name": "Guardian",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/valorant/images/f/fd/Guardian.png/revision/latest?cb=20230711205258"
     },
     {
       "name": "Phantom",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/valorant/images/e/ec/Phantom.png/revision/latest?cb=20230711205302"
     },
     {
       "name": "Vandal",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/valorant/images/5/56/Vandal.png/revision/latest?cb=20230711205307"
     },
     {
       "name": "Stinger",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/valorant/images/b/b6/Stinger.png/revision/latest?cb=20230711205306"
     },
     {
       "name": "Spectre",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/valorant/images/9/90/Spectre.png/revision/latest?cb=20230711205305"
     },
     {
       "name": "Marshal",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/valorant/images/b/b9/Marshal.png/revision/latest?cb=20230711205300"
     },
     {
       "name": "Operator",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/valorant/images/1/17/Operator.png/revision/latest?cb=20230711205302"
     },
     {
       "name": "Ares",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/valorant/images/0/05/Ares.png/revision/latest?cb=20230711205253"
     },
     {
       "name": "Odin",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/valorant/images/5/58/Odin.png/revision/latest?cb=20230711205301"
     },
     {
       "name": "Bucky",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/valorant/images/e/eb/Bucky.png/revision/latest?cb=20230711205254"
     },
     {
       "name": "Judge",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/valorant/images/8/8a/Judge.png/revision/latest/scale-to-width-down/350?cb=20230711205259"
+    },
+    {
+      "name": "Tactical Knife",
+      "img": "https://static.wikia.nocookie.net/valorant/images/8/8f/Melee.png/revision/latest/scale-to-width-down/350?cb=20230711201118"
     }
   ]
 }
