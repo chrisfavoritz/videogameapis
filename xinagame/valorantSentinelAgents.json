@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "name": "Killjoy",
+      "img": "https://static.wikia.nocookie.net/valorant/images/8/81/Killjoy_Artwork_Full.png/revision/latest/scale-to-width-down/1000?cb=20220810202751"
+    },
+    {
+      "name": "Cypher",
+      "img": "https://static.wikia.nocookie.net/valorant/images/5/55/Cypher_Artwork_Full.png/revision/latest/scale-to-width-down/1000?cb=20220810202731"
+    },
+    {
+      "name": "Sage",
+      "img": "https://static.wikia.nocookie.net/valorant/images/7/7e/Sage_Artwork_Full.png/revision/latest/scale-to-width-down/1000?cb=20220810202824"
+    },
+    {
+      "name": "Chamber",
+      "img": "https://static.wikia.nocookie.net/valorant/images/5/5d/Chamber_Artwork_Full.png/revision/latest/scale-to-width-down/1000?cb=20220810202725"
+    },
+    {
+      "name": "Deadlock",
+      "img": "https://static.wikia.nocookie.net/valorant/images/a/aa/Deadlock_Artwork_Full.png/revision/latest/scale-to-width-down/1000?cb=20230627132700"
+    }
+  ]
+}
