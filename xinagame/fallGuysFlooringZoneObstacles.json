@@ -1,11 +1,11 @@
 {
   "items": [
-    {"name": "Goal", "img": "placeholder"},
-    {"name": "Gravity Zone", "img": "placeholder"},
-    {"name": "Ice", "img": "placeholder"},
-    {"name": "Scoring Zone", "img": "placeholder"},
-    {"name": "Slime", "img": "placeholder"},
-    {"name": "Tile", "img": "placeholder"},
-    {"name": "Water", "img": "placeholder"}
+    {"name": "Goal", "img": "https://static.wikia.nocookie.net/fallguysultimateknockout_gamepedia_en/images/c/cc/Splash_Egg_Scramble.png/revision/latest/scale-to-width-down/1000?cb=20220628220304"},
+    {"name": "Gravity Zone", "img": "https://static.wikia.nocookie.net/fallguysultimateknockout_gamepedia_en/images/1/1f/GravityZone_BubbleTrouble.png/revision/latest?cb=20230410141852"},
+    {"name": "Ice", "img": "https://static.wikia.nocookie.net/fallguysultimateknockout_gamepedia_en/images/5/57/Freezypeakice.jpg/revision/latest?cb=20210428021350"},
+    {"name": "Scoring Zone", "img": "https://static.wikia.nocookie.net/fallguysultimateknockout_gamepedia_en/images/6/64/Leadinglightscoringzone.jpg/revision/latest?cb=20211130191815"},
+    {"name": "Slime", "img": "https://static.wikia.nocookie.net/fallguysultimateknockout_gamepedia_en/images/c/ca/Lilyleapersslime.jpg/revision/latest?cb=20210721134144"},
+    {"name": "Tile", "img": "https://static.wikia.nocookie.net/fallguysultimateknockout_gamepedia_en/images/0/06/HexTiles_SpaceRace.png/revision/latest/scale-to-width-down/1000?cb=20230410143809"},
+    {"name": "Water", "img": "https://static.wikia.nocookie.net/fallguysultimateknockout_gamepedia_en/images/1/1c/Treetopwater.jpg/revision/latest?cb=20210721093927"}
   ]
 }
