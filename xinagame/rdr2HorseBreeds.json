@@ -2,79 +2,87 @@
   "items": [
     {
       "name": "American Paint",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/reddeadredemption/images/0/05/Tobiano_American_Paint.PNG/revision/latest/scale-to-width-down/1000?cb=20230119003315"
     },
     {
       "name": "American Standardbred",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/reddeadredemption/images/9/9f/AmericanStandardbred.jpg/revision/latest?cb=20101221211858"
     },
     {
       "name": "Andalusian",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/reddeadredemption/images/6/66/Dark_Bay_Andalusian.PNG/revision/latest/scale-to-width-down/1000?cb=20221216013710"
     },
     {
       "name": "Appaloosa",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/reddeadredemption/images/3/36/Blanket_Appaloosa.PNG/revision/latest/scale-to-width-down/1000?cb=20230119013759"
     },
     {
       "name": "Ardennes",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/reddeadredemption/images/a/aa/Ardennais.jpg/revision/latest?cb=20101221210206"
     },
     {
       "name": "Belgian",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/reddeadredemption/images/3/3c/Blond_Chestnut_Belgian_Draft.PNG/revision/latest/scale-to-width-down/1000?cb=20221216030639"
+    },
+    {
+      "name": "Cleveland Bay",
+      "img": "https://static.wikia.nocookie.net/reddeadredemption/images/9/99/ClevelandBay.jpg/revision/latest?cb=20101221205238"
+    },
+    {
+      "name": "Dark Horse",
+      "img": "https://static.wikia.nocookie.net/reddeadredemption/images/8/84/IMG_2825.jpg/revision/latest?cb=20100526233419"
     },
     {
       "name": "Dutch Warmblood",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/reddeadredemption/images/9/9a/DutchWarmblood.jpg/revision/latest?cb=20101221211350"
     },
     {
       "name": "Hungarian Halfbred",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/reddeadredemption/images/f/f9/Flaxen_Chestnut_Hungarian_Halfbred.PNG/revision/latest/scale-to-width-down/1000?cb=20221216045143"
     },
     {
       "name": "Kentucky Saddler",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/reddeadredemption/images/6/6d/Black_Kentucky_Saddler.PNG/revision/latest/scale-to-width-down/1000?cb=20230118232350"
     },
     {
       "name": "Missouri Fox Trotter",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/reddeadredemption/images/1/15/Amber_Champagne_Missouri_Fox_Trotter.PNG/revision/latest/scale-to-width-down/1000?cb=20221216053936"
     },
     {
       "name": "Morgan",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/reddeadredemption/images/c/c2/Bay_Morgan.PNG/revision/latest?cb=20221216055448"
     },
     {
       "name": "Mustang",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/reddeadredemption/images/c/cc/Wild_Bay_Mustang.PNG/revision/latest/scale-to-width-down/1000?cb=20221216061715"
     },
     {
       "name": "Nokota",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/reddeadredemption/images/4/4b/Blue_Roan_Nokota.PNG/revision/latest/scale-to-width-down/1000?cb=20221216063430"
     },
     {
       "name": "Shire",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/reddeadredemption/images/b/b2/Dark_Bay_Shire.PNG/revision/latest/scale-to-width-down/1000?cb=20221216065338"
     },
     {
       "name": "Suffolk Punch",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/reddeadredemption/images/c/c0/Sorrel_Suffolk_Punch.PNG/revision/latest/scale-to-width-down/1000?cb=20221216070137"
     },
     {
       "name": "Tennessee Walker",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/reddeadredemption/images/f/f2/Mahogany_Bay_Tennessee_Walker.PNG/revision/latest/scale-to-width-down/1000?cb=20221216071748"
     },
     {
       "name": "Thoroughbred",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/reddeadredemption/images/6/6f/Blood_Bay_Thoroughbred.PNG/revision/latest/scale-to-width-down/1000?cb=20221216073805"
     },
     {
       "name": "Turkoman",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/reddeadredemption/images/0/0b/Black_Turkoman.PNG/revision/latest/scale-to-width-down/1000?cb=20221216080258"
     },
     {
       "name": "Welsh Mountain",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/reddeadredemption/images/1/19/WELSH.jpg/revision/latest?cb=20101221204104"
     }
   ]
 }
