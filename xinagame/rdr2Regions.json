@@ -2,31 +2,31 @@
   "items": [
     {
       "name": "Ambarino",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/reddeadredemption/images/7/79/Grizzliesmap.jpg/revision/latest/scale-to-width-down/1000?cb=20181030072624"
     },
     {
       "name": "Lemoyne",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/reddeadredemption/images/a/ac/LemoyneMap.png/revision/latest?cb=20181101041057"
     },
     {
       "name": "New Austin",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/reddeadredemption/images/4/47/A_map_showing_the_shape_and_the_borders_of_New_Austin.png/revision/latest/scale-to-width-down/1000?cb=20210308163540"
     },
     {
       "name": "New Hanover",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/reddeadredemption/images/a/a8/NewHanoverMap.png/revision/latest?cb=20181031111638"
     },
     {
       "name": "West Elizabeth",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/reddeadredemption/images/1/1e/WEMap.png/revision/latest?cb=20181106115903"
     },
     {
-      "name": "Nuevo Paraiso",
-      "img": "placeholder"
+      "name": "Nuevo Paraíso",
+      "img": "https://static.wikia.nocookie.net/reddeadredemption/images/1/18/Nuevo_Paraiso.jpg/revision/latest/scale-to-width-down/1000?cb=20100613230230"
     },
     {
       "name": "Guarma",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/reddeadredemption/images/4/42/Guarma.jpg/revision/latest/scale-to-width-down/1000?cb=20200930211543"
     }
   ]
 }
