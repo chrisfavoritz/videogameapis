@@ -1,86 +1,80 @@
 {
-  "bosses": [
+  "items": [
     {
       "name": "Kael'thas Sunstrider",
-      "location": "Tempest Keep: The Eye"
+      "img": "https://static.wikia.nocookie.net/wowpedia/images/7/7c/Kael%27thas_Revendreth.jpg/revision/latest?cb=20220207160050"
     },
     {
       "name": "Lady Vashj",
-      "location": "Serpentshrine Cavern"
+      "img": "https://static.wikia.nocookie.net/wowpedia/images/8/8d/Lady_Vashj_%28tactics%29.png/revision/latest/scale-to-width-down/200?cb=20160731110603"
     },
     {
       "name": "Kil'jaeden",
-      "location": "Sunwell Plateau"
+      "img": "https://static.wikia.nocookie.net/wowpedia/images/8/81/Kiljaeden_Sunwell.jpg/revision/latest?cb=20190615115315"
     },
     {
-      "name": "Yogg-Saron (0 Keepers)",
-      "location": "Ulduar"
+      "name": "Yogg-Saron",
+      "img": "https://static.wikia.nocookie.net/wowpedia/images/d/da/Yoggsaron.jpg/revision/latest/scale-to-width-down/200?cb=20090503013456"
     },
     {
       "name": "The Lich King",
-      "location": "Icecrown Citadel"
+      "img": "https://static.wikia.nocookie.net/wowpedia/images/8/80/Bolvar_Lich_King_Cata_Loading.jpg/revision/latest?cb=20220512165341"
     },
     {
       "name": "Heroic Ragnaros",
-      "location": "Firelands"
+      "img": "https://static.wikia.nocookie.net/wowpedia/images/3/31/RagnarosFirelands.jpg/revision/latest/scale-to-width-down/1000?cb=20110428172340"
     },
     {
-      "name": "Garrosh Hellscream (Mythic)",
-      "location": "Siege of Orgrimmar"
+      "name": "Garrosh Hellscream",
+      "img": "https://static.wikia.nocookie.net/wowpedia/images/b/bf/Garrosh_Glowei_-_cropped.jpg/revision/latest?cb=20180914143616"
     },
     {
-      "name": "Blackhand (Mythic)",
-      "location": "Blackrock Foundry"
+      "name": "Blackhand",
+      "img": "https://static.wikia.nocookie.net/wowpedia/images/f/fe/Blackhand_Chronicle_Cropped.png/revision/latest/scale-to-width-down/200?cb=20170315204054"
     },
     {
-      "name": "Archimonde (Mythic)",
-      "location": "Hellfire Citadel"
+      "name": "Archimonde",
+      "img": "https://static.wikia.nocookie.net/wowpedia/images/1/11/Archimonde_TCG_Alt.JPG/revision/latest/scale-to-width-down/200?cb=20130217200637"
     },
     {
-      "name": "Gul'dan (Mythic)",
-      "location": "The Nighthold"
+      "name": "Gul'dan",
+      "img": "https://static.wikia.nocookie.net/wowpedia/images/8/84/Gul%27dan_Mercenaries_3.jpg/revision/latest/scale-to-width-down/200?cb=20211013171550"
     },
     {
-      "name": "Kil'jaeden (Mythic)",
-      "location": "Tomb of Sargeras"
+      "name": "Argus the Unmaker",
+      "img": "https://static.wikia.nocookie.net/wowpedia/images/2/27/Argus_the_Unmaker.jpg/revision/latest/scale-to-width-down/200?cb=20220204160003"
     },
     {
-      "name": "Argus the Unmaker (Mythic)",
-      "location": "Antorus, the Burning Throne"
+      "name": "Jaina Proudmoore",
+      "img": "https://static.wikia.nocookie.net/wowpedia/images/8/88/HSKT_Jaina.jpg/revision/latest/scale-to-width-down/200?cb=20211012192353"
     },
     {
-      "name": "Jaina Proudmoore (Mythic)",
-      "location": "Battle of Dazar'alor"
+      "name": "Queen Azshara",
+      "img": "https://static.wikia.nocookie.net/wowpedia/images/2/2e/Queen_Azshara_HS.jpg/revision/latest/scale-to-width-down/200?cb=20220324175205"
     },
     {
-      "name": "Queen Azshara (Mythic)",
-      "location": "Eternal Palace"
+      "name": "N'Zoth",
+      "img": "https://static.wikia.nocookie.net/wowpedia/images/9/90/N%27Zoth_Hero.jpg/revision/latest/scale-to-width-down/1000?cb=20230711014921"
     },
     {
-      "name": "N'Zoth (Mythic)",
-      "location": "Ny'alotha, the Waking City"
+      "name": "Sire Denathrius",
+      "img": "https://static.wikia.nocookie.net/wowpedia/images/e/ea/Sire_Denathrius.jpg/revision/latest?cb=20210502193038"
     },
     {
-      "name": "Sire Denathrius (Mythic)",
-      "location": "Castle Nathria"
-    },
-    {
-      "name": "C'thun",
-      "description": "notoriously difficult upon initial release",
-      "location": "Temple of Ahn'Qiraj"
+      "name": "C'Thun",
+      "img": "https://static.wikia.nocookie.net/wowpedia/images/e/e7/C%27Thun_HS.jpg/revision/latest/scale-to-width-down/200?cb=20180214203815"
     },
     {
       "name": "Four Horsemen",
-      "description": "original 40-man version",
-      "location": "Naxxramas"
+      "img": "https://static.wikia.nocookie.net/wowpedia/images/f/fe/New_Four_Horsemen_1.jpg/revision/latest/scale-to-width-down/1000?cb=20180114010530"
     },
     {
       "name": "M'uru/Entropius",
-      "location": "Sunwell Plateau"
+      "img": "https://static.wikia.nocookie.net/wowpedia/images/b/b1/Sunwell-darknaaru.jpg/revision/latest/scale-to-width-down/200?cb=20080216031628"
     },
     {
-      "name": "Sinestra (Heroic)",
-      "location": "Bastion of Twilight"
+      "name": "Sinestra",
+      "img": "https://static.wikia.nocookie.net/wowpedia/images/9/9a/Sinestra.jpg/revision/latest/scale-to-width-down/1000?cb=20201103221650"
     }
   ]
 }
