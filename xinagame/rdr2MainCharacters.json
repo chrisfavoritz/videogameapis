@@ -2,95 +2,95 @@
   "items": [
     {
       "name": "Arthur Morgan",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/reddeadredemption/images/5/52/RDR2_Arthur_Morgan_Default.jpg/revision/latest?cb=20200602191534"
     },
     {
       "name": "Dutch van der Linde",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/reddeadredemption/images/8/87/RDR2_Dutch_van_der_Linde_PC.png/revision/latest?cb=20191216204516"
     },
     {
       "name": "John Marston",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/reddeadredemption/images/a/ac/JohnMarstonSr.1899.jpg/revision/latest?cb=20200609002753"
     },
     {
       "name": "Micah Bell",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/reddeadredemption/images/3/3b/Micah-1899.jpg/revision/latest?cb=20190504214910"
     },
     {
       "name": "Sadie Adler",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/reddeadredemption/images/8/8a/Sadie1898.png/revision/latest?cb=20200927013001"
     },
     {
       "name": "Hosea Matthews",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/reddeadredemption/images/d/d1/Hosea_injured.jpg/revision/latest?cb=20210625011427"
     },
     {
       "name": "Abigail Roberts",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/reddeadredemption/images/b/bb/Abigail_in_Chapter_3.jpg/revision/latest?cb=20220301232800"
     },
     {
       "name": "Jack Marston",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/reddeadredemption/images/e/e1/JackMarstonRDR2.png/revision/latest?cb=20181027030726"
     },
     {
       "name": "Bill Williamson",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/reddeadredemption/images/e/ee/Bill1899.png/revision/latest?cb=20200927154900"
     },
     {
       "name": "Charles Smith",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/reddeadredemption/images/e/e7/Charles.jpg/revision/latest?cb=20190323165557"
     },
     {
       "name": "Javier Escuella",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/reddeadredemption/images/5/54/Javier_RDR2.jpeg/revision/latest/scale-to-width-down/1000?cb=20190517182657"
     },
     {
       "name": "Lenny Summers",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/reddeadredemption/images/8/8e/Lenny_Summers_rdr2.png/revision/latest?cb=20181119072325"
     },
     {
       "name": "Sean MacGuire",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/reddeadredemption/images/0/09/Sean.jpg/revision/latest?cb=20200927155801"
     },
     {
       "name": "Mary-Beth Gaskill",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/reddeadredemption/images/2/2a/MaryBethRDR2.jpeg/revision/latest?cb=20190330123142"
     },
     {
       "name": "Tilly Jackson",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/reddeadredemption/images/b/b2/TillyJacksonCloseup.png/revision/latest?cb=20181018163635"
     },
     {
       "name": "Karen Jones",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/reddeadredemption/images/a/af/Karen_Jones-prof..png/revision/latest?cb=20190702050511"
     },
     {
       "name": "Josiah Trelawny",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/reddeadredemption/images/c/c6/Ajmrdrtrewlawny.png/revision/latest/scale-to-width-down/1000?cb=20181104011433"
     },
     {
       "name": "Leopold Strauss",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/reddeadredemption/images/d/d2/Ajmrdrleopoldstrauss.png/revision/latest/scale-to-width-down/1000?cb=20181028040251"
     },
     {
       "name": "Reverend Swanson",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/reddeadredemption/images/9/9e/Ajmrdrrevswanson.png/revision/latest/scale-to-width-down/1000?cb=20181028033801"
     },
     {
       "name": "Molly O'Shea",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/reddeadredemption/images/b/b6/RDR2-Molly_O%27Shea_infobox_pic.jpg/revision/latest?cb=20210927234142"
     },
     {
       "name": "Susan Grimshaw",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/reddeadredemption/images/4/4e/Grimshaw1899.png/revision/latest?cb=20201015033330"
     },
     {
       "name": "Uncle",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/reddeadredemption/images/2/25/RDR2_Uncle.jpeg/revision/latest?cb=20191206163316"
     },
     {
-      "name": "Pearson",
-      "img": "placeholder"
+      "name": "Simon Pearson",
+      "img": "https://static.wikia.nocookie.net/reddeadredemption/images/f/f9/PearsonRDR2.jpeg/revision/latest?cb=20190330182321"
     }
   ]
 }
