@@ -2,51 +2,51 @@
   "items": [
     {
       "name": "The Companions",
-      "img": "placeholder"
+      "img": "https://images.uesp.net/thumb/c/ca/ON-quest-The_Rise_of_Sage_Svari.jpg/800px-ON-quest-The_Rise_of_Sage_Svari.jpg"
     },
     {
       "name": "College of Winterhold",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/skyrim_gamepedia/images/b/b6/CollegeofWinterhold_faction.png/revision/latest/scale-to-width-down/1000?cb=20120227131855"
     },
     {
-      "name": "The Thieves Guild",
-      "img": "placeholder"
+      "name": "Thieves Guild",
+      "img": "https://images.uesp.net/6/61/SR-banner-Thieves_Guild.png"
     },
     {
       "name": "The Dark Brotherhood",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/skyrim_gamepedia/images/d/d4/DarkBrotherhood.png/revision/latest?cb=20120227142934"
     },
     {
       "name": "The Stormcloaks",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/skyrim_gamepedia/images/5/51/StormcloakBanner.png/revision/latest?cb=20120322190612"
     },
     {
       "name": "The Imperial Legion",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/skyrim_gamepedia/images/3/37/ImperialBanner.png/revision/latest?cb=20120418200311"
     },
     {
       "name": "The Dawnguard",
-      "img": "placeholder"
+      "img": "https://images.uesp.net/thumb/9/9e/SR-banner-Dawnguard.png/100px-SR-banner-Dawnguard.png"
     },
     {
       "name": "The Volkihar Vampire Clan",
-      "img": "placeholder"
+      "img": "https://images.uesp.net/thumb/e/e4/SR-npc-Volkihar_Vampire_Clan.jpg/200px-SR-npc-Volkihar_Vampire_Clan.jpg"
     },
     {
       "name": "The Blades",
-      "img": "placeholder"
+      "img": "https://images.uesp.net/thumb/a/ae/BL-icon-Blades.png/200px-BL-icon-Blades.png"
     },
     {
       "name": "The Greybeards",
-      "img": "placeholder"
+      "img": "https://images.uesp.net/thumb/a/a5/SR-npc-Greybeards.jpg/300px-SR-npc-Greybeards.jpg"
     },
     {
       "name": "The Bards College",
-      "img": "placeholder"
+      "img": "https://images.uesp.net/thumb/4/4f/SR-place-Bards_College.jpg/300px-SR-place-Bards_College.jpg"
     },
     {
       "name": "The Forsworn",
-      "img": "placeholder"
+      "img": "https://images.uesp.net/thumb/c/cd/SR-npc-Forsworn.jpg/200px-SR-npc-Forsworn.jpg"
     }
   ]
 }
