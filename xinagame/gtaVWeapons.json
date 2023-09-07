@@ -82,67 +82,51 @@
     },
     {
       "name": "Bullpup Shotgun",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/gtawiki/images/d/dc/BullpupShotgun-GTAV.png/revision/latest/scale-to-width-down/700?cb=20180108202503"
     },
     {
       "name": "Sniper Rifle",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/gtawiki/images/6/6e/SniperRifle-GTAV.png/revision/latest/scale-to-width-down/1000?cb=20180108201526"
     },
     {
       "name": "Heavy Sniper",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/gtawiki/images/7/71/HeavySniper-GTAV.png/revision/latest/scale-to-width-down/1000?cb=20180108201619"
     },
     {
-      "name": "RPG",
-      "img": "placeholder"
+      "name": "Rocket Launcher",
+      "img": "https://static.wikia.nocookie.net/gtawiki/images/2/24/RPG-GTAV.png/revision/latest/scale-to-width-down/700?cb=20180108210919"
     },
     {
       "name": "Grenade Launcher",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/gtawiki/images/2/24/RPG-GTAV.png/revision/latest/scale-to-width-down/700?cb=20180108210919"
     },
     {
       "name": "Minigun",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/gtawiki/images/5/5c/Minigun-GTAV.png/revision/latest/scale-to-width-down/700?cb=20180108210056"
     },
     {
       "name": "Grenade",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/gtawiki/images/5/52/Grenade-GTAV.png/revision/latest/scale-to-width-down/700?cb=20221228141647"
     },
     {
       "name": "Tear Gas",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/gtawiki/images/a/af/TearGas-GTAV.png/revision/latest/scale-to-width-down/700?cb=20221228141644"
     },
     {
       "name": "Sticky Bomb",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/gtawiki/images/0/09/StickyBomb-GTAV.png/revision/latest/scale-to-width-down/700?cb=20221228135743"
     },
     {
       "name": "Molotov Cocktail",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/gtawiki/images/6/6b/MolotovCocktail-GTAV.png/revision/latest/scale-to-width-down/700?cb=20221228135427"
     },
     {
       "name": "Jerry Can",
-      "img": "placeholder"
-    },
-    {
-      "name": "Parachute",
-      "img": "placeholder"
-    },
-    {
-      "name": "Fire Extinguisher",
-      "img": "placeholder"
-    },
-    {
-      "name": "Ball",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/gtawiki/images/2/28/JerryCan-GTAV.png/revision/latest/scale-to-width-down/1000?cb=20221228135338"
     },
     {
       "name": "Flare",
-      "img": "placeholder"
-    },
-    {
-      "name": "Firework",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/gtawiki/images/c/c0/FlareGun-GTAO.png/revision/latest/scale-to-width-down/1000?cb=20180108204710"
     }
   ]
 }
