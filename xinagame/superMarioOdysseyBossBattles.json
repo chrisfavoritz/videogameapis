@@ -2,79 +2,55 @@
   "items": [
     {
       "name": "Topper",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/mario/images/f/f8/SMO_Artwork_Topper.png/revision/latest/scale-to-width-down/1000?cb=20190730155030"
     },
     {
       "name": "Madame Broode",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/mario/images/3/34/Madame_Broode_Artwork_SMO.jpg/revision/latest/scale-to-width-down/1000?cb=20171027215646"
     },
     {
-      "name": "Harriet",
-      "img": "placeholder"
+      "name": "Hariet",
+      "img": "https://static.wikia.nocookie.net/mario/images/7/78/Hariet_Artwork.jpg/revision/latest?cb=20171027221045"
     },
     {
       "name": "Knucklotec",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/mario/images/6/64/Knucklotec_Artwork_SMO.jpg/revision/latest/scale-to-width-down/1000?cb=20171028193619"
     },
     {
       "name": "Rango",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/mario/images/7/7e/SMO_Artwork_Rango.png/revision/latest?cb=20190730155611"
     },
     {
       "name": "Spewart",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/mario/images/1/11/SMO_Artwork_Spewart.png/revision/latest/scale-to-width-down/1000?cb=20190730160925"
     },
     {
       "name": "Torkdrift",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/mario/images/5/53/Torkdrift_Artwork.jpg/revision/latest/scale-to-width-down/1000?cb=20171027221427"
     },
     {
       "name": "Bowser",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/mario/images/f/f4/SMG_Artwork_Bowser_%282021_Remake%29.png/revision/latest/scale-to-width-down/1000?cb=20230129233801"
     },
     {
-      "name": "Mecha Wiggler",
-      "img": "placeholder"
-    },
-    {
-      "name": "Spewart",
-      "img": "placeholder"
+      "name": "Mechawiggler",
+      "img": "https://static.wikia.nocookie.net/mario/images/d/db/Mechawiggler_Artwork_SMO.jpg/revision/latest?cb=20171028134616"
     },
     {
       "name": "Mollusque-Lanceur",
-      "img": "placeholder"
-    },
-    {
-      "name": "Brigadier Mollusque-Lanceur III, Dauphin of Bubblaine",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/mario/images/6/6a/Mollosque-Lanceur.jpg/revision/latest?cb=20171027134415"
     },
     {
       "name": "Cookatiel",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/mario/images/0/00/Cookatiel_Artwork_SMO.jpg/revision/latest?cb=20171028134805"
     },
     {
       "name": "Ruined Dragon",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/mario/images/1/1a/Lord_of_Lightning_Artwork_SMO.jpg/revision/latest?cb=20171028134859"
     },
     {
       "name": "RoboBrood",
-      "img": "placeholder"
-    },
-    {
-      "name": "Topper",
-      "img": "placeholder"
-    },
-    {
-      "name": "Harriet",
-      "img": "placeholder"
-    },
-    {
-      "name": "Rango",
-      "img": "placeholder"
-    },
-    {
-      "name": "Bowser",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/mario/images/7/74/Robobrood_Artwork_SMO.jpg/revision/latest?cb=20171028134929"
     }
   ]
 }
