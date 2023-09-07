@@ -1,120 +1,188 @@
 {
   "items": [
     {
+      "name": "Adelaisa Vendicci",
+      "img": "https://static.wikia.nocookie.net/skyrim_gamepedia/images/1/1a/AdelaisaVendicci.png/revision/latest/scale-to-width-down/148?cb=20120212134227"
+    },
+    {
+      "name": "Aela the Huntress",
+      "img": "https://static.wikia.nocookie.net/skyrim_gamepedia/images/d/da/Aela.png/revision/latest/scale-to-width-down/138?cb=20120210163352"
+    },
+    {
+      "name": "Ahtar",
+      "img": "https://static.wikia.nocookie.net/skyrim_gamepedia/images/6/6e/Ahtar.png/revision/latest/scale-to-width-down/147?cb=20120212140859"
+    },
+    {
+      "name": "Annekke Crag-Jumper",
+      "img": "https://static.wikia.nocookie.net/skyrim_gamepedia/images/a/a5/AnnekkeCrag-Jumper.png/revision/latest/scale-to-width-down/136?cb=20120211175721"
+    },
+    {
+      "name": "Aranea Ienith",
+      "img": "https://static.wikia.nocookie.net/skyrim_gamepedia/images/a/a5/AraneaIenith.png/revision/latest/scale-to-width-down/147?cb=20120209173542"
+    },
+    {
+      "name": "Argis the Bulwark",
+      "img": "https://static.wikia.nocookie.net/skyrim_gamepedia/images/b/b2/ArgistheBulwark.png/revision/latest/scale-to-width-down/165?cb=20120210172319"
+    },
+    {
+      "name": "Athis",
+      "img": "https://static.wikia.nocookie.net/skyrim_gamepedia/images/9/9e/Athis.png/revision/latest/scale-to-width-down/132?cb=20120209170332"
+    },
+    {
       "name": "Barbas",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/skyrim_gamepedia/images/d/df/Barbas.png/revision/latest/scale-to-width-down/245?cb=20120517141140"
     },
     {
       "name": "Belrand",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/skyrim_gamepedia/images/9/9b/Belrand.png/revision/latest/scale-to-width-down/140?cb=20120211174126"
     },
     {
       "name": "Benor",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/skyrim_gamepedia/images/4/46/Benor.png/revision/latest/scale-to-width-down/156?cb=20120212123421"
     },
     {
       "name": "Borgakh the Steel Heart",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/skyrim_gamepedia/images/8/80/Borgakh.png/revision/latest/scale-to-width-down/148?cb=20120211150911"
     },
     {
       "name": "Brelyna Maryon",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/skyrim_gamepedia/images/9/90/BrelynaMaryon.png/revision/latest/scale-to-width-down/136?cb=20120317151801"
     },
     {
       "name": "Calder",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/skyrim_gamepedia/images/9/91/Calder.png/revision/latest/scale-to-width-down/158?cb=20120210174804"
     },
     {
       "name": "Cicero",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/skyrim_gamepedia/images/6/6d/Cicero.png/revision/latest/scale-to-width-down/137?cb=20120210194748"
     },
     {
       "name": "Cosnach",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/skyrim_gamepedia/images/e/eb/Cosnach.png/revision/latest/scale-to-width-down/139?cb=20120211151244"
+    },
+    {
+      "name": "Dark Brotherhood Initiate",
+      "img": "https://static.wikia.nocookie.net/skyrim_gamepedia/images/b/bf/DarkBrotherhoodInitiate_male.png/revision/latest/scale-to-width-down/129?cb=20120616185758"
     },
     {
       "name": "Derkeethus",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/skyrim_gamepedia/images/0/0b/Derkeethus.png/revision/latest/scale-to-width-down/144?cb=20120211140910"
+    },
+    {
+      "name": "Eola",
+      "img": "https://static.wikia.nocookie.net/skyrim_gamepedia/images/f/fc/Eola.png/revision/latest/scale-to-width-down/144?cb=20120211150352"
+    },
+    {
+      "name": "Erandur",
+      "img": "https://static.wikia.nocookie.net/skyrim_gamepedia/images/9/91/Erandur.png/revision/latest/scale-to-width-down/140?cb=20120517110922"
     },
     {
       "name": "Erik the Slayer",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/skyrim_gamepedia/images/8/82/EriktheSlayer.png/revision/latest/scale-to-width-down/145?cb=20120211174812"
     },
     {
       "name": "Faendal",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/skyrim_gamepedia/images/8/8c/Faendal.png/revision/latest/scale-to-width-down/143?cb=20120209214413"
+    },
+    {
+      "name": "Farkas",
+      "img": "https://static.wikia.nocookie.net/skyrim_gamepedia/images/4/4d/Farkas.png/revision/latest/scale-to-width-down/145?cb=20120615141546"
     },
     {
       "name": "Golldir",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/skyrim_gamepedia/images/7/77/Golldir.png/revision/latest/scale-to-width-down/147?cb=20120211171049"
     },
     {
       "name": "Ghorbash the Iron Hand",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/skyrim_gamepedia/images/3/38/Ghorbash.png/revision/latest/scale-to-width-down/154?cb=20120217144515"
     },
     {
       "name": "Illia",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/skyrim_gamepedia/images/1/1a/Illia.png/revision/latest/scale-to-width-down/141?cb=20120612184050"
     },
     {
       "name": "Iona",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/skyrim_gamepedia/images/e/eb/Iona.png/revision/latest/scale-to-width-down/158?cb=20120210172540"
     },
     {
       "name": "Jenassa",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/skyrim_gamepedia/images/d/d0/Jenassa.png/revision/latest/scale-to-width-down/137?cb=20120209195527"
     },
     {
       "name": "Jordis the Sword-Maiden",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/skyrim_gamepedia/images/6/6b/Jordis.png/revision/latest/scale-to-width-down/161?cb=20120210173132"
+    },
+    {
+      "name": "J'zargo",
+      "img": "https://static.wikia.nocookie.net/skyrim_gamepedia/images/5/5d/Jzargo.png/revision/latest/scale-to-width-down/136?cb=20120614172406"
     },
     {
       "name": "Kharjo",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/skyrim_gamepedia/images/9/91/Kharjo.png/revision/latest/scale-to-width-down/138?cb=20120211140538"
+    },
+    {
+      "name": "Lob",
+      "img": "https://static.wikia.nocookie.net/skyrim_gamepedia/images/0/08/Lob.png/revision/latest/scale-to-width-down/139?cb=20120211180029"
     },
     {
       "name": "Lydia",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/skyrim_gamepedia/images/d/dc/Lydia.png/revision/latest?cb=20120215122343"
     },
     {
       "name": "Mjoll the Lioness",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/skyrim_gamepedia/images/8/84/MjolltheLioness.png/revision/latest/scale-to-width-down/141?cb=20120211180656"
+    },
+    {
+      "name": "Njada Stonearm",
+      "img": "https://static.wikia.nocookie.net/skyrim_gamepedia/images/7/74/NjadaStonearm.png/revision/latest/scale-to-width-down/137?cb=20120211181130"
     },
     {
       "name": "Marcurio",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/skyrim_gamepedia/images/d/d4/Marcurio.png/revision/latest/scale-to-width-down/138?cb=20120211145304"
+    },
+    {
+      "name": "Ogol",
+      "img": "https://static.wikia.nocookie.net/skyrim_gamepedia/images/8/87/Ogol.png/revision/latest/scale-to-width-down/141?cb=20120509164303"
     },
     {
       "name": "Onmund",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/skyrim_gamepedia/images/1/1a/Onmund.png/revision/latest/scale-to-width-down/147?cb=20120212124959"
+    },
+    {
+      "name": "Ria",
+      "img": "https://static.wikia.nocookie.net/skyrim_gamepedia/images/8/81/Ria.png/revision/latest/scale-to-width-down/141?cb=20120212132420"
     },
     {
       "name": "Roggi Knot-Beard",
-      "img": "placeholder"
-    },
-    {
-      "name": "Serana",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/skyrim_gamepedia/images/4/41/RoggiKnot-Beard.png/revision/latest/scale-to-width-down/138?cb=20120211181805"
     },
     {
       "name": "Stenvar",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/skyrim_gamepedia/images/9/99/Stenvar.png/revision/latest/scale-to-width-down/142?cb=20120211175216"
     },
     {
-      "name": "Teldryn Sero",
-      "img": "placeholder"
+      "name": "Sven",
+      "img": "https://static.wikia.nocookie.net/skyrim_gamepedia/images/d/dd/Sven.png/revision/latest/scale-to-width-down/140?cb=20120212140451"
+    },
+    {
+      "name": "Torvar",
+      "img": "https://static.wikia.nocookie.net/skyrim_gamepedia/images/b/b7/Torvar.png/revision/latest/scale-to-width-down/139?cb=20120211182151"
+    },
+    {
+      "name": "Ugor",
+      "img": "https://static.wikia.nocookie.net/skyrim_gamepedia/images/9/95/Ugor.png/revision/latest/scale-to-width-down/148?cb=20120211145847"
     },
     {
       "name": "Uthgerd the Unbroken",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/skyrim_gamepedia/images/8/8f/Uthgerd.png/revision/latest/scale-to-width-down/139?cb=20120210175206"
     },
     {
-      "name": "Valdimar",
-      "img": "placeholder"
+      "name": "Vilkas",
+      "img": "https://static.wikia.nocookie.net/skyrim_gamepedia/images/2/29/Vilkas.png/revision/latest/scale-to-width-down/157?cb=20120210170047"
     },
     {
       "name": "Vorstag",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/skyrim_gamepedia/images/f/fa/Vorstag.png/revision/latest/scale-to-width-down/169?cb=20120211175538"
     }
   ]
 }
