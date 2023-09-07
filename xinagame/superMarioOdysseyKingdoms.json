@@ -1,21 +1,21 @@
 {
   "items": [
-    {"name": "Cap Kingdom", "img": "placeholder"},
-    {"name": "Cascade Kingdom", "img": "placeholder"},
-    {"name": "Sand Kingdom", "img": "placeholder"},
-    {"name": "Lake Kingdom", "img": "placeholder"},
-    {"name": "Wooded Kingdom", "img": "placeholder"},
-    {"name": "Cloud Kingdom", "img": "placeholder"},
-    {"name": "Lost Kingdom", "img": "placeholder"},
-    {"name": "Metro Kingdom", "img": "placeholder"},
-    {"name": "Snow Kingdom", "img": "placeholder"},
-    {"name": "Seaside Kingdom", "img": "placeholder"},
-    {"name": "Luncheon Kingdom", "img": "placeholder"},
-    {"name": "Ruined Kingdom", "img": "placeholder"},
-    {"name": "Bowser's Kingdom", "img": "placeholder"},
-    {"name": "Moon Kingdom", "img": "placeholder"},
-    {"name": "Mushroom Kingdom", "img": "placeholder"},
-    {"name": "Dark Side", "img": "placeholder"},
-    {"name": "Darker Side", "img": "placeholder"}
+    {"name": "Cap Kingdom", "img": "https://static.wikia.nocookie.net/mario/images/d/de/Cap_Kingdom.jpg/revision/latest/scale-to-width-down/700?cb=20170731181755"},
+    {"name": "Cascade Kingdom", "img": "https://static.wikia.nocookie.net/mario/images/0/0d/Cascade_Kingdom.jpg/revision/latest?cb=20170731203413"},
+    {"name": "Sand Kingdom", "img": "https://static.wikia.nocookie.net/mario/images/6/68/Sand_Kingdom.jpg/revision/latest/scale-to-width-down/1000?cb=20170731201159"},
+    {"name": "Lake Kingdom", "img": "https://static.wikia.nocookie.net/mario/images/1/10/Lake_Lamode.jpeg/revision/latest/scale-to-width-down/1000?cb=20171218012417"},
+    {"name": "Wooded Kingdom", "img": "https://static.wikia.nocookie.net/mario/images/6/6f/Wooded_Kingdom.jpg/revision/latest/scale-to-width-down/1000?cb=20170731203931"},
+    {"name": "Cloud Kingdom", "img": "https://static.wikia.nocookie.net/mario/images/a/a2/Cloud_Kingdom.jpg/revision/latest/scale-to-width-down/700?cb=20171109021913"},
+    {"name": "Lost Kingdom", "img": "https://static.wikia.nocookie.net/mario/images/f/fb/LostKingdom-MarioOdyssey.jpg/revision/latest/scale-to-width-down/1000?cb=20171031182209"},
+    {"name": "Metro Kingdom", "img": "https://static.wikia.nocookie.net/mario/images/e/e8/Metro_Kingdom.jpg/revision/latest?cb=20170805155859"},
+    {"name": "Snow Kingdom", "img": "https://static.wikia.nocookie.net/mario/images/c/c7/Snow_Kingdom.png/revision/latest/scale-to-width-down/700?cb=20170927233548"},
+    {"name": "Seaside Kingdom", "img": "https://static.wikia.nocookie.net/mario/images/6/68/Swimsuit_Mario.jpg/revision/latest/scale-to-width-down/700?cb=20170914004250"},
+    {"name": "Luncheon Kingdom", "img": "https://static.wikia.nocookie.net/mario/images/3/3d/Luncheon_Kingdom.jpg/revision/latest/scale-to-width-down/700?cb=20170731204152"},
+    {"name": "Ruined Kingdom", "img": "https://static.wikia.nocookie.net/mario/images/3/3d/Luncheon_Kingdom.jpg/revision/latest/scale-to-width-down/700?cb=20170731204152"},
+    {"name": "Bowser's Kingdom", "img": "https://static.wikia.nocookie.net/mario/images/6/61/Bowser%27s_Kingdom.jpg/revision/latest/scale-to-width-down/700?cb=20171111053710"},
+    {"name": "Moon Kingdom", "img": "https://static.wikia.nocookie.net/mario/images/4/43/MoonKingdom.jpg/revision/latest/scale-to-width-down/700?cb=20171029012912"},
+    {"name": "Mushroom Kingdom", "img": "https://static.wikia.nocookie.net/mario/images/7/76/NSMBUMushroomKingdom.png/revision/latest/scale-to-width-down/699?cb=20221016153649"},
+    {"name": "Dark Side", "img": "https://static.wikia.nocookie.net/mario/images/5/54/DarkSide-MarioOdyssey.png/revision/latest/scale-to-width-down/700?cb=20171031175317"},
+    {"name": "Darker Side", "img": "https://static.wikia.nocookie.net/mario/images/2/24/Darker_Side.jpg/revision/latest/scale-to-width-down/1000?cb=20171106034244"}
   ]
 }
