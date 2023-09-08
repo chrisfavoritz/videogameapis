@@ -1,6 +1,6 @@
 {
   "items": [
-   {"name": "Bokoblin", "img": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/c/c5/BotW_Bokoblin_Model.png/revision/latest?cb=20180101072019&format=original"},
+    {"name": "Bokoblin", "img": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/c/c5/BotW_Bokoblin_Model.png/revision/latest?cb=20180101072019&format=original"},
     {"name": "Blue Bokoblin", "img": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/d/d7/BotW_Blue_Bokoblin_Model.png/revision/latest?cb=20180101073631&format=original"},
     {"name": "Black Bokoblin", "img": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/5/58/BotW_Black_Bokoblin_Model.png/revision/latest?cb=20180103012046&format=original"},
     {"name": "Silver Bokoblin", "img": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/8/82/BotW_Silver_Bokoblin_Model.png/revision/latest?cb=20180103013430&format=original"},
@@ -61,6 +61,14 @@
     {"name": "Yiga Footsoldier", "img": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/d/d4/BotW_Yiga_Footsoldier_Model.png/revision/latest?cb=20210619035442&format=original"},
     {"name": "Yiga Blademaster", "img": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/9/9d/BotW_Hyrule_Compendium_Yiga_Blademaster.png/revision/latest?cb=20170510072608&format=original"},
     {"name": "Hinox", "img": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/6/69/BotW_Hinox_Model.png/revision/latest?cb=20170520171143&format=original"},
-    {"name": "Stalnox", "img": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/a/aa/BotW_Stalnox_Model.png/revision/latest?cb=20170430144204&format=original"}
+    {"name": "Stalnox", "img": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/a/aa/BotW_Stalnox_Model.png/revision/latest?cb=20170430144204&format=original"},
+    {"name": "Waterblight Ganon", "img": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/0/02/BotW_Hyrule_Compendium_Waterblight_Ganon.png/revision/latest?cb=20170510072433&format=original"},
+    {"name": "Fireblight Ganon", "img": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/b/b6/BotW_Fireblight_Ganon_Model.png/revision/latest?cb=20210824182114&format=original"},
+    {"name": "Windblight Ganon", "img": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/0/0d/BotW_Hyrule_Compendium_Windblight_Ganon.png/revision/latest?cb=20170510072511&format=original"},
+    {"name": "Thunderblight Ganon", "img": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/5/54/BotW_Thunderblight_Ganon_Model.png/revision/latest?cb=20220920023142&format=original"},
+    {"name": "Master Kohga", "img": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/1/11/Master_Kohga_totk.png/revision/latest/scale-to-width-down/320?cb=20230514204415&format=original"},
+    {"name": "Monk Maz Koshia", "img": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/5/53/HWAoC_Monk_Maz_Koshia_Artwork.png/revision/latest/scale-to-width-down/1000?cb=20210206084832&format=original"},
+    {"name": "Calamity Ganon", "img": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/4/4d/BotW_Calamity_Ganon_Artwork.png/revision/latest?cb=20180429113812&format=original"},
+    {"name": "Dark Beast Ganon", "img": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/0/0b/BotW_Dark_Beast_Ganon_Model.png/revision/latest/scale-to-width-down/1000?cb=20170430145024&format=original"}
   ]
 }
