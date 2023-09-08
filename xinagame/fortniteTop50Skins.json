@@ -3,252 +3,252 @@
     {
       "id": 1,
       "name": "Black Knight",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/fortnite/images/2/29/Black_Knight_%28Featured%29_-_Outfit_-_Fortnite.png/revision/latest/scale-to-width-down/1000?cb=20230113223203"
     },
     {
       "id": 2,
       "name": "Skull Trooper",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/fortnite/images/e/e2/Skull_Trooper_%28Featured_1%29_-_Outfit_-_Fortnite.png/revision/latest/scale-to-width-down/1000?cb=20210831023529"
     },
     {
       "id": 3,
       "name": "Raven",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/fortnite/images/1/18/Raven_%28New_Featured%29_-_Outfit_-_Fortnite.png/revision/latest/scale-to-width-down/1000?cb=20210915160254"
     },
     {
       "id": 4,
       "name": "Omega",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/fortnite/images/1/1d/Omega_%28Featured%29_-_Outfit_-_Fortnite.png/revision/latest/scale-to-width-down/1000?cb=20221009190533"
     },
     {
       "id": 5,
       "name": "John Wick",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/fortnite/images/5/53/John_Wick_%28Featured%29_-_Outfit_-_Fortnite.png/revision/latest/scale-to-width-down/1000?cb=20200930194615"
     },
     {
       "id": 6,
       "name": "Dark Voyager",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/fortnite/images/e/e2/Dark_Voyager_%28Featured%29_-_Outfit_-_Fortnite.png/revision/latest/scale-to-width-down/1000?cb=20230617011914"
     },
     {
       "id": 7,
       "name": "Drift",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/fortnite/images/3/33/Drift_%28Featured%29_-_Outfit_-_Fortnite.png/revision/latest/scale-to-width-down/1000?cb=20230123001909"
     },
     {
       "id": 8,
       "name": "Cuddle Team Leader",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/fortnite/images/d/db/Cuddle_Team_Leader_%28Featured%29_-_Outfit_-_Fortnite.png/revision/latest/scale-to-width-down/1000?cb=20201219095720"
     },
     {
       "id": 9,
       "name": "Love Ranger",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/fortnite/images/4/41/Love_Ranger_%28New_Featured%29_-_Outfit_-_Fortnite.png/revision/latest/scale-to-width-down/1000?cb=20211206204237"
     },
     {
       "id": 10,
       "name": "Brite Bomber",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/fortnite/images/8/80/Brite_Bomber_%28Featured%29_-_Outfit_-_Fortnite.png/revision/latest/scale-to-width-down/1000?cb=20200713090037"
     },
     {
       "id": 11,
       "name": "Ghoul Trooper",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/fortnite/images/6/6b/Ghoul_Trooper_%28Featured_1%29_-_Outfit_-_Fortnite.png/revision/latest/scale-to-width-down/1000?cb=20211011160959"
     },
     {
       "id": 12,
       "name": "Red Knight",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/fortnite/images/5/5f/Red_Knight_%28Featured%29_-_Outfit_-_Fortnite.png/revision/latest/scale-to-width-down/1000?cb=20200420135142"
     },
     {
       "id": 13,
       "name": "Raptor",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/fortnite/images/1/1b/Raptor_%28Default_Featured%29_-_Outfit_-_Fortnite.png/revision/latest/scale-to-width-down/1000?cb=20210831030408"
     },
     {
       "id": 14,
       "name": "Galaxy",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/fortnite/images/a/a9/Galaxy_%28Featured%29_-_Outfit_-_Fortnite.png/revision/latest/scale-to-width-down/1000?cb=20210911020023"
     },
     {
       "id": 15,
       "name": "Renegade Raider",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/fortnite/images/a/ab/Renegade_Raider_%28Featured%29_-_Outfit_-_Fortnite.png/revision/latest/scale-to-width-down/1000?cb=20210829174826"
     },
     {
       "id": 16,
       "name": "Sparkle Specialist",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/fortnite/images/d/d3/Sparkle_Specialist_%28Featured%29_-_Outfit_-_Fortnite.png/revision/latest/scale-to-width-down/1000?cb=20210904035522"
     },
     {
       "id": 17,
       "name": "Calamity",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/fortnite/images/d/d0/Calamity_%28Featured%29_-_Outfit_-_Fortnite.png/revision/latest/scale-to-width-down/1000?cb=20200625114427"
     },
     {
       "id": 18,
       "name": "DJ Yonder",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/fortnite/images/8/84/DJ_Yonder_%28Featured%29_-_Outfit_-_Fortnite.png/revision/latest/scale-to-width-down/1000?cb=20210526161223"
     },
     {
       "id": 19,
       "name": "Dire",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/fortnite/images/e/e3/Dire_%28Featured%29_-_Outfit_-_Fortnite.png/revision/latest/scale-to-width-down/1000?cb=20211012163238"
     },
     {
       "id": 20,
       "name": "Marshmello",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/fortnite/images/e/e5/Marshmello_%28Featured%29_-_Outfit_-_Fortnite.png/revision/latest/scale-to-width-down/1000?cb=20200712144354"
     },
     {
       "id": 21,
       "name": "Lynx",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/fortnite/images/9/9d/Lynx_%28Featured%29_-_Outfit_-_Fortnite.png/revision/latest/scale-to-width-down/1000?cb=20220506211940"
     },
     {
       "id": 22,
       "name": "Ragnarok",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/fortnite/images/a/a4/Ragnarok_%28Featured%29_-_Outfit_-_Fortnite.png/revision/latest/scale-to-width-down/1000?cb=20210108200225"
     },
     {
       "id": 23,
       "name": "Zoey",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/fortnite/images/d/d2/Zoey_%28Featured%29_-_Outfit_-_Fortnite.png/revision/latest/scale-to-width-down/1000?cb=20221009192538"
     },
     {
       "id": 24,
       "name": "Valor",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/fortnite/images/b/bb/Valor_%28Featured%29_-_Outfit_-_Fortnite.png/revision/latest/scale-to-width-down/1000?cb=20221009191107"
     },
     {
       "id": 25,
       "name": "The Ice King",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/fortnite/images/c/c1/Ice_King_-_Outfit_Featured_-_Fortnite.png/revision/latest/scale-to-width-down/1000?cb=20220506190016"
     },
     {
       "id": 26,
       "name": "Peely",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/fortnite/images/e/eb/Peely_%28Featured%29_-_Outfit_-_Fortnite.png/revision/latest/scale-to-width-down/1000?cb=20220320154954"
     },
     {
       "id": 27,
       "name": "Fishstick",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/fortnite/images/f/f6/Fishstick_%28Default_Featured%29_-_Outfit_-_Fortnite.png/revision/latest/scale-to-width-down/1000?cb=20210418032248"
     },
     {
       "id": 28,
       "name": "Rox",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/fortnite/images/0/0a/Rox_%28Featured%29_-_Outfit_-_Fortnite.png/revision/latest/scale-to-width-down/1000?cb=20230123192729"
     },
     {
       "id": 29,
       "name": "Sentinel",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/fortnite/images/5/54/Sentinel_%28Featured%29_-_Outfit_-_Fortnite.png/revision/latest/scale-to-width-down/1000?cb=20220504194839"
     },
     {
       "id": 30,
       "name": "Midas",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/fortnite/images/0/06/Midas_%28Featured%29_-_Outfit_-_Fortnite.png/revision/latest/scale-to-width-down/1000?cb=20220928145231"
     },
     {
       "id": 31,
       "name": "Ninja",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/fortnite/images/b/b7/Ninja_%28Default_Featured%29_-_Outfit_-_Fortnite.png/revision/latest/scale-to-width-down/1000?cb=20210417155205"
     },
     {
       "id": 32,
       "name": "Travis Scott",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/fortnite/images/a/a2/Travis_Scott_%28Default_Featured%29_-_Outfit_-_Fortnite.png/revision/latest/scale-to-width-down/1000?cb=20210417053203"
     },
     {
       "id": 33,
-      "name": "Astronomical",
-      "img": "placeholder"
+      "name": "Astro Jack",
+      "img": "https://static.wikia.nocookie.net/fortnite/images/d/d0/Astro_Jack_%28Default_Featured%29_-_Outfit_-_Fortnite.png/revision/latest/scale-to-width-down/1000?cb=20210417053911"
     },
     {
       "id": 34,
       "name": "Deadpool",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/fortnite/images/e/ec/Deadpool_%28Featured%29_-_Outfit_-_Fortnite.png/revision/latest/scale-to-width-down/1000?cb=20230226211640"
     },
     {
       "id": 35,
       "name": "Meowscles",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/fortnite/images/6/6e/Meowscles_%28Featured%29_-_Outfit_-_Fortnite.png/revision/latest/scale-to-width-down/1000?cb=20220621191924"
     },
     {
       "id": 36,
       "name": "Luxe",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/fortnite/images/f/f7/Luxe_%28Featured%29_-_Outfit_-_Fortnite.png/revision/latest/scale-to-width-down/1000?cb=20200703080509"
     },
     {
       "id": 37,
       "name": "Fusion",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/fortnite/images/6/67/Fusion_%28Featured%29_-_Outfit_-_Fortnite.png/revision/latest/scale-to-width-down/1000?cb=20230108163418"
     },
     {
       "id": 38,
       "name": "Dark Bomber",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/fortnite/images/8/8f/Dark_Bomber_%28Featured%29_-_Outfit_-_Fortnite.png/revision/latest/scale-to-width-down/1000?cb=20200730151008"
     },
     {
       "id": 39,
       "name": "Vendetta",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/fortnite/images/4/4d/Vendetta_%28Featured%29_-_Outfit_-_Fortnite.png/revision/latest/scale-to-width-down/1000?cb=20200418154007"
     },
     {
       "id": 40,
       "name": "The Visitor",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/fortnite/images/9/9e/The_Visitor_%28Featured%29_-_Outfit_-_Fortnite.png/revision/latest/scale-to-width-down/1000?cb=20211205153937"
     },
     {
       "id": 41,
       "name": "The Scientist",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/fortnite/images/e/e1/The_Scientist_%28Featured%29_-_Outfit_-_Fortnite.png/revision/latest/scale-to-width-down/1000?cb=20211205161829"
     },
     {
       "id": 42,
       "name": "Blackheart",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/fortnite/images/0/09/Blackheart_%28Featured%29_-_Outfit_-_Fortnite.png/revision/latest/scale-to-width-down/1000?cb=20200706074314"
     },
     {
       "id": 43,
       "name": "Catalyst",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/fortnite/images/b/b9/Catalyst_%28Featured%29_-_Outfit_-_Fortnite.png/revision/latest/scale-to-width-down/1000?cb=20210904163700"
     },
     {
       "id": 44,
       "name": "Eternal Voyager",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/fortnite/images/9/98/Eternal_Voyager_%28Featured%29_-_Outfit_-_Fortnite.png/revision/latest/scale-to-width-down/1000?cb=20210904171535"
     },
     {
       "id": 45,
       "name": "Singularity",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/fortnite/images/0/08/Singularity_%28Featured%29_-_Outfit_-_Fortnite.png/revision/latest/scale-to-width-down/1000?cb=20191202104622"
     },
     {
       "id": 46,
       "name": "Kit",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/fortnite/images/a/a0/Kit_%28Featured%29_-_Outfit_-_Fortnite.png/revision/latest/scale-to-width-down/1000?cb=20230720204132"
     },
     {
       "id": 47,
       "name": "Giddy-Up",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/fortnite/images/6/61/Giddy-up_%28Featured%29_-_Outfit_-_Fortnite.png/revision/latest/scale-to-width-down/1000?cb=20200728083517"
     },
     {
       "id": 48,
       "name": "Hybrid",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/fortnite/images/9/9a/Hybrid_-_Featured_-_Fortnite.png/revision/latest/scale-to-width-down/1000?cb=20211011195052"
     },
     {
       "id": 49,
-      "name": "Sky",
-      "img": "placeholder"
+      "name": "Skye",
+      "img": "https://static.wikia.nocookie.net/fortnite/images/1/10/Skye_%28Featured%29_-_Outfit_-_Fortnite.png/revision/latest/scale-to-width-down/1000?cb=20230124162503"
     },
     {
       "id": 50,
       "name": "Kratos",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/fortnite/images/c/c6/Kratos_%28Featured%29_-_Outfit_-_Fortnite.png/revision/latest/scale-to-width-down/1000?cb=20201204170826"
     }
   ]
 }
