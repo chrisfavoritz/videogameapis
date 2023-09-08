@@ -3,257 +3,257 @@
     {
       "id": 1,
       "name": "Zombie",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/1/14/Zombie_%28Dungeons%29.png/revision/latest/scale-to-width-down/256?cb=20201109151939"
     },
     {
       "id": 2,
       "name": "Skeleton",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/c/c8/Skeleton_%28Dungeons%29.png/revision/latest/scale-to-width-down/250?cb=20220815091400"
     },
     {
       "id": 3,
       "name": "Creeper",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/4/4b/Creeper_%28Dungeons%29.png/revision/latest/scale-to-width-down/256?cb=20201021024023"
     },
     {
       "id": 4,
       "name": "Spider",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/6/61/Spider_%28Dungeons%29.png/revision/latest/scale-to-width-down/350?cb=20200827203955"
     },
     {
       "id": 5,
       "name": "Silverfish",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/7/77/Silverfish_%28Dungeons%29.png/revision/latest/scale-to-width-down/350?cb=20210728145529"
     },
     {
       "id": 6,
       "name": "Blaze",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/d/d1/Blaze_%28Dungeons%29.gif/revision/latest?cb=20230722012318"
     },
     {
       "id": 7,
       "name": "Magma Cube",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/7/70/Magma_Cube_%28Dungeons%29.png/revision/latest?cb=20210225002115"
     },
     {
       "id": 8,
       "name": "Endermite",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/0/08/Endermite_%28Dungeons%29.png/revision/latest/scale-to-width-down/350?cb=20210728132757"
     },
     {
       "id": 9,
       "name": "Witch",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/e/e9/Witch_%28Dungeons%29.png/revision/latest/scale-to-width-down/250?cb=20211101144623"
     },
     {
       "id": 10,
       "name": "Stray",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/0/0c/Stray_%28Dungeons%29.png/revision/latest/scale-to-width-down/222?cb=20220815075629"
     },
     {
       "id": 11,
       "name": "Husk",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/8/84/Husk_%28Dungeons%29.png/revision/latest/scale-to-width-down/270?cb=20200827200759"
     },
     {
       "id": 12,
       "name": "Drowned",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/5/55/Drowned_%28Dungeons%29.png/revision/latest/scale-to-width-down/350?cb=20210527151132"
     },
     {
       "id": 13,
       "name": "Pillager",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/d/d7/Pillager_%28Dungeons%29.png/revision/latest/scale-to-width-down/328?cb=20220711104849"
     },
     {
       "id": 14,
       "name": "Vindicator",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/3/30/Vindicator_%28Dungeons%29.png/revision/latest/scale-to-width-down/350?cb=20220624144717"
     },
     {
       "id": 15,
       "name": "Evoker",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/3/3b/Evoker_%28Dungeons%29.png/revision/latest/scale-to-width-down/272?cb=20220811125042"
     },
     {
       "id": 16,
       "name": "Vex",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/9/97/Vex_%28Dungeons%29.png/revision/latest/scale-to-width-down/350?cb=20210105231937"
     },
     {
       "id": 17,
       "name": "Ravager",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/2/22/Ravager_%28Dungeons%29.png/revision/latest/scale-to-width-down/350?cb=20210227133138"
     },
     {
       "id": 18,
       "name": "Phantom",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/d/dd/Phantom_%28Dungeons%29.png/revision/latest/scale-to-width-down/350?cb=20210130125843"
     },
     {
       "id": 19,
       "name": "Hoglin",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/c/c3/Hoglin_%28Dungeons%29.png/revision/latest/scale-to-width-down/350?cb=20210227133714"
     },
     {
       "id": 20,
       "name": "Piglin",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/a/a9/Piglin_%28Dungeons%29.png/revision/latest/scale-to-width-down/350?cb=20210721095102"
     },
     {
       "id": 21,
-      "name": "Piglin Brute",
-      "img": "placeholder"
+      "name": "Piglin Hunter",
+      "img": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/0/03/Piglin_Hunter.png/revision/latest/scale-to-width-down/350?cb=20210721095438"
     },
     {
       "id": 22,
       "name": "Zombified Piglin",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/5/5a/Zombified_Piglin_%28Dungeons%29.png/revision/latest/scale-to-width-down/350?cb=20210721100818"
     },
     {
       "id": 23,
       "name": "Ghast",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/b/b9/Ghast_%28Dungeons%29.png/revision/latest/scale-to-width-down/350?cb=20210225000315"
     },
     {
       "id": 24,
       "name": "Wither Skeleton",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/3/3b/Wither_Skeleton_%28Dungeons%29.png/revision/latest/scale-to-width-down/350?cb=20221127055847"
     },
     {
       "id": 25,
       "name": "Shulker",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/6/64/Shulker_%28Dungeons%29.png/revision/latest/scale-to-width-down/325?cb=20210728144548"
     },
     {
       "id": 26,
       "name": "Guardian",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/4/48/Guardian_%28Dungeons%29.png/revision/latest/scale-to-width-down/350?cb=20210528102455"
     },
     {
       "id": 27,
       "name": "Elder Guardian",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/e/e4/Elder_Guardian_%28Dungeons%29.png/revision/latest/scale-to-width-down/350?cb=20210528102404"
     },
     {
       "id": 28,
       "name": "Slime",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/1/16/Slime_%28Dungeons%29.png/revision/latest?cb=20210227203709"
     },
     {
       "id": 29,
       "name": "Cave Spider",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/8/87/Cave_Spider_%28Dungeons%29.png/revision/latest/scale-to-width-down/350?cb=20221016115344"
     },
     {
       "id": 30,
       "name": "Chicken",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/b/bd/Chicken_%28Dungeons%29.png/revision/latest/scale-to-width-down/350?cb=20210329162152"
     },
     {
       "id": 31,
       "name": "Cow",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/2/28/Cow%28Dungeons%29.png/revision/latest/scale-to-width-down/350?cb=20201109135010"
     },
     {
       "id": 32,
       "name": "Mooshroom",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/f/fd/Mooshroom_%28Dungeons%29.png/revision/latest/scale-to-width-down/350?cb=20200728105936"
     },
     {
       "id": 33,
       "name": "Sheep",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/d/d5/Sheep%28Dungeons%29.png/revision/latest/scale-to-width-down/350?cb=20200923151317"
     },
     {
       "id": 34,
       "name": "Pig",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/d/d2/Pig_%28Dungeons%29.png/revision/latest/scale-to-width-down/350?cb=20210329155846"
     },
     {
       "id": 35,
       "name": "Rabbit",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/4/46/Rabbit_%28Dungeons%29.png/revision/latest/scale-to-width-down/350?cb=20210109114358"
     },
     {
       "id": 36,
       "name": "Bat",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/0/04/Bat_%28Dungeons%29.gif/revision/latest?cb=20210322153423"
     },
     {
       "id": 37,
       "name": "Parrot",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/c/ce/Parrot_%28Dungeons%29.png/revision/latest?cb=20221118125348"
     },
     {
       "id": 38,
       "name": "Villager",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/4/4e/Villager_%28Dungeons%29.png/revision/latest/scale-to-width-down/341?cb=20210105223731"
     },
     {
       "id": 39,
       "name": "Turtle",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/c/c4/Turtle_%28Dungeons%29.png/revision/latest/scale-to-width-down/350?cb=20210528095253"
     },
     {
       "id": 40,
       "name": "Cat",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/5/59/Calico_Cat_%28Dungeons%29.png/revision/latest/scale-to-width-down/350?cb=20221021110922"
     },
     {
       "id": 41,
       "name": "Horse",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/a/a0/Horse_%28Dungeons%292.png/revision/latest?cb=20210111125552"
     },
     {
       "id": 42,
       "name": "Donkey",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/9/95/Donkey.png/revision/latest/scale-to-width-down/350?cb=20190826140532"
     },
     {
       "id": 43,
       "name": "Mule",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/e/e7/Mule.png/revision/latest/scale-to-width-down/350?cb=20190826141707"
     },
     {
       "id": 44,
       "name": "Skeleton Horse",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/2/2a/Skeleton_Horse_%28Dungeons%29.png/revision/latest/scale-to-width-down/350?cb=20210822125650"
     },
     {
       "id": 45,
       "name": "Zombie Horse",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/1/1f/Zombie_Horse_Revision_3.png/revision/latest/scale-to-width-down/350?cb=20191227071504"
     },
     {
       "id": 46,
       "name": "Fox",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/8/81/Fox_%28Dungeons%29.png/revision/latest/scale-to-width-down/350?cb=20220108135725"
     },
     {
       "id": 47,
       "name": "Panda",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/9/9d/Panda_%28Dungeons%29.png/revision/latest/scale-to-width-down/350?cb=20210109112102"
     },
     {
       "id": 48,
       "name": "Trader Llama",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/9/93/Trader_Llama_%28Dungeons%29.png/revision/latest/scale-to-width-down/337?cb=20210428202913"
     },
     {
       "id": 49,
       "name": "Wandering Trader",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/5/52/Wandering_Trader.png/revision/latest/scale-to-width-down/248?cb=20200310000215"
     },
     {
       "id": 50,
       "name": "Cod",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/6/66/Cod.gif/revision/latest?cb=20190924091509"
     },
     {
       "id": 51,
       "name": "Salmon",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/d/d8/Salmon.gif/revision/latest?cb=20190923182046"
     }
   ]
 }
