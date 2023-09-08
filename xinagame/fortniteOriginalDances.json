@@ -3,47 +3,47 @@
     {
       "id": 1,
       "name": "Default Dance",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/fortnite/images/b/b6/Dance_Moves_-_Emote_-_Fortnite.png/revision/latest?cb=20210714080618"
     },
     {
       "id": 2,
       "name": "Electro Shuffle",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/fortnite/images/b/b8/Electro_Shuffle_-_Emote_-_Fortnite.png/revision/latest?cb=20180605185733"
     },
     {
       "id": 3,
       "name": "Fresh",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/fortnite/images/7/75/Fresh_-_Emote_-_Fortnite.png/revision/latest?cb=20210627064324"
     },
     {
       "id": 4,
       "name": "Floss",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/fortnite/images/9/98/Floss_-_Emote_-_Fortnite.png/revision/latest/scale-to-width-down/1000?cb=20180605184511"
     },
     {
       "id": 5,
       "name": "Best Mates",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/fortnite/images/a/a5/Best_Mates_-_Emote_-_Fortnite.png/revision/latest/scale-to-width-down/1000?cb=20180605183832"
     },
     {
       "id": 6,
       "name": "Ride the Pony",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/fortnite/images/6/69/Ride_The_Pony_-_Emote_-_Fortnite.png/revision/latest/scale-to-width-down/1000?cb=20180605184539"
     },
     {
       "id": 7,
       "name": "Flapper",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/fortnite/images/0/0a/Flapper_-_Emote_-_Fortnite.png/revision/latest?cb=20221221160728"
     },
     {
       "id": 8,
       "name": "Jubilation",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/fortnite/images/f/f8/Jubilation_-_Emote_-_Fortnite.png/revision/latest/scale-to-width-down/1000?cb=20180606162310"
     },
     {
       "id": 9,
       "name": "Slow Clap",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/fortnite/images/2/20/Slow_Clap_-_Emote_-_Fortnite.png/revision/latest/scale-to-width-down/1000?cb=20180606162311"
     }
   ]
 }
