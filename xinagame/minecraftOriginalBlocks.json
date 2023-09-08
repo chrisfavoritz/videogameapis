@@ -1,116 +1,120 @@
 {
   "items": [
     {
-      "name": "Air",
-      "img": "placeholder"
-    },
-    {
       "name": "Stone",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/d/d4/Stone.png/revision/latest?cb=20220112085705"
     },
     {
       "name": "Grass Block",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/c/c7/Grass_Block.png/revision/latest?cb=20230226144250"
     },
     {
       "name": "Dirt",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/2/2f/Dirt.png/revision/latest?cb=20220112085643"
     },
     {
       "name": "Cobblestone",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/6/67/Cobblestone.png/revision/latest?cb=20220112085635"
     },
     {
       "name": "Wooden Plank",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/c/c1/Oak_Planks.png/revision/latest?cb=20220112085657"
     },
     {
       "name": "Sapling",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/1/1c/Oak_Sapling_JE14.png/revision/latest?cb=20211128154319"
     },
     {
       "name": "Bedrock",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/6/68/Bedrock_JE2_BE2.png/revision/latest?cb=20200224220504"
     },
     {
       "name": "Water",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/0/09/Water_JE16.png/revision/latest?cb=20220315035650"
     },
     {
       "name": "Lava",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/f/f5/Lava_JE14.gif/revision/latest?cb=20230327150819"
     },
     {
       "name": "Sand",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/7/71/Sand_JE5_BE3.png/revision/latest?cb=20200105180910"
     },
     {
       "name": "Gravel",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/9/9d/Gravel_JE5_BE4.png/revision/latest?cb=20200315183831"
     },
     {
       "name": "Gold Ore",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/1/18/Gold_Ore_JE7_BE4.png/revision/latest?cb=20210414170925"
     },
     {
       "name": "Iron Ore",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/1/19/Iron_Ore_JE6_BE4.png/revision/latest?cb=20210326000111"
     },
     {
       "name": "Coal Ore",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/4/48/Coal_Ore_JE5_BE4.png/revision/latest?cb=20210325235945"
     },
     {
-      "name": "Wood",
-      "img": "placeholder"
+      "name": "Log",
+      "img": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/e/e9/Oak_Log_%28UD%29_JE5_BE3.png/revision/latest?cb=20200317191604"
     },
     {
       "name": "Leaves",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/6/6d/Oak_Leaves.png/revision/latest?cb=20230226143713"
     },
     {
       "name": "Sponge",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/f/f7/Sponge_JE3_BE3.png/revision/latest?cb=20201118134158"
     },
     {
       "name": "Glass",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/3/3e/Glass_JE4_BE2.png/revision/latest?cb=20200925033414"
     },
     {
-      "name": "Red Wool",
-      "img": "placeholder"
+      "name": "Wool",
+      "img": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/6/66/White_Wool_JE2_BE2.png/revision/latest?cb=20200317231954"
     },
     {
-      "name": "Orange Wool",
-      "img": "placeholder"
+      "name": "Gold",
+      "img": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/7/72/Block_of_Gold_JE6_BE3.png/revision/latest?cb=20200226013525"
     },
     {
-      "name": "Yellow Wool",
-      "img": "placeholder"
+      "name": "Flower",
+      "img": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/2/24/Dandelion_JE8_BE2.png/revision/latest?cb=20200307235152"
     },
     {
-      "name": "Lime Wool",
-      "img": "placeholder"
+      "name": "Mushroom",
+      "img": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/f/f2/Red_Mushroom_JE9.png/revision/latest?cb=20211129103510"
     },
     {
-      "name": "Green Wool",
-      "img": "placeholder"
+      "name": "Slab",
+      "img": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/a/ac/Oak_Slab_JE5_BE2.png/revision/latest?cb=20201126034827"
     },
     {
-      "name": "Light Blue Wool",
-      "img": "placeholder"
+      "name": "Iron",
+      "img": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/7/7e/Block_of_Iron_JE4_BE3.png/revision/latest?cb=20200226013546"
     },
     {
-      "name": "Cyan Wool",
-      "img": "placeholder"
+      "name": "TNT",
+      "img": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/a/a2/TNT_JE3_BE2.png/revision/latest?cb=20210110120939"
     },
     {
-      "name": "Blue Wool",
-      "img": "placeholder"
+      "name": "Mossy Cobblestone",
+      "img": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/1/12/Mossy_Cobblestone_JE4_BE2.png/revision/latest?cb=20200317185824"
     },
     {
-      "name": "Purple Wool",
-      "img": "placeholder"
+      "name": "Bricks",
+      "img": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/6/62/Bricks_JE5_BE3.png/revision/latest?cb=20200226015249"
+    },
+    {
+      "name": "Bookshelf",
+      "img": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/0/05/Bookshelf_JE4_BE2.png/revision/latest?cb=20200226014936"
+    },
+    {
+      "name": "Obsidian",
+      "img": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/9/99/Obsidian_JE3_BE2.png/revision/latest?cb=20200124042057"
     }
   ]
 }
