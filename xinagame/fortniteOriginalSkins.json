@@ -3,42 +3,42 @@
     {
       "id": 1,
       "name": "Jonesy",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/fortnite/images/1/1b/Jonesy_The_First_%28Featured%29_-_Outfit_-_Fortnite.png/revision/latest/scale-to-width-down/1000?cb=20201103133311"
     },
     {
       "id": 2,
       "name": "Ramirez",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/fortnite/images/8/86/Recruit_Ramirez_%28Featured%29_-_Outfit_-_Fortnite.png/revision/latest/scale-to-width-down/1000?cb=20220605093919"
     },
     {
       "id": 3,
       "name": "Banshee",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/fortnite/images/8/8f/Recruit_Banshee_%28Featured%29_-_Outfit_-_Fortnite.png/revision/latest/scale-to-width-down/1000?cb=20220605094528"
     },
     {
       "id": 4,
       "name": "Wildcat",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/fortnite/images/b/bf/WildCat_%28Featured%29_-_Outfit_-_Fortnite.png/revision/latest/scale-to-width-down/1000?cb=20200910135737"
     },
     {
       "id": 5,
       "name": "Hawk",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/fortnite/images/0/00/Hawk_Classic_%28Default_Featured%29_-_Outfit_-_Fortnite.png/revision/latest/scale-to-width-down/1000?cb=20210902135517"
     },
     {
       "id": 6,
       "name": "Spitfire",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/fortnite/images/0/08/Recruit_Spitfire_%28New%29_-_Outfit_-_Fortnite.png/revision/latest?cb=20200420131916"
     },
     {
       "id": 7,
       "name": "Renegade",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/fortnite/images/6/63/Recruit_Renegade_%28New%29_-_Outfit_-_Fortnite.png/revision/latest?cb=20200424100431"
     },
     {
       "id": 8,
       "name": "Headhunter",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/fortnite/images/d/dc/Recruit_3_-_Outfit_-_Fortnite.png/revision/latest?cb=20180607182054"
     }
   ]
 }
