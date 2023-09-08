@@ -2,87 +2,87 @@
   "items": [
     {
       "name": "Badlands",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/f/fc/Badlandsbiome.png/revision/latest/scale-to-width-down/1000?cb=20220612122807"
     },
     {
       "name": "Bamboo Jungle",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/5/55/Bamboo_Jungle.png/revision/latest/scale-to-width-down/1000?cb=20230112123840"
     },
     {
       "name": "Beach",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/2/21/Beach.png/revision/latest/scale-to-width-down/1000?cb=20230112181009"
     },
     {
       "name": "Birch Forest",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/6/6c/Birch_Forest.png/revision/latest/scale-to-width-down/1000?cb=20230112122744"
     },
     {
       "name": "Cold Ocean",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/b/be/Cold_Ocean.png/revision/latest/scale-to-width-down/350?cb=20230112162758"
     },
     {
       "name": "Dark Forest",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/0/00/Dark_Forest.png/revision/latest/scale-to-width-down/350?cb=20220612131841"
     },
     {
       "name": "Deep Cold Ocean",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/f/fa/Deep_Cold_Ocean.png/revision/latest/scale-to-width-down/350?cb=20230112164349"
     },
     {
       "name": "Deep Frozen Ocean",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/3/32/Deep_Frozen_Ocean.png/revision/latest/scale-to-width-down/350?cb=20230112170042"
     },
     {
       "name": "Deep Lukewarm Ocean",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/1/16/Deep_Lukewarm_Ocean.png/revision/latest/scale-to-width-down/350?cb=20230112160747"
     },
     {
       "name": "Deep Ocean",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/a/aa/Deep_Ocean.png/revision/latest/scale-to-width-down/350?cb=20230112161024"
     },
     {
       "name": "Deep Warm Ocean",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/1/1a/Deep_Warm_Ocean.png/revision/latest/scale-to-width-down/350?cb=20191227065616"
     },
     {
       "name": "Desert",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/6/6d/Desert.png/revision/latest/scale-to-width-down/350?cb=20220103192043"
     },
     {
       "name": "Dripstone Caves",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/a/ad/Dripstone_Caves_1.18.png/revision/latest/scale-to-width-down/350?cb=20220420113728"
     },
     {
       "name": "End Barrens",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/9/93/End_Barrens.png/revision/latest/scale-to-width-down/350?cb=20201019175909"
     },
     {
       "name": "End Highlands",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/9/93/End_Highlands.png/revision/latest/scale-to-width-down/350?cb=20201019180217"
     },
     {
       "name": "End Midland",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/3/31/End_Midlands.png/revision/latest/scale-to-width-down/350?cb=20201019181003"
     },
     {
       "name": "Eroded Badlands",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/e/ee/Eroded_Badlands.png/revision/latest/scale-to-width-down/350?cb=20220521050334"
     },
     {
       "name": "Flower Forest",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/6/61/Flower_Forest.png/revision/latest/scale-to-width-down/350?cb=20230112142425"
     },
     {
       "name": "Forest",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/c/c1/Forest.png/revision/latest/scale-to-width-down/350?cb=20220324155810"
     },
     {
       "name": "Frozen Ocean",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/8/8e/Frozen_Ocean.png/revision/latest/scale-to-width-down/350?cb=20230112165343"
     },
     {
       "name": "Frozen River",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/c/c2/Frozen_River.png/revision/latest/scale-to-width-down/350?cb=20230112182025"
     },
     {
       "name": "Giant Spruce Taiga",
@@ -98,7 +98,7 @@
     },
     {
       "name": "Lukewarm Ocean",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/7/7f/Lukewarm_Ocean.png/revision/latest/scale-to-width-down/350?cb=20230112161727"
     },
     {
       "name": "Mountains",
@@ -166,7 +166,7 @@
     },
     {
       "name": "Warm Ocean",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/2/2d/Warm_Ocean.png/revision/latest/scale-to-width-down/350?cb=20230112152109"
     },
     {
       "name": "Wooded Badlands",
