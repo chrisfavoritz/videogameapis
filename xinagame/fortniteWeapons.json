@@ -3,197 +3,197 @@
     {
       "id": 1,
       "name": "Standard Assault Rifle",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/fortnite/images/e/ec/Assault_Rifle_%28High_Level%29_-_Weapon_-_Fortnite.png/revision/latest?cb=20210226220245"
     },
     {
       "id": 2,
       "name": "Burst Assault Rifle",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/fortnite/images/9/9d/Burst_Assault_Rifle_-_Weapon_-_Fortnite.png/revision/latest?cb=20200429201027"
     },
     {
       "id": 3,
       "name": "Heavy Assault Rifle",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/fortnite/images/a/af/Heavy_Assault_Rifle_-_Weapon_-_Fortnite.png/revision/latest?cb=20181107171729"
     },
     {
       "id": 4,
       "name": "Scoped Assault Rifle",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/fortnite/images/b/b0/Scoped_Assault_Rifle_-_Weapon_-_Fortnite.png/revision/latest?cb=20200503011856"
     },
     {
       "id": 5,
       "name": "Suppressed Assault Rifle",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/fortnite/images/d/d7/Suppressed_Assault_Rifle_-_Weapon_-_Fortnite.png/revision/latest?cb=20180912162045"
     },
     {
       "id": 6,
       "name": "Standard SMG",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/fortnite/images/7/78/Submachine_Gun_-_Weapon_-_Fortnite.png/revision/latest?cb=20200303010014"
     },
     {
       "id": 7,
       "name": "Tactical SMG",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/fortnite/images/1/1f/Tactical_Submachine_Gun_-_Weapon_-_Fortnite.png/revision/latest?cb=20190309193307"
     },
     {
       "id": 8,
       "name": "Suppressed SMG",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/fortnite/images/b/b4/Suppressed_Submachine_Gun_-_Weapon_-_Fortnite.png/revision/latest?cb=20190309193141"
     },
     {
       "id": 9,
-      "name": "P90 (Compact SMG)",
-      "img": "placeholder"
+      "name": "Compact SMG",
+      "img": "https://static.wikia.nocookie.net/fortnite/images/2/2b/Compact_SMG_-_Weapon_-_Fortnite.png/revision/latest?cb=20211020171541"
     },
     {
       "id": 10,
       "name": "Tactical Shotgun",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/fortnite/images/d/dc/Tactical_Shotgun_%28Low_Tier%29_-_Weapon_-_Fortnite.png/revision/latest?cb=20201202141354"
     },
     {
       "id": 11,
       "name": "Pump Shotgun",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/fortnite/images/c/ca/Pump_Shotgun_-_Weapon_-_Fortnite.png/revision/latest?cb=20210125015717"
     },
     {
       "id": 12,
       "name": "Charge Shotgun",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/fortnite/images/f/f1/Charge_Shotgun_-_Weapon_-_Fortnite.png/revision/latest?cb=20220531181155"
     },
     {
       "id": 13,
       "name": "Combat Shotgun",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/fortnite/images/a/a3/Combat_Shotgun_-_Weapon_-_Fortnite.png/revision/latest?cb=20190510133233"
     },
     {
       "id": 14,
       "name": "Drum Shotgun",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/fortnite/images/c/cb/Drum_Shotgun_-_Weapon_-_Fortnite.png/revision/latest?cb=20190702122636"
     },
     {
       "id": 15,
       "name": "Standard Pistol",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/fortnite/images/e/e0/Pistol_-_Weapon_-_Fortnite.png/revision/latest?cb=20200729182619"
     },
     {
       "id": 16,
       "name": "Suppressed Pistol",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/fortnite/images/d/de/Suppressed_Pistol_-_Weapon_-_Fortnite.png/revision/latest?cb=20210104132704"
     },
     {
       "id": 17,
       "name": "Dual Pistols",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/fortnite/images/f/fe/Dual_Pistol_-_Weapon_-_Fortnite.png/revision/latest?cb=20210215151023"
     },
     {
       "id": 18,
       "name": "Flare Gun",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/fortnite/images/9/9d/Flare_Gun_-_Weapon_-_Fortnite.png/revision/latest?cb=20210508125131"
     },
     {
       "id": 19,
-      "name": "Hand Cannon (Deagle)",
-      "img": "placeholder"
+      "name": "Hand Cannon",
+      "img": "https://static.wikia.nocookie.net/fortnite/images/f/f3/Hand_Cannon_-_Weapon_-_Fortnite.png/revision/latest?cb=20200723233844"
     },
     {
       "id": 20,
       "name": "Bolt-action Sniper Rifle",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/fortnite/images/a/a1/Bolt-Action_Sniper_Rifle_-_Weapon_-_Fortnite.png/revision/latest?cb=20201129151825"
     },
     {
       "id": 21,
       "name": "Semi-Auto Sniper Rifle",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/fortnite/images/e/e6/Semi-Automatic_Sniper_Rifle_-_Weapon_-_Fortnite.png/revision/latest?cb=20170806004521"
     },
     {
       "id": 22,
       "name": "Heavy Sniper Rifle",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/fortnite/images/f/f4/Heavy_Sniper_Rifle_-_Weapon_-_Fortnite.png/revision/latest?cb=20220423124341"
     },
     {
       "id": 23,
       "name": "Hunting Rifle",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/fortnite/images/5/53/Hunting_Rifle_-_Weapon_-_Fortnite.png/revision/latest?cb=20200501160919"
     },
     {
       "id": 24,
       "name": "Rocket Launcher",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/fortnite/images/7/7d/Rocket_Launcher_-_Weapon_-_Fortnite.png/revision/latest?cb=20200516021718"
     },
     {
       "id": 25,
       "name": "Grenade Launcher",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/fortnite/images/a/a1/Grenade_Launcher_-_Weapon_-_Fortnite.png/revision/latest?cb=20170806003558"
     },
     {
       "id": 26,
       "name": "Quad Launcher",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/fortnite/images/f/fa/Quad_Launcher_-_Weapon_-_Fortnite.png/revision/latest?cb=20190625231409"
     },
     {
       "id": 27,
       "name": "Proximity Grenade Launcher",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/fortnite/images/0/00/Proximity_Grenade_Launcher_-_Weapon_-_Fortnite.png/revision/latest?cb=20190612171702"
     },
     {
       "id": 28,
       "name": "Grenades",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/fortnite/images/b/b8/Grenade_-_Item_-_Fortnite.png/revision/latest?cb=20200312041058"
     },
     {
       "id": 29,
       "name": "Clinger",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/fortnite/images/0/05/Clinger_-_Item_-_Fortnite.png/revision/latest?cb=20210215165228"
     },
     {
       "id": 30,
       "name": "Stink Bomb",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/fortnite/images/0/00/Stink_Bomb_-_Item_-_Fortnite.png/revision/latest?cb=20210201135458"
     },
     {
       "id": 31,
       "name": "Boogie Bomb",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/fortnite/images/1/16/Boogie_Bomb_-_Item_-_Fortnite.png/revision/latest?cb=20210215173311"
     },
     {
       "id": 32,
       "name": "Crossbow",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/fortnite/images/8/88/Crossbow_-_Weapon_-_Fortnite.png/revision/latest?cb=20200227191535"
     },
     {
       "id": 33,
       "name": "Minigun",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/fortnite/images/f/f4/Minigun_-_Weapon_-_Fortnite.png/revision/latest?cb=20190309192733"
     },
     {
       "id": 34,
       "name": "Infantry Rifle",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/fortnite/images/6/61/Infantry_Rifle_-_Weapon_-_Fortnite.png/revision/latest?cb=20190520031306"
     },
     {
       "id": 35,
       "name": "Pickaxe",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/fortnite/images/8/88/Pickaxe_%28Chapter_3%29_-_Pickaxe_-_Fortnite.png/revision/latest?cb=20211209212854"
     },
     {
       "id": 36,
       "name": "Harpoon Gun",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/fortnite/images/6/6e/Harpoon_Gun_-_Weapon_-_Fortnite.png/revision/latest?cb=20210127234847"
     },
     {
       "id": 37,
       "name": "Rail Gun",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/fortnite/images/d/da/Rail_Gun_-_Weapon_-_Fortnite.png/revision/latest?cb=20210609005910"
     },
     {
       "id": 38,
       "name": "Recon Scanner",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/fortnite/images/9/9e/Recon_Scanner_-_Weapon_-_Fortnite.png/revision/latest?cb=20210609013358"
     },
     {
       "id": 39,
       "name": "Pulse Rifle",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/fortnite/images/5/50/Pulse_Rifle_-_Weapon_-_Fortnite.png/revision/latest?cb=20210608065646"
     }
   ]
 }
