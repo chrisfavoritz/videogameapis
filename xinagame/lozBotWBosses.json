@@ -1,0 +1,12 @@
+{
+  "items": [
+    {"name": "Waterblight Ganon", "img": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/0/02/BotW_Hyrule_Compendium_Waterblight_Ganon.png/revision/latest?cb=20170510072433&format=original"},
+    {"name": "Fireblight Ganon", "img": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/b/b6/BotW_Fireblight_Ganon_Model.png/revision/latest?cb=20210824182114&format=original"},
+    {"name": "Windblight Ganon", "img": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/0/0d/BotW_Hyrule_Compendium_Windblight_Ganon.png/revision/latest?cb=20170510072511&format=original"},
+    {"name": "Thunderblight Ganon", "img": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/5/54/BotW_Thunderblight_Ganon_Model.png/revision/latest?cb=20220920023142&format=original"},
+    {"name": "Master Kohga", "img": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/1/11/Master_Kohga_totk.png/revision/latest/scale-to-width-down/320?cb=20230514204415&format=original"},
+    {"name": "Monk Maz Koshia", "img": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/5/53/HWAoC_Monk_Maz_Koshia_Artwork.png/revision/latest/scale-to-width-down/1000?cb=20210206084832&format=original"},
+    {"name": "Calamity Ganon", "img": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/4/4d/BotW_Calamity_Ganon_Artwork.png/revision/latest?cb=20180429113812&format=original"},
+    {"name": "Dark Beast Ganon", "img": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/0/0b/BotW_Dark_Beast_Ganon_Model.png/revision/latest/scale-to-width-down/1000?cb=20170430145024&format=original"}
+  ]
+}
