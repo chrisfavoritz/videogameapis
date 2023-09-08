@@ -2,63 +2,107 @@
   "items": [
     {
       "name": "Ancient Armor Set",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/8/89/BotW_Ancient_Set_Model.png/revision/latest?cb=20210104152135&format=original"
     },
     {
       "name": "Barbarian Armor Set",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/f/f2/BotW_Barbarian_Set_Model.png/revision/latest?cb=20210105005357&format=original"
     },
     {
       "name": "Climbing Gear Set",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/8/8c/BotW_Climbing_Set_Model.png/revision/latest?cb=20210105005949&format=original"
     },
     {
       "name": "Dark Armor Set",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/c/c1/BotW_Dark_Series_Model.png/revision/latest?cb=20210104023533&format=original"
     },
     {
       "name": "Desert Voe Armor Set",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/2/28/BotW_Desert_Voe_Set_Model.png/revision/latest?cb=20210105010406&format=original"
+    },
+    {
+      "name": "Fierce Diety Set",
+      "img": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/2/2c/BotW_Fierce_Deity_Set_Model.png/revision/latest?cb=20210105010847&format=original"
     },
     {
       "name": "Flamebreaker Armor Set",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/e/ed/BotW_Fireproof_Armor_Model.png/revision/latest?cb=20210105011459&format=original"
     },
     {
       "name": "Gerudo Vai Armor Set",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/d/d4/BotW_Gerudo_Outfit_Model.png/revision/latest?cb=20210105011923&format=original"
+    },
+    {
+      "name": "Hero of the Sky Armor Set",
+      "img": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/5/5f/BotW_Hero_of_the_Sky_Set_Model.png/revision/latest?cb=20210105012217&format=original"
+    },
+    {
+      "name": "Hero of the Wild Armor Set",
+      "img": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/1/19/BotW_Hero_of_the_Wild_Set_Model.png/revision/latest?cb=20210105013005&format=original"
+    },
+    {
+      "name": "Hero of Time Armor Set",
+      "img": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/f/f1/BotW_Hero_of_Time_Set_Model.png/revision/latest?cb=20210105012800&format=original"
+    },
+    {
+      "name": "Hero of Twilight Armor Set",
+      "img": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/d/d5/BotW_Hero_of_Twilight_Set_Model.png/revision/latest?cb=20210105013620&format=original"
+    },
+    {
+      "name": "Hero of Winds Armor Set",
+      "img": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/f/f2/BotW_Hero_of_Winds_Set_Model.png/revision/latest?cb=20210105013902&format=original"
     },
     {
       "name": "Hylian Armor Set",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/0/0c/BotW_Hylian_Set_Model.png/revision/latest/scale-to-width-down/320?cb=20210809002317&format=original"
+    },
+    {
+      "name": "Hero Armor Set",
+      "img": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/d/dc/BotW_Hero_Set_Model.png/revision/latest?cb=20210105014137&format=original"
+    },
+    {
+      "name": "Phantom Equipment",
+      "img": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/0/0f/BotW_Phantom_Equipment_Model.png/revision/latest/scale-to-width-down/320?cb=20210105014727&format=original"
+    },
+    {
+      "name": "Phantom Ganon Set",
+      "img": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/a/a5/BotW_Phantom_Ganon_Set_Model.png/revision/latest/scale-to-width-down/320?cb=20210105014440&format=original"
     },
     {
       "name": "Radiant Armor Set",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/1/1b/BotW_Radiant_Set_Model.png/revision/latest/scale-to-width-down/100?cb=20210105015601&format=original"
     },
     {
       "name": "Rubber Armor Set",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/c/ca/BotW_Link_Wearing_Rubber_Armor.jpg/revision/latest?cb=20170418024148&format=original"
     },
     {
-      "name": "Sheikah Stealth Armor Set",
-      "img": "placeholder"
+      "name": "Royal Guard Set",
+      "img": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/9/9d/BotW_Royal_Guard_Set_Model.png/revision/latest?cb=20210105020814&format=original"
     },
     {
       "name": "Snowquill Armor Set",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/8/8d/BotW_Snowquill_Set_Model.png/revision/latest?cb=20210105025312&format=original"
     },
     {
       "name": "Soldier's Armor Set",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/a/a1/BotW_Soldier%27s_Set_Model.png/revision/latest?cb=20210105025813&format=original"
+    },
+    {
+      "name": "Stealth Set",
+      "img": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/f/f4/BotW_Stealth_Set_Model.png/revision/latest?cb=20210105031945&format=original"
     },
     {
       "name": "Tingle's Armor Set",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/3/31/BotW_Tingle%27s_Set_Model.png/revision/latest?cb=20210105141234&format=original"
+    },
+    {
+      "name": "Well-Worn Outfit",
+      "img": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/e/ee/BotW_Well-Worn_Outfit_Model.png/revision/latest?cb=20210105141607&format=original"
     },
     {
       "name": "Zora Armor Set",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/a/a4/BotW_Zora_Set_Model.png/revision/latest?cb=20210105142315&format=original"
     }
   ]
 }
