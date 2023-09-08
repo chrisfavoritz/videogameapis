@@ -86,83 +86,83 @@
     },
     {
       "name": "Giant Spruce Taiga",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/1/11/Giant_Spruce_Taiga_Hills.png/revision/latest/scale-to-width-down/350?cb=20201220130417"
     },
     {
       "name": "Giant Tree Taiga",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/0/06/Giant_Tree_Taiga_Hills.png/revision/latest/scale-to-width-down/350?cb=20201108132215"
     },
     {
       "name": "Jungle",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/a/ae/Jungle.png/revision/latest/scale-to-width-down/180?cb=20220617002056"
     },
     {
       "name": "Lukewarm Ocean",
       "img": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/7/7f/Lukewarm_Ocean.png/revision/latest/scale-to-width-down/350?cb=20230112161727"
     },
     {
-      "name": "Mountains",
-      "img": "placeholder"
+      "name": "Mountain Edge",
+      "img": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/7/72/Mountain_Edge.png/revision/latest/scale-to-width-down/350?cb=20201220132132"
     },
     {
       "name": "Mushroom Fields",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/5/57/Mushroom_Fields.png/revision/latest/scale-to-width-down/350?cb=20230112131126"
     },
     {
       "name": "Nether Wastes",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/d/d1/Nether_Wastes.png/revision/latest/scale-to-width-down/350?cb=20200220213119"
     },
     {
       "name": "Ocean",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/8/89/Ocean.png/revision/latest/scale-to-width-down/350?cb=20230112154919"
     },
     {
       "name": "Plains",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/5/52/Plains.png/revision/latest/scale-to-width-down/300?cb=20220324022601"
     },
     {
       "name": "River",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/b/ba/River.png/revision/latest/scale-to-width-down/350?cb=20230112121455"
     },
     {
       "name": "Savanna",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/e/e5/Savanna.png/revision/latest/scale-to-width-down/350?cb=20220324155028"
     },
     {
       "name": "Snowy Beach",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/a/a9/Snowy_Beach.png/revision/latest/scale-to-width-down/350?cb=20201108122021"
     },
     {
       "name": "Snowy Mountains",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/0/0b/Snowy_Taiga_Mountains.png/revision/latest/scale-to-width-down/350?cb=20201012125852"
     },
     {
       "name": "Snowy Taiga",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/5/5b/Snowy_Taiga.png/revision/latest/scale-to-width-down/350?cb=20230112140945"
     },
     {
       "name": "Stone Shore",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/6/66/Stone_Shore.png/revision/latest/scale-to-width-down/350?cb=20221107231812"
     },
     {
       "name": "Swamp",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/3/3e/Swamp.png/revision/latest/scale-to-width-down/350?cb=20230112124954"
     },
     {
       "name": "Taiga",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/3/31/Taiga.png/revision/latest/scale-to-width-down/350?cb=20230321210515"
     },
     {
       "name": "The End",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/5/5c/The_End.png/revision/latest/scale-to-width-down/350?cb=20201019180500"
     },
     {
       "name": "The Nether",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/6/69/The_Nether.png/revision/latest/scale-to-width-down/300?cb=20200712073602"
     },
     {
       "name": "The Void",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/d/d9/The_Void_JE2.png/revision/latest/scale-to-width-down/350?cb=20210922142355"
     },
     {
       "name": "Warm Ocean",
@@ -170,11 +170,7 @@
     },
     {
       "name": "Wooded Badlands",
-      "img": "placeholder"
-    },
-    {
-      "name": "Wooded Mountains",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/5/5b/Wooded_Badlands_Plateau.png/revision/latest/scale-to-width-down/350?cb=20230112144439"
     }
   ]
 }
