@@ -2,39 +2,39 @@
   "items": [
     {
       "name": "Link",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/0/02/BotW_Link_Shooting_Artwork.png/revision/latest/scale-to-width-down/1000?cb=20180429122910&format=original"
     },
     {
       "name": "Princess Zelda",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/0/0f/BotW_Zelda_Artwork.png/revision/latest/scale-to-width-down/1000?cb=20170417211716&format=original"
     },
     {
       "name": "King Rhoam Bosphoramus Hyrule",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/f/f1/BotW_King_Rhoam_model.webp/revision/latest?cb=20221017014449&format=original"
     },
     {
       "name": "Impa",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/c/ca/TotK_Impa_Artwork.png/revision/latest?cb=20230531215047&format=original"
     },
     {
       "name": "Ganon/Calamity Ganon",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/4/4d/BotW_Calamity_Ganon_Artwork.png/revision/latest?cb=20180429113812&format=original"
     },
     {
       "name": "Mipha",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/f/f0/BotW_Mipha_Artwork.png/revision/latest/scale-to-width-down/1000?cb=20170204170637&format=original"
     },
     {
       "name": "Daruk",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/f/f3/BotW_Daruk_Artwork.png/revision/latest/scale-to-width-down/1000?cb=20170213043818&format=original"
     },
     {
       "name": "Revali",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/3/31/BotW_Revali_Artwork.png/revision/latest?cb=20170220154509&format=original"
     },
     {
       "name": "Urbosa",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/c/cf/BotW_Urbosa_Artwork.png/revision/latest/scale-to-width-down/1000?cb=20170302195936&format=original"
     }
   ]
 }
