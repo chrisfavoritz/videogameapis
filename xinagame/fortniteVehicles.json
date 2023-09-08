@@ -3,142 +3,167 @@
     {
       "id": 1,
       "name": "Shopping Cart",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/fortnite/images/e/ed/Shopping_Cart_-_Vehicle_-_Fortnite.png/revision/latest?cb=20210127034922"
     },
     {
       "id": 2,
       "name": "All Terrain Kart (ATK)",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/fortnite/images/2/20/ATK_-_Vehicle_-_Fortnite.png/revision/latest?cb=20200813172804"
     },
     {
       "id": 3,
       "name": "Quadcrasher",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/fortnite/images/2/23/Quadcrasher_-_Vehicle_-_Fortnite.png/revision/latest?cb=20211125153740"
     },
     {
       "id": 4,
-      "name": "Stormwing Plane",
-      "img": "placeholder"
+      "name": "X-4 Stormwing Plane",
+      "img": "https://static.wikia.nocookie.net/fortnite/images/6/6a/X-4_Stormwing_-_Vehicle_-_Fortnite.png/revision/latest?cb=20211125154759"
     },
     {
       "id": 5,
       "name": "Driftboard",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/fortnite/images/9/9e/Driftboard_-_Vehicle_-_Fortnite.png/revision/latest?cb=20211125154851"
     },
     {
       "id": 6,
       "name": "Baller",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/fortnite/images/d/df/Baller_-_Vehicle_-_Fortnite.png/revision/latest?cb=20200813172537"
     },
     {
       "id": 7,
       "name": "Pirate Cannon",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/fortnite/images/e/e2/Pirate_Cannon_-_Vehicle_-_Fortnite.png/revision/latest?cb=20211125154640"
     },
     {
       "id": 8,
-      "name": "B.R.U.T.E. (mech suit)",
-      "img": "placeholder"
+      "name": "B.R.U.T.E.",
+      "img": "https://static.wikia.nocookie.net/fortnite/images/e/e2/B.R.U.T.E._-_Vehicle_-_Fortnite.png/revision/latest/scale-to-width-down/1000?cb=20211112191858"
     },
     {
       "id": 9,
       "name": "Hoverboard",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/fortnite/images/e/e2/B.R.U.T.E._-_Vehicle_-_Fortnite.png/revision/latest/scale-to-width-down/1000?cb=20211112191858"
     },
     {
       "id": 10,
       "name": "Motorboat",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/fortnite/images/e/e1/Motorboat_-_Vehicle_-_Fortnite.png/revision/latest?cb=20211125154556"
     },
     {
       "id": 11,
-      "name": "Choppa (helicopter)",
-      "img": "placeholder"
+      "name": "Choppa",
+      "img": "https://static.wikia.nocookie.net/fortnite/images/e/ec/Choppa_-_Vehicle_-_Fortnite.png/revision/latest?cb=20210101230933"
     },
     {
       "id": 12,
       "name": "Loot Shark",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/fortnite/images/5/5c/Loot_Shark_-_Animal_-_Fortnite.png/revision/latest?cb=20211125161125"
     },
     {
       "id": 13,
-      "name": "Car",
-      "img": "placeholder"
+      "name": "Prevalent G2020",
+      "img": "https://static.wikia.nocookie.net/fortnite/images/8/81/Prevalent_GG2020_-_Vehicle_-_Fortnite.png/revision/latest?cb=20220428184755"
     },
     {
       "id": 14,
-      "name": "Whiplash (sports car)",
-      "img": "placeholder"
+      "name": "Victory Motors Whiplash",
+      "img": "https://static.wikia.nocookie.net/fortnite/images/a/a1/Victory_Motors_Whiplash_-_Vehicle_-_Fortnite.png/revision/latest?cb=20211125155534"
     },
     {
       "id": 15,
-      "name": "Mudflap (truck)",
-      "img": "placeholder"
+      "name": "Titano Mudflap",
+      "img": "https://static.wikia.nocookie.net/fortnite/images/8/86/Titano_Mudflap_-_Vehicle_-_Fortnite.png/revision/latest?cb=20211125160309"
     },
     {
       "id": 16,
-      "name": "Bear (pickup truck)",
-      "img": "placeholder"
+      "name": "Bear",
+      "img": "https://static.wikia.nocookie.net/fortnite/images/0/0a/OG_Bear_%284x4%29_-_Vehicle_-_Fortnite.png/revision/latest/scale-to-width-down/1000?cb=20210807052029"
     },
     {
       "id": 17,
       "name": "Taxi",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/fortnite/images/5/59/Taxi_-_Vehicle_-_Fortnite.png/revision/latest?cb=20210421221647"
     },
     {
       "id": 18,
-      "name": "Bus",
-      "img": "placeholder"
+      "name": "Armored Battle Bus",
+      "img": "https://static.wikia.nocookie.net/fortnite/images/b/b5/Armored_Battle_Bus_-_Vehicle_-_Fortnite.png/revision/latest?cb=20220323190016"
     },
     {
       "id": 19,
       "name": "OG Bear",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/fortnite/images/f/f3/OG_Bear_-_Vehicle_-_Fortnite.png/revision/latest?cb=20211125160155"
     },
     {
       "id": 20,
-      "name": "Islander Prevalent (compact car)",
-      "img": "placeholder"
+      "name": "Islander Prevalent",
+      "img": "https://static.wikia.nocookie.net/fortnite/images/3/3f/Islander_Prevalent_-_Vehicle_-_Fortnite.png/revision/latest?cb=20211125155431"
     },
     {
       "id": 21,
-      "name": "Victory Motors Whiplash",
-      "img": "placeholder"
+      "name": "Nitro Drifter",
+      "img": "https://static.wikia.nocookie.net/fortnite/images/3/30/Nitro_Drifter_-_Vehicle_-_Fortnite.png/revision/latest?cb=20230311164301"
     },
     {
       "id": 22,
-      "name": "OG Mudflap",
-      "img": "placeholder"
+      "name": "Saucer",
+      "img": "https://static.wikia.nocookie.net/fortnite/images/3/3c/Saucer_-_Vehicle_-_Fortnite.png/revision/latest?cb=20210609190344"
     },
     {
       "id": 23,
-      "name": "Victory Motors Mudflap",
-      "img": "placeholder"
+      "name": "Salvaged B.R.U.T.E.",
+      "img": "https://static.wikia.nocookie.net/fortnite/images/7/74/Salvaged_BRUTE_-_Vehicle_-_Fortnite.png/revision/latest?cb=20211112191526"
     },
     {
       "id": 24,
-      "name": "Taxi Cab",
-      "img": "placeholder"
+      "name": "Titan Tank",
+      "img": "https://static.wikia.nocookie.net/fortnite/images/9/96/Titan_Tank_%28IO%29_-_Vehicle_-_Fortnite.png/revision/latest?cb=20220320153651"
     },
     {
       "id": 25,
-      "name": "Big Rig",
-      "img": "placeholder"
+      "name": "Mounted Turret",
+      "img": "https://static.wikia.nocookie.net/fortnite/images/0/0c/Mounted_Turret_-_Trap_-_Fortnite.png/revision/latest?cb=20200508183842"
     },
     {
       "id": 26,
-      "name": "Fish Sticks (food truck)",
-      "img": "placeholder"
+      "name": "Wolf",
+      "img": "https://static.wikia.nocookie.net/fortnite/images/e/e2/Wolf_-_Animal_-_Fortnite.png/revision/latest?cb=20211211203851"
     },
     {
       "id": 27,
-      "name": "Snow Plow",
-      "img": "placeholder"
+      "name": "Boar",
+      "img": "https://static.wikia.nocookie.net/fortnite/images/1/1b/Boar_-_Animal_-_Fortnite.png/revision/latest?cb=20211211203942"
     },
     {
-      "id": 28,
-      "name": "Fork Knife (food truck)",
-      "img": "placeholder"
+      "id": 27,
+      "name": "Octane",
+      "img": "https://static.wikia.nocookie.net/fortnite/images/c/c9/Octane_Spawner_-_Device_-_Fortnite.png/revision/latest?cb=20221004122317"
+    },
+    {
+      "id": 27,
+      "name": "Trail Thrasher",
+      "img": "https://static.wikia.nocookie.net/fortnite/images/f/f3/Dirtbike_-_Vehicle_-_Fortnite.png/revision/latest?cb=20221204162200"
+    },
+    {
+      "id": 27,
+      "name": "Victory Crown Rogue",
+      "img": "https://static.wikia.nocookie.net/fortnite/images/6/6c/Victory_Crown_Rogue_-_Vehicle_-_Fortnite.png/revision/latest?cb=20230311164954"
+    },
+    {
+      "id": 27,
+      "name": "Raptor",
+      "img": "https://static.wikia.nocookie.net/fortnite/images/1/1d/Raptor_%28C4S3%29_-_Animal_-_Fortnite.png/revision/latest?cb=20230615163537"
+    },
+    {
+      "id": 27,
+      "name": "Nitro Fang",
+      "img": "https://static.wikia.nocookie.net/fortnite/images/f/f4/Nitro_Fang_-_Vehicle_-_Fortnite.png/revision/latest?cb=20230825082843"
+    },
+    {
+      "id": 27,
+      "name": "Surf",
+      "img": "https://static.wikia.nocookie.net/fortnite/images/9/95/Surfboard_-_Device_-_Fortnite.png/revision/latest?cb=20210511155341"
     }
   ]
 }
