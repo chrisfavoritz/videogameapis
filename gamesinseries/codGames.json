@@ -18,7 +18,7 @@
     },
     {
       "name": "Call of Duty: World at War (2008)",
-      "img": "https://upload.wikimedia.org/wikipedia/en/1/19/Call_of_Duty_World_at_War_cover.png"
+      "img": "https://upload.wikimedia.org/wikipedia/en/6/69/WAW_Cover_Art.jpg?20231204182947"
     },
     {
       "name": "Call of Duty: Modern Warfare 2 (2009)",
@@ -66,7 +66,7 @@
     },
     {
       "name": "Call of Duty: Black Ops Cold War (2020)",
-      "img": "https://upload.wikimedia.org/wikipedia/en/4/40/Black_Ops_Cold_War.jpeg"
+      "img": "https://upload.wikimedia.org/wikipedia/en/3/31/BOCW_Cover_Art.jpg?20231202152752"
     },
     {
       "name": "Call of Duty: Vanguard (2021)",
@@ -75,6 +75,10 @@
     {
       "name": "Call of Duty: Modern Warfare II (2022)",
       "img": "https://upload.wikimedia.org/wikipedia/en/4/4a/Call_of_Duty_Modern_Warfare_II_Key_Art.jpg"
+    },
+    {
+      "name": "Call of Duty: Modern Warfare III (2023)",
+      "img": "https://upload.wikimedia.org/wikipedia/en/f/f6/MWIII_Cover_Art.png?20231116132631"
     }
   ]
 }
