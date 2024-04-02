@@ -1,0 +1,18 @@
+{
+  "items": [
+    {"name": "Fuack", "img": "https://static.wikia.nocookie.net/palworld/images/6/6c/Fuack.png/revision/latest?cb=20240123163258"},
+    {"name": "Pengullet", "img": "https://static.wikia.nocookie.net/palworld/images/b/b3/Pengullet.png/revision/latest?cb=20240223181545"},
+    {"name": "Penking", "img": "https://static.wikia.nocookie.net/palworld/images/5/5c/Penking.png/revision/latest?cb=20240123162544"},
+    {"name": "Teafant", "img": "https://static.wikia.nocookie.net/palworld/images/2/2b/Teafant.png/revision/latest?cb=20240123170333"},
+    {"name": "Celaray", "img": "https://static.wikia.nocookie.net/palworld/images/a/aa/Celaray.png/revision/latest?cb=20240123181336"},
+    {"name": "Gobfin", "img": "https://static.wikia.nocookie.net/palworld/images/f/f9/Gobfin.png/revision/latest?cb=20240122145054"},
+    {"name": "Surfent", "img": "https://static.wikia.nocookie.net/palworld/images/f/f9/Surfent.png/revision/latest?cb=20240122182116"},
+    {"name": "Elphidran Aqua", "img": "https://static.wikia.nocookie.net/palworld/images/6/65/Elphidran_Aqua.png/revision/latest?cb=20240125042716"},
+    {"name": "Kelpsea", "img": "https://static.wikia.nocookie.net/palworld/images/1/17/Kelpsea.png/revision/latest?cb=20240122182549"},
+    {"name": "Azurobe", "img": "https://static.wikia.nocookie.net/palworld/images/b/bc/Azurobe.png/revision/latest?cb=20240124101431"},
+    {"name": "Relaxaurus", "img": "https://static.wikia.nocookie.net/palworld/images/0/0d/Relaxaurus.png/revision/latest?cb=20240122182945"},
+    {"name": "Broncherry Aqua", "img": "https://static.wikia.nocookie.net/palworld/images/1/18/Broncherry_Aqua.png/revision/latest?cb=20240122134248"},
+    {"name": "Jormuntide", "img": "https://static.wikia.nocookie.net/palworld/images/9/95/Jormuntide.png/revision/latest?cb=20240122183458"},
+    {"name": "Suzaku Aqua", "img": "https://static.wikia.nocookie.net/palworld/images/2/22/Suzaku_Aqua.png/revision/latest?cb=20240320131418"}
+  ]
+}
