@@ -1,0 +1,22 @@
+{
+  "items": [
+    {"name": "Pengullet", "img": "https://static.wikia.nocookie.net/palworld/images/b/b3/Pengullet.png/revision/latest?cb=20240223181545"},
+    {"name": "Penking", "img": "https://static.wikia.nocookie.net/palworld/images/5/5c/Penking.png/revision/latest?cb=20240123162544"},
+    {"name": "Jolthog Cryst", "img": "https://static.wikia.nocookie.net/palworld/images/d/dc/Jolthog_Cryst.png/revision/latest?cb=20240210111838"},
+    {"name": "Mau Cryst", "img": "https://static.wikia.nocookie.net/palworld/images/b/bf/Mau_Cryst.png/revision/latest?cb=20240122142108"},
+    {"name": "Hangyu Cryst", "img": "https://static.wikia.nocookie.net/palworld/images/d/df/Hangyu_Cryst.png/revision/latest?cb=20240207185718"},
+    {"name": "Swee", "img": "https://static.wikia.nocookie.net/palworld/images/7/73/Swee.png/revision/latest?cb=20240124000804"},
+    {"name": "Sweepa", "img": "https://static.wikia.nocookie.net/palworld/images/9/93/Sweepa.png/revision/latest?cb=20240124000541"},
+    {"name": "Chillet", "img": "https://static.wikia.nocookie.net/palworld/images/5/50/Chillet.png/revision/latest?cb=20240124000212"},
+    {"name": "Foxcicle", "img": "https://static.wikia.nocookie.net/palworld/images/7/7b/Foxcicle.png/revision/latest?cb=20240124103155"},
+    {"name": "Reindrix", "img": "https://static.wikia.nocookie.net/palworld/images/5/5f/Reindrix.png/revision/latest?cb=20240124103127"},
+    {"name": "Vanwyrm Cryst", "img": "https://static.wikia.nocookie.net/palworld/images/4/42/Vanwyrm_Cryst.png/revision/latest?cb=20240122185550"},
+    {"name": "Sibelyx", "img": "https://static.wikia.nocookie.net/palworld/images/c/cb/Sibelyx.png/revision/latest?cb=20240124101500"},
+    {"name": "Cryolinx", "img": "https://static.wikia.nocookie.net/palworld/images/8/89/Cryolinx.png/revision/latest?cb=20240124101403"},
+    {"name": "Reptyro Cryst", "img": "https://static.wikia.nocookie.net/palworld/images/5/57/Ice_Reptyro.png/revision/latest?cb=20240123060101"},
+    {"name": "Kingpaca Cryst", "img": "https://static.wikia.nocookie.net/palworld/images/b/bd/Ice_Kingpaca.png/revision/latest?cb=20240123063144"},
+    {"name": "Mammorest Cryst", "img": "https://static.wikia.nocookie.net/palworld/images/3/34/Mammorest_Cryst.png/revision/latest?cb=20240122190602"},
+    {"name": "Wumpo", "img": "https://static.wikia.nocookie.net/palworld/images/9/9b/Wumpo.png/revision/latest?cb=20240122183424"},
+    {"name": "Frostallion", "img": "https://static.wikia.nocookie.net/palworld/images/4/4f/Frostallion.png/revision/latest?cb=20240320133607"}
+  ]
+}
