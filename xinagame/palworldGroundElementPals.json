@@ -1,0 +1,17 @@
+{
+  "items": [
+    {"name": "Gumoss", "img": "https://static.wikia.nocookie.net/palworld/images/f/f3/Gumoss.png/revision/latest?cb=20240123165935"},
+    {"name": "Rushoar", "img": "https://static.wikia.nocookie.net/palworld/images/6/6d/Rushoar.png/revision/latest?cb=20240123170615"},
+    {"name": "Fuddler", "img": "https://static.wikia.nocookie.net/palworld/images/b/ba/Fuddler.png/revision/latest?cb=20240123175507"},
+    {"name": "Hangyu", "img": "https://static.wikia.nocookie.net/palworld/images/6/6c/Hangyu.png/revision/latest?cb=20240207185559"},
+    {"name": "Eikthyrdeer Terra", "img": "https://static.wikia.nocookie.net/palworld/images/a/ac/Eikthyrdeer_Terra.png/revision/latest?cb=20240122184647"},
+    {"name": "Dumud", "img": "https://static.wikia.nocookie.net/palworld/images/8/89/Dumud.png/revision/latest?cb=20240123180029"},
+    {"name": "Robinquill Terra", "img": "https://static.wikia.nocookie.net/palworld/images/4/42/Robinquill_Terra.png/revision/latest?cb=20240122185224"},
+    {"name": "Surfent Terra", "img": "https://static.wikia.nocookie.net/palworld/images/6/63/Surfent_Terra.png/revision/latest?cb=20240122182251"},
+    {"name": "Digtoise", "img": "https://static.wikia.nocookie.net/palworld/images/9/98/Digtoise.png/revision/latest?cb=20240124102412"},
+    {"name": "Reptyro", "img": "https://static.wikia.nocookie.net/palworld/images/e/e4/Reptyro.png/revision/latest?cb=20240123055942"},
+    {"name": "Warsect", "img": "https://static.wikia.nocookie.net/palworld/images/3/3a/Warsect.png/revision/latest?cb=20240124101144"},
+    {"name": "Menasting", "img": "https://static.wikia.nocookie.net/palworld/images/2/2e/Menasting.png/revision/latest?cb=20240201071541"},
+    {"name": "Anubis", "img": "https://static.wikia.nocookie.net/palworld/images/2/26/Anubis.png/revision/latest?cb=20240123194707"}
+  ]
+}
