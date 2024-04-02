@@ -1,0 +1,25 @@
+{
+  "items": [
+    {"name": "Lamball", "img": "https://static.wikia.nocookie.net/palworld/images/4/47/Lamball.png/revision/latest?cb=20240202133852"},
+    {"name": "Cattiva", "img": "https://static.wikia.nocookie.net/palworld/images/5/59/Cattiva.png/revision/latest?cb=20240123163546"},
+    {"name": "Chikipi", "img": "https://static.wikia.nocookie.net/palworld/images/e/e9/Chikipi.png/revision/latest?cb=20240123163515"},
+    {"name": "Vixy", "img": "https://static.wikia.nocookie.net/palworld/images/7/79/Vixy.png/revision/latest?cb=20240123170135"},
+    {"name": "Cremis", "img": "https://static.wikia.nocookie.net/palworld/images/9/96/Cremis.png/revision/latest?cb=20240123170416"},
+    {"name": "Direhowl", "img": "https://static.wikia.nocookie.net/palworld/images/1/14/Direhowl.png/revision/latest?cb=20240123181301"},
+    {"name": "Tocotoco", "img": "https://static.wikia.nocookie.net/palworld/images/d/d9/Tocotoco.png/revision/latest?cb=20240123181236"},
+    {"name": "Mozzarina", "img": "https://static.wikia.nocookie.net/palworld/images/9/9d/Mozzarina.png/revision/latest?cb=20240123181057"},
+    {"name": "Woolipop", "img": "https://static.wikia.nocookie.net/palworld/images/0/0f/Woolipop.png/revision/latest?cb=20240123181007"},
+    {"name": "Melpaca", "img": "https://static.wikia.nocookie.net/palworld/images/a/a0/Melpaca.png/revision/latest?cb=20240123180635"},
+    {"name": "Eikthyrdeer", "img": "https://static.wikia.nocookie.net/palworld/images/5/59/Eikthyrdeer.png/revision/latest?cb=20240122183848"},
+    {"name": "Nitewing", "img": "https://static.wikia.nocookie.net/palworld/images/b/bf/Nitewing.png/revision/latest?cb=20240123180604"},
+    {"name": "Ribbunny", "img": "https://static.wikia.nocookie.net/palworld/images/f/f1/Ribbuny.png/revision/latest?cb=20240123180541"},
+    {"name": "Galeclaw", "img": "https://static.wikia.nocookie.net/palworld/images/8/8a/Galeclaw.png/revision/latest?cb=20240123175720"},
+    {"name": "Gorirat", "img": "https://static.wikia.nocookie.net/palworld/images/8/8f/Gorirat.png/revision/latest?cb=20240124001220"},
+    {"name": "Grintale", "img": "https://static.wikia.nocookie.net/palworld/images/0/09/Grintale.png/revision/latest?cb=20240124000845"},
+    {"name": "Lunaris", "img": "https://static.wikia.nocookie.net/palworld/images/c/ce/Lunaris.png/revision/latest?cb=20240124102710"},
+    {"name": "Lovander", "img": "https://static.wikia.nocookie.net/palworld/images/a/af/Lovander.png/revision/latest?cb=20240125041214"},
+    {"name": "Kingpaca", "img": "https://static.wikia.nocookie.net/palworld/images/0/0d/Kingpaca.png/revision/latest?cb=20240122183201"},
+    {"name": "Fenglope", "img": "https://static.wikia.nocookie.net/palworld/images/3/31/Fenglope.png/revision/latest?cb=20240124101043"},
+    {"name": "Paladius", "img": "https://static.wikia.nocookie.net/palworld/images/b/b8/Paladius.png/revision/latest?cb=20240123200037"}
+  ]
+}
