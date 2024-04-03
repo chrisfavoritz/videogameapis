@@ -1,0 +1,19 @@
+{
+  "items": [
+    {"name": "Chillet", "img": "https://static.wikia.nocookie.net/palworld/images/5/50/Chillet.png/revision/latest?cb=20240124000212"},
+    {"name": "Dinossom", "img": "https://static.wikia.nocookie.net/palworld/images/9/99/Dinossom.png/revision/latest?cb=20240122181507"},
+    {"name": "Dinossum Lux", "img": "https://static.wikia.nocookie.net/palworld/images/b/b7/Dinossom_Lux.png/revision/latest?cb=20240122185435"},
+    {"name": "Elphidran", "img": "https://static.wikia.nocookie.net/palworld/images/3/34/Elphidran.png/revision/latest?cb=20240123121131"},
+    {"name": "Elphidran Aqua", "img": "https://static.wikia.nocookie.net/palworld/images/6/65/Elphidran_Aqua.png/revision/latest?cb=20240125042716"},
+    {"name": "Azurobe", "img": "https://static.wikia.nocookie.net/palworld/images/b/bc/Azurobe.png/revision/latest?cb=20240124101431"},
+    {"name": "Cryolinx", "img": "https://static.wikia.nocookie.net/palworld/images/8/89/Cryolinx.png/revision/latest?cb=20240124101403"},
+    {"name": "Relaxaurus", "img": "https://static.wikia.nocookie.net/palworld/images/0/0d/Relaxaurus.png/revision/latest?cb=20240122182945"},
+    {"name": "Relaxaurus Lux", "img": "https://static.wikia.nocookie.net/palworld/images/7/72/Relaxaurus_Lux.png/revision/latest?cb=20240122185752"},
+    {"name": "Quivern", "img": "https://static.wikia.nocookie.net/palworld/images/c/cc/Quivern.png/revision/latest?cb=20240322104453"},
+    {"name": "Astegon", "img": "https://static.wikia.nocookie.net/palworld/images/4/48/Astegon.png/revision/latest?cb=20240123195133"},
+    {"name": "Jormuntide", "img": "https://static.wikia.nocookie.net/palworld/images/9/95/Jormuntide.png/revision/latest?cb=20240122183458"},
+    {"name": "Jormuntide Ignis", "img": "https://static.wikia.nocookie.net/palworld/images/f/f8/Jormuntide_Ignis.png/revision/latest?cb=20240122190807"},
+    {"name": "Orserk", "img": "https://static.wikia.nocookie.net/palworld/images/1/14/Orserk.png/revision/latest?cb=20240124104213"},
+    {"name": "Jetragon", "img": "https://static.wikia.nocookie.net/palworld/images/f/fd/Jetragon.png/revision/latest?cb=20240123200132"}
+  ]
+}
