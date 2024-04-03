@@ -1,0 +1,15 @@
+{
+  "items": [
+    {"name": "Sparkit", "img": "https://static.wikia.nocookie.net/palworld/images/e/ee/Sparkit.png/revision/latest?cb=20240123163229"},
+    {"name": "Jolthog", "img": "https://static.wikia.nocookie.net/palworld/images/5/50/Jolthog.png/revision/latest?cb=20240210111817"},
+    {"name": "Mossanda Lux", "img": "https://static.wikia.nocookie.net/palworld/images/4/4b/Mossanda_Lux.png/revision/latest?cb=20240122170350"},
+    {"name": "Univolt", "img": "https://static.wikia.nocookie.net/palworld/images/2/25/Univolt.png/revision/latest?cb=20240124103319"},
+    {"name": "Rayhound", "img": "https://static.wikia.nocookie.net/palworld/images/2/26/Rayhound.png/revision/latest?cb=20240124103009"},
+    {"name": "Dazzi", "img": "https://static.wikia.nocookie.net/palworld/images/9/99/Dazzi.png/revision/latest?cb=20240124102802"},
+    {"name": "Dinossum Lux", "img": "https://static.wikia.nocookie.net/palworld/images/b/b7/Dinossom_Lux.png/revision/latest?cb=20240122185435"},
+    {"name": "Beakon", "img": "https://static.wikia.nocookie.net/palworld/images/6/67/Beakon.png/revision/latest?cb=20240124104253"},
+    {"name": "Relaxaurus Lux", "img": "https://static.wikia.nocookie.net/palworld/images/7/72/Relaxaurus_Lux.png/revision/latest?cb=20240122185752"},
+    {"name": "Grizzbolt", "img": "https://static.wikia.nocookie.net/palworld/images/d/dd/Grizzbolt.png/revision/latest?cb=20240123195342"},
+    {"name": "Orserk", "img": "https://static.wikia.nocookie.net/palworld/images/1/14/Orserk.png/revision/latest?cb=20240124104213"}
+  ]
+}
