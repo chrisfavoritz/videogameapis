@@ -1,0 +1,30 @@
+{
+  "items": [
+    {"name": "Hoocrates", "img": "https://static.wikia.nocookie.net/palworld/images/c/c5/Hoocrates.png/revision/latest?cb=20240123170255"},
+    {"name": "Depresso", "img": "https://static.wikia.nocookie.net/palworld/images/8/8b/Depresso.png/revision/latest?cb=20240123165847"},
+    {"name": "Daedream", "img": "https://static.wikia.nocookie.net/palworld/images/d/d7/Daedream.png/revision/latest?cb=20240123170458"},
+    {"name": "Nox", "img": "https://static.wikia.nocookie.net/palworld/images/2/2e/Nox.png/revision/latest?cb=20240123170533"},
+    {"name": "Killamari", "img": "https://static.wikia.nocookie.net/palworld/images/b/bf/Killamari.png/revision/latest?cb=20240123181512"},
+    {"name": "Mau", "img": "https://static.wikia.nocookie.net/palworld/images/2/21/Mau.png/revision/latest?cb=20240122143301"},
+    {"name": "Incineram", "img": "https://static.wikia.nocookie.net/palworld/images/b/b1/Incineram.png/revision/latest?cb=20240122183815"},
+    {"name": "Incineram Noct", "img": "https://static.wikia.nocookie.net/palworld/images/7/76/Incineram_Noct.png/revision/latest?cb=20240122185015"},
+    {"name": "Cawgnito", "img": "https://static.wikia.nocookie.net/palworld/images/d/d1/Cawgnito.png/revision/latest?cb=20240123175955"},
+    {"name": "Leezpunk", "img": "https://static.wikia.nocookie.net/palworld/images/4/4d/Leezpunk.png/revision/latest?cb=20240122183738"},
+    {"name": "Loupmoon", "img": "https://static.wikia.nocookie.net/palworld/images/f/f8/Loupmoon.png/revision/latest?cb=20240123175932"},
+    {"name": "Pyrin Noct", "img": "https://static.wikia.nocookie.net/palworld/images/7/72/Pyrin_Noct.png/revision/latest?cb=20240122185332"},
+    {"name": "Maraith", "img": "https://static.wikia.nocookie.net/palworld/images/7/7c/Maraith.png/revision/latest?cb=20240124102441"},
+    {"name": "Tombat", "img": "https://static.wikia.nocookie.net/palworld/images/1/17/Tombat.png/revision/latest?cb=20240124104318"},
+    {"name": "Vanwyrm", "img": "https://static.wikia.nocookie.net/palworld/images/8/89/Vanwyrm.png/revision/latest?cb=20240122182701"},
+    {"name": "Vanwyrm Cryst", "img": "https://static.wikia.nocookie.net/palworld/images/4/42/Vanwyrm_Cryst.png/revision/latest?cb=20240122185550"},
+    {"name": "Katress", "img": "https://static.wikia.nocookie.net/palworld/images/8/8d/Katress.png/revision/latest?cb=20240124102054"},
+    {"name": "Blazehowl Noct", "img": "https://static.wikia.nocookie.net/palworld/images/a/a2/Blazehowl_Noct.png/revision/latest?cb=20240122185623"},
+    {"name": "Felbat", "img": "https://static.wikia.nocookie.net/palworld/images/c/c7/Felbat.png/revision/latest?cb=20240123194642"},
+    {"name": "Helzephyr", "img": "https://static.wikia.nocookie.net/palworld/images/9/9d/Helzephyr.png/revision/latest?cb=20240124101016"},
+    {"name": "Astegon", "img": "https://static.wikia.nocookie.net/palworld/images/4/48/Astegon.png/revision/latest?cb=20240123195133"},
+    {"name": "Menasting", "img": "https://static.wikia.nocookie.net/palworld/images/2/2e/Menasting.png/revision/latest?cb=20240201071541"},
+    {"name": "Lyleen Noct", "img": "https://static.wikia.nocookie.net/palworld/images/a/a0/Lyleen_Noct.png/revision/latest?cb=20240122191031"},
+    {"name": "Shadowbeak", "img": "https://static.wikia.nocookie.net/palworld/images/1/16/Shadowbeak.png/revision/latest?cb=20240123195848"},
+    {"name": "Necromus", "img": "https://static.wikia.nocookie.net/palworld/images/2/20/Necromus.png/revision/latest?cb=20240123200106"},
+    {"name": "Frostallion Noct", "img": "https://static.wikia.nocookie.net/palworld/images/b/b7/Frostallion_Noct.png/revision/latest?cb=20240320133624"}
+  ]
+}
