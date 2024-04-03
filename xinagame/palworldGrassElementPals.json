@@ -1,0 +1,26 @@
+{
+  "items": [
+    {"name": "Lifmunk", "img": "https://static.wikia.nocookie.net/palworld/images/c/c4/Lifmunk.png/revision/latest?cb=20240123163444"},
+    {"name": "Tanzee", "img": "https://static.wikia.nocookie.net/palworld/images/3/34/Tanzee.png/revision/latest?cb=20240123163156"},
+    {"name": "Gumoss", "img": "https://static.wikia.nocookie.net/palworld/images/f/f3/Gumoss.png/revision/latest?cb=20240123165935"},
+    {"name": "Flopie", "img": "https://static.wikia.nocookie.net/palworld/images/f/f0/Flopie.png/revision/latest?cb=20240123181203"},
+    {"name": "Bristla", "img": "https://static.wikia.nocookie.net/palworld/images/4/40/Bristla.png/revision/latest?cb=20240123181033"},
+    {"name": "Mossanda", "img": "https://static.wikia.nocookie.net/palworld/images/b/b5/Mossanda.png/revision/latest?cb=20240122170308"},
+    {"name": "Caprity", "img": "https://static.wikia.nocookie.net/palworld/images/5/5f/Caprity.png/revision/latest?cb=20240123180701"},
+    {"name": "Cinnamoth", "img": "https://static.wikia.nocookie.net/palworld/images/c/cb/Cinnamoth.png/revision/latest?cb=20240123180518"},
+    {"name": "Robinquill", "img": "https://static.wikia.nocookie.net/palworld/images/1/13/Robinquill.png/revision/latest?cb=20240123063928"},
+    {"name": "Robinquill Terra", "img": "https://static.wikia.nocookie.net/palworld/images/4/42/Robinquill_Terra.png/revision/latest?cb=20240122185224"},
+    {"name": "Beegarde", "img": "https://static.wikia.nocookie.net/palworld/images/5/56/Beegarde.png/revision/latest?cb=20240124001139"},
+    {"name": "Elizabee", "img": "https://static.wikia.nocookie.net/palworld/images/6/6d/Elizabee.png/revision/latest?cb=20240124001045"},
+    {"name": "Dinossom", "img": "https://static.wikia.nocookie.net/palworld/images/9/99/Dinossom.png/revision/latest?cb=20240122181507"},
+    {"name": "Verdash", "img": "https://static.wikia.nocookie.net/palworld/images/c/c5/Verdash.png/revision/latest?cb=20240124101557"},
+    {"name": "Vaelet", "img": "https://static.wikia.nocookie.net/palworld/images/a/a0/Vaelet.png/revision/latest?cb=20240124101530"},
+    {"name": "Broncherry", "img": "https://static.wikia.nocookie.net/palworld/images/8/81/Broncherry.png/revision/latest?cb=20240122183038"},
+    {"name": "Broncherry Aqua", "img": "https://static.wikia.nocookie.net/palworld/images/1/18/Broncherry_Aqua.png/revision/latest?cb=20240122134248"},
+    {"name": "Petallia", "img": "https://static.wikia.nocookie.net/palworld/images/4/4e/Petallia.png/revision/latest?cb=20240124101336"},
+    {"name": "Mammorest", "img": "https://static.wikia.nocookie.net/palworld/images/2/26/Mammorest.png/revision/latest?cb=20240122183236"},
+    {"name": "Wumpo Botan", "img": "https://static.wikia.nocookie.net/palworld/images/a/a2/Wumpo_Botan.png/revision/latest?cb=20240122190707"},
+    {"name": "Warsect", "img": "https://static.wikia.nocookie.net/palworld/images/3/3a/Warsect.png/revision/latest?cb=20240124101144"},
+    {"name": "Lyleen", "img": "https://static.wikia.nocookie.net/palworld/images/2/2b/Lyleen.png/revision/latest?cb=20240122193916"}
+  ]
+}
