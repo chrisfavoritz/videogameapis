@@ -1,0 +1,27 @@
+{
+  "items": [
+    {"name": "Foxparks", "img": "https://static.wikia.nocookie.net/palworld/images/d/dd/Foxparks.png/revision/latest?cb=20240123163335"},
+    {"name": "Rooby", "img": "https://static.wikia.nocookie.net/palworld/images/e/e5/Rooby.png/revision/latest?cb=20240312071116"},
+    {"name": "Gobfin Ignis", "img": "https://static.wikia.nocookie.net/palworld/images/6/67/Gobfin_Ignis.png/revision/latest?cb=20240122145037"},
+    {"name": "Incineram", "img": "https://static.wikia.nocookie.net/palworld/images/b/b1/Incineram.png/revision/latest?cb=20240122183815"},
+    {"name": "Incineram Noct", "img": "https://static.wikia.nocookie.net/palworld/images/7/76/Incineram_Noct.png/revision/latest?cb=20240122185015"},
+    {"name": "Arsox", "img": "https://static.wikia.nocookie.net/palworld/images/a/a4/Arsox.png/revision/latest?cb=20240123180056"},
+    {"name": "Leezpunk Ignis", "img": "https://static.wikia.nocookie.net/palworld/images/b/ba/Leezpunk_Ignis.png/revision/latest?cb=20240122185128"},
+    {"name": "Pyrin", "img": "https://static.wikia.nocookie.net/palworld/images/a/ab/Pyrin.png/revision/latest?cb=20240123063856"},
+    {"name": "Pyrin Noct", "img": "https://static.wikia.nocookie.net/palworld/images/7/72/Pyrin_Noct.png/revision/latest?cb=20240122185332"},
+    {"name": "Flambelle", "img": "https://static.wikia.nocookie.net/palworld/images/1/19/Flambelle.png/revision/latest?cb=20240124101852"},
+    {"name": "Vanwyrm", "img": "https://static.wikia.nocookie.net/palworld/images/8/89/Vanwyrm.png/revision/latest?cb=20240122182701"},
+    {"name": "Bushi", "img": "https://static.wikia.nocookie.net/palworld/images/c/c0/Bushi.png/revision/latest?cb=20240124104338"},
+    {"name": "Ragnahawk", "img": "https://static.wikia.nocookie.net/palworld/images/c/c3/Ragnahawk.png/revision/latest?cb=20240124105350"},
+    {"name": "Wixen", "img": "https://static.wikia.nocookie.net/palworld/images/f/fd/Wixen.png/revision/latest?cb=20240124102218"},
+    {"name": "Verdash", "img": "https://static.wikia.nocookie.net/palworld/images/c/c5/Verdash.png/revision/latest?cb=20240124101557"},
+    {"name": "Kelpsea Ignis", "img": "https://static.wikia.nocookie.net/palworld/images/d/d7/Kelpsea_Ignis.png/revision/latest?cb=20240122182408"},
+    {"name": "Blazehowl", "img": "https://static.wikia.nocookie.net/palworld/images/6/6a/Blazehowl.png/revision/latest?cb=20240122182838"},
+    {"name": "Blazehowl Noct", "img": "https://static.wikia.nocookie.net/palworld/images/a/a2/Blazehowl_Noct.png/revision/latest?cb=20240122185623"},
+    {"name": "Reptyro", "img": "https://static.wikia.nocookie.net/palworld/images/e/e4/Reptyro.png/revision/latest?cb=20240123055942"},
+    {"name": "Blazamut", "img": "https://static.wikia.nocookie.net/palworld/images/0/00/Blazamut.png/revision/latest?cb=20240123194911"},
+    {"name": "Jormuntide Ignis", "img": "https://static.wikia.nocookie.net/palworld/images/f/f8/Jormuntide_Ignis.png/revision/latest?cb=20240122190807"},
+    {"name": "Suzaku", "img": "https://static.wikia.nocookie.net/palworld/images/1/1a/Suzaku.png/revision/latest?cb=20240320131342"},
+    {"name": "Faleris", "img": "https://static.wikia.nocookie.net/palworld/images/8/84/Faleris.png/revision/latest?cb=20240124100953"}
+  ]
+}
